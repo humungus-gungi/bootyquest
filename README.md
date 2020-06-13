@@ -32,6 +32,8 @@ Table of Contents
 Character info
 ============
 
+{:refdef: style="text-align: center;"}
+
 Kasgan Gone
 -----------
 
@@ -100,10 +102,16 @@ HWK290 - The Quest for Booty
 - just enough space to fit the Winnebego
 - Probably has some stats
 
+{: refdef}
+
+{:refdef: style="text-align: center;"}
+
 Session 1 - Escaping the Temple and leaving Jedha
 ====================================
 
 Destiny points: _6 dark_
+
+{: refdef}
 
 In the Guardian Temple
 --------------------------------
