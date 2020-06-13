@@ -104,10 +104,12 @@ HWK290 - The Quest for Booty
 
 {: refdef}
 
-{:refdef: style="text-align: center;"}
+
 
 Session 1 - Escaping the Temple and leaving Jedha
 ====================================
+
+{:refdef: style="text-align: center;"}
 
 Destiny points: _6 dark_
 
