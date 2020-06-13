@@ -99,7 +99,7 @@ Great protocol droid that has been brought to the ship with the crew in exchange
 
 #### GRONK
 
-<div style="text-align: center"><img src="imgs/gonk.png" /></div>
+<div style="text-align: center"><img src="imgs/gronk.png" /></div>
 
 Yep. There's GRONK.
 
