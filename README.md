@@ -93,13 +93,13 @@ Droids
 
 ### T4Z1 (Tazzi)
 
-<div style="text-align: center"><img src="imgs/tazzi.png" /></div>
+<div style="text-align: center"><img src="imgs/tazzi.png"/></div>
 
 Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
 
 #### GNK
 
-<div style="text-align: center"><img src="imgs/gronk.png" /></div>
+<div style="text-align: center"><img src="imgs/gnk.png"/></div>
 
 Yep. There's GNK.
 
@@ -109,7 +109,7 @@ Ships
 The Winnebego - In Space, Nobody Can Hear the Bargains
 --------------------------------------------------------------------------------
 
-<div style="text-align: center"><img src="imgs/winnebago.jpg" /></div>
+<div style="text-align: center"><img src="imgs/winnebago.jpg"/></div>
 
 - Civilian air speeder
 - Probably has some stats
@@ -117,8 +117,7 @@ The Winnebego - In Space, Nobody Can Hear the Bargains
 HWK290 - The Quest for Booty
 -------------------------------------------
 
-<div style="text-align: center"><img src="imgs/bootyquest.png" /></div>
-
+<div style="text-align: center"><img src="imgs/bootyquest.png"/></div>
 
 - no weaponry
 - not much passenger space
