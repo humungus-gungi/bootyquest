@@ -66,6 +66,8 @@ HWK290 - The Quest for Booty
 The Winnebego - In Space, Nobody Can Hear the Bargains
 --------------------------------------------------------------------------------
 
+![Winnebagooooo](imgs/winnebago.jpg)
+
 - Civilian air speeder
 - Probably has some stats 
 
