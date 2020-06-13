@@ -93,7 +93,7 @@ Droids
 
 ### T4Z1 (Tazzi)
 
-<div style="text-align: center"><img src="imgs/tazzi.jpg" width="50" height="50" /></div>
+<div style="text-align: center"><img src="imgs/tazzi.png" /></div>
 
 Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
 
@@ -109,7 +109,7 @@ Ships
 The Winnebego - In Space, Nobody Can Hear the Bargains
 --------------------------------------------------------------------------------
 
-<div style="text-align: center"><img src="imgs/winnebago.jpg" width="50" height="50" /></div>
+<div style="text-align: center"><img src="imgs/winnebago.jpg" /></div>
 
 - Civilian air speeder
 - Probably has some stats
