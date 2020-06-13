@@ -3,24 +3,27 @@ The Quest for Booty
 
 Formerly known as *Nerdy Folks Play Star Wars RPG*
 
-Table of contents
+Table of Contents
 =================
 
-<!--ts-->
-   * [Character info](#chars)
-   * [Ship info](#ships)
-   * [Session 1 - Escaping the Temple and leaving Jedha](#s1)
-      * [In the Guardian Temple](#temple)
-      * [The Shipyard](#shipyard)
-      * [On the ship](#ships1)
-      * [S1 Experience Points](#exps1)
-   * [Session 2 - Kessel and Digging Up Dirt on Oswald Flanigan](#s2)
-      * [On the ship](#ships2)
-      * [Kessel Trading Post](#kesseltradingpost)
-      * [Back on The Quest for Booty](#questforbootykessels2)
-      * [S2 Experience Points and Conflicts](#exps2)
-
-<!--te-->
+   * [The Quest for Booty](#the-quest-for-booty)
+   * [Table of contents](#table-of-contents)
+   * [Character info](#character-info)
+   * [Ship](#ship)
+      * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
+      * [The Winnebego - In Space, Nobody Can Hear the Bargains](#the-winnebego---in-space-nobody-can-hear-the-bargains)
+   * [Session 1 - Escaping the Temple and leaving Jedha](#session-1---escaping-the-temple-and-leaving-jedha)
+      * [In the Guardian Temple](#in-the-guardian-temple)
+      * [The Shipyard](#the-shipyard)
+      * [On the ship](#on-the-ship)
+      * [S1 Experience Points](#s1-experience-points)
+   * [Session 2 - Kessel and Digging Up Dirt on Oswald Flanigan](#session-2---kessel-and-digging-up-dirt-on-oswald-flanigan)
+      * [On the ship](#on-the-ship-1)
+      * [Kessel Trading Post](#kessel-trading-post)
+      * [Back on The Quest for Booty](#back-on-the-quest-for-booty)
+      * [S2 Experience Points and Conflicts](#s2-experience-points-and-conflicts)
+         * [XP](#xp)
+         * [Conflicts](#conflicts)
 
 
 Character info
