@@ -20,8 +20,6 @@ Table of Contents
       * [Kessel Trading Post](#kessel-trading-post)
       * [Back on The Quest for Booty](#back-on-the-quest-for-booty)
       * [S2 Experience Points and Conflicts](#s2-experience-points-and-conflicts)
-         * [XP](#xp)
-         * [Conflicts](#conflicts)
 
 
 Character info
