@@ -32,52 +32,74 @@ Table of Contents
 Character info
 ============
 
-{:refdef: style="text-align: center;"}
-
 Kasgan Gone
 -----------
 
-	+ Appearance: dark, gelatinous hair
-	+ Job: Guns I guess? Piloting on planets
-	+ Curious and exploration-keen
+<div style="text-align: center">   </div>
+
+**Appearance:** dark, gelatinous hair
+
+**Job**: Guns I guess? Piloting on planets
+
+Curious and exploration-keen
 
 Jarlo
 -----
 
-	+ Appearance: Tortugan male
-	+ Trader of many rare goldfish from distant lands
-	+ Known to seduce oil salespeople with his abs
+<div style="text-align: center">   </div>
+
+**Appearance:** Tortugan male
+
+**Job:** Trader of many rare goldfish from distant lands
+
+Known to seduce oil salespeople with his abs
 
 Ifa Kell
 --------
-	+ Appearance: Middle-aged, white-haired woman with a long walking stick (haha it's a weapon lolz)
-	+ Guardian of the Wills
-	+ Tasked with keeping the Archive safe by her cool friend Imwe
+
+<div style="text-align: center">   </div>
+
+**Appearance:** Middle-aged, white-haired woman with a long walking stick (haha it's a weapon lolz)
+
+**Job:** Guardian of the Wills
+
+Tasked with keeping the Archive safe by her cool friend Imwe
 
 Ohesha De
 ---------
 
-	+ Appearance: Tortugan female
-	+ Likes tinkering with things, has some background with criminal colleagues
-	+ Mechanic force sensitive who just happens to have a lightsabre...huh...
+<div style="text-align: center">   </div>
+
+**Appearance:** Tortugan female
+
+**Job:** Likes tinkering with things, has some background with criminal colleagues
+
+Mechanic force sensitive who just happens to have a lightsabre...huh...
 
 Gungi
 -----
-	+ Appearance: Wookie male, currently muddy
-	+ Padawan survivor of the Jedi purge, carries a wooden lightsabre
-	+ Brawly
+
+<div style="text-align: center">   </div>
+
+**Appearance:** Wookie male, currently muddy
+
+Padawan survivor of the Jedi purge, carries a wooden lightsabre
+
+Brawly
+
 
 Droids
 ------
 
 ### T4Z1 (Tazzi)
-![Tazzi](imgs/tazzi.png){:height="30%" width="30%"}
+
+<div style="text-align: center"><img src="img/tazzi.jpg" width="50" height="50" /></div>
 
 Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
 
 #### GRONK
 
-![GRONK](imgs/gronk.png){:height="50%" width="50%"}
+<div style="text-align: center"><img src="img/gonk.png" /></div>
 
 Yep. There's GRONK.
 
@@ -87,7 +109,7 @@ Ships
 The Winnebego - In Space, Nobody Can Hear the Bargains
 --------------------------------------------------------------------------------
 
-![Winnebagooooo](imgs/winnebago.jpg){:height="50%" width="50%"}
+<div style="text-align: center"><img src="img/winnebago.jpg" width="50" height="50" /></div>
 
 - Civilian air speeder
 - Probably has some stats
@@ -95,25 +117,20 @@ The Winnebego - In Space, Nobody Can Hear the Bargains
 HWK290 - The Quest for Booty
 -------------------------------------------
 
-![Quest for Booty](imgs/bootyquest.png)
+<div style="text-align: center"><img src="img/bootyquest.png" /></div>
+
 
 - no weaponry
 - not much passenger space
 - just enough space to fit the Winnebego
 - Probably has some stats
 
-{: refdef}
-
 
 
 Session 1 - Escaping the Temple and leaving Jedha
 ====================================
 
-{:refdef: style="text-align: center;"}
-
 Destiny points: _6 dark_
-
-{: refdef}
 
 In the Guardian Temple
 --------------------------------
