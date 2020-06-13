@@ -1,3 +1,4 @@
+
 The Quest for Booty
 =================
 
@@ -7,6 +8,12 @@ Table of Contents
 =================
 
    * [Character info](#character-info)
+     * [Kasgan Gone](#kasgan-gone)
+     * [Jarlo](#jarlo)
+     * [Ifa Kell](#ifa-kell)
+     * [Ohesha De](#ohesha-de)
+     * [Gungi](#gungi)
+     * [Droids](#droids)
    * [Ships](#ships)
       * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
       * [The Winnebego - In Space, Nobody Can Hear the Bargains](#the-winnebego---in-space-nobody-can-hear-the-bargains)
@@ -25,45 +32,55 @@ Table of Contents
 Character info
 ============
 
-- Kasgan Gone (abbr: *K*)
+Kasgan Gone
+-----------
+
 	+ Appearance: dark, gelatinous hair
 	+ Job: Guns I guess? Piloting on planets
 	+ Curious and exploration-keen
 
-- Jarlo (abbr: *J*)
+Jarlo
+-----
+
 	+ Appearance: Tortugan male
 	+ Trader of many rare goldfish from distant lands
 	+ Known to seduce oil salespeople with his abs
 
-- Ifa Kell (abbr: *I*)
+Ifa Kell
+--------
 	+ Appearance: Middle-aged, white-haired woman with a long walking stick (haha it's a weapon lolz)
 	+ Guardian of the Wills
 	+ Tasked with keeping the Archive safe by her cool friend Imwe
 
-- Ohesha De
+Ohesha De
+---------
+
 	+ Appearance: Tortugan female
 	+ Likes tinkering with things, has some background with criminal colleagues
 	+ Mechanic force sensitive who just happens to have a lightsabre...huh...
-	
-- Gungi
-	+ Appearance: Wookie male, currently muddy 
-	+ Padawan survivor of the Jedi purge, carries a wooden lightsabre 
-	+ Brawly 
-	
-- T4Z1 (Tazzi) - great protocol droid that has been brought to the ship with the crew in exchange for his freedom. 
 
-![Tazzi](imgs/tazzi.png){:height="50%" width="50%"}
+Gungi
+-----
+	+ Appearance: Wookie male, currently muddy
+	+ Padawan survivor of the Jedi purge, carries a wooden lightsabre
+	+ Brawly
+
+Droids
+------
+
+### T4Z1 (Tazzi)
+![Tazzi](imgs/tazzi.png){:height="30%" width="30%"}
+
+Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
+
+#### GRONK
+
+![GRONK](imgs/gronk.png){:height="50%" width="50%"}
+
+Yep. There's GRONK.
 
 Ships
 ====
-
-HWK290 - The Quest for Booty
--------------------------------------------
-
-- no weaponry
-- not much passenger space
-- just enough space to fit the Winnebego
-- Probably has some stats 
 
 The Winnebego - In Space, Nobody Can Hear the Bargains
 --------------------------------------------------------------------------------
@@ -71,7 +88,17 @@ The Winnebego - In Space, Nobody Can Hear the Bargains
 ![Winnebagooooo](imgs/winnebago.jpg){:height="50%" width="50%"}
 
 - Civilian air speeder
-- Probably has some stats 
+- Probably has some stats
+
+HWK290 - The Quest for Booty
+-------------------------------------------
+
+![Quest for Booty](imgs/bootyquest.png)
+
+- no weaponry
+- not much passenger space
+- just enough space to fit the Winnebego
+- Probably has some stats
 
 Session 1 - Escaping the Temple and leaving Jedha
 ====================================
@@ -83,16 +110,16 @@ In the Guardian Temple
 
 - Imwe recruits *Ifa Kell* (Guardians of the Whills)
 	+ Recommends use of pilgrims (other party members)
-	+ Holochron contains all their records --> journal of the wills, archives of the galaxy. Otherwise everything will be forgotten. All records are here - Empire wishes to destroy. 
-	
+	+ Holochron contains all their records --> journal of the wills, archives of the galaxy. Otherwise everything will be forgotten. All records are here - Empire wishes to destroy.
+
 - Checkpoint with 4 troopers, 2 sergeants (result of 1 dark destiny)
-	+ Jarlo and Ohesha decided to sneak through as merchants (force die roll to influence the checkpoint guards = 2 light side) to convince that he and Ohesha are going to a hotel on the other side of town. 
-		* Sergeant checks with radio 
+	+ Jarlo and Ohesha decided to sneak through as merchants (force die roll to influence the checkpoint guards = 2 light side) to convince that he and Ohesha are going to a hotel on the other side of town.
+		* Sergeant checks with radio
 	+ Ifa Kell can find a back alley (flip 1 light side) with Gungi and Kasgan
-		* They find themselves in the parking lot 
-		
-- Kasgan fired into a tent, startling troopers + sergeant to give J + O a chance to stop being bad at lying. 
-	+ Combat ensues. 
+		* They find themselves in the parking lot
+
+- Kasgan fired into a tent, startling troopers + sergeant to give J + O a chance to stop being bad at lying.
+	+ Combat ensues.
 	+ Escape with the Winnebego! (Jarlo's a civilian air speeder)
 
 The Shipyard
@@ -100,12 +127,12 @@ The Shipyard
 
 - Need to meet T4Z1 droid at the shipyard across the city
 	+ Meet the droid and make friends with him - he is now our protocol droid in the pursuit of **FREEDOM**
-	+ Did it. Ran into Inquisitor - successfully Force-held the ship, but Ifa, Kasgan, and Ohasha's mechanic-ing, they got away. 
+	+ Did it. Ran into Inquisitor - successfully Force-held the ship, but Ifa, Kasgan, and Ohasha's mechanic-ing, they got away.
 
 On the ship
 ----------------
 
-- Open the holocron: 
+- Open the holocron:
 	+ Inwe speaks first
 		* 3 leads on where to find the Ancient order:
 			- traveller told them a riddle maybe pro
@@ -113,7 +140,7 @@ On the ship
 			- ancient creature on a planet (coordinates provided, not an Imperial hot spot)
 				+ Apparently creature around longer than the Jedi, maybe know the way to the Ancient order of the wills
 			- Pilgrim passing through said that a freight captain (coordinates provided) boasted he was sending shipments to Force Shamans somewhere in the unknown regions beyond the Outer Rim
-			
+
 _End of session._
 
 S1 Experience Points
@@ -131,7 +158,7 @@ Destiny points: _6 light; 1 dark_
 On the ship
 -----------
 
-Tazzi is flying the ship through the maelstrom (some sort of nebula?) Tazzi says there are black holes  all over the place through the maelstrom. 
+Tazzi is flying the ship through the maelstrom (some sort of nebula?) Tazzi says there are black holes  all over the place through the maelstrom.
 
 On to Kessel to find our target, **Oswald Flanigan**:
 
@@ -148,20 +175,20 @@ Kessel Trading Post
 	- Ohesha presses a button, turns off the bot
 	- Team decided to remove restraining bolt and stash in the ship
 		+ Ohesha didn't succeed with bolt removal, so tracker disabled but the bolt is still on
-		
-- In the trading post: 
+
+- In the trading post:
 	+ Jarlo asks bartender about Flanigan:
 		* "No, hasn't been around for a while, can't say I know what happened"
-	
+
 - Twi'lek woman (Lyn Rowan) comes up selling spice oil
 	+ Jarlo approached with a very exciting business opportunity to be his own 'girl boss'
 	+ After some charm and discussion with Lyn, Jarlo learns:
 		- Flanigan's bounty has already been claimed,
 		- She asks for 45 credits for information/a sample of spice oil/to join her MLM community
-		- Jarlo convinces her that he will pay her in the future for her spice business endeavors. 
+		- Jarlo convinces her that he will pay her in the future for her spice business endeavors.
 	+ Lyn takes us to the bounty board, only one bounty there (for clearing rats)
 	+ Lyn now definitely believes we will join her distribution community
-	
+
 - The Story of Oswald, *by Lyn Rowan*
 	+ Boasting about magic shamans "getting high in the middle of nowhere", or something
 	+ Tall tale until the bounty hunters showed up - doesn't know who the bounty folks are (official but not Empire, don't know who set up the bounty)
@@ -172,18 +199,18 @@ Kessel Trading Post
 		* 	fee is 1000 credits to get positional data on our mark
 		* 	Oops he's the guy who owns the droid we disabled
 		* 	Jarlo coerced him to reduce the price to 700, continued to threaten down to no monies (but he doesn't want to see us around no mo)
-		*  Flanigan was taken to a slave processing facility/mine 1/4 of the planet away - plan is to fly The Quest for Booty, then take the Winnebego 
+		*  Flanigan was taken to a slave processing facility/mine 1/4 of the planet away - plan is to fly The Quest for Booty, then take the Winnebego
 		*  Likely owned by the Pike Syndicate, slave processing facility
 		* 	Paid 50 credits for a semi-dismantled slave shock collar for Gungi
-		
+
 Back on The Quest for Booty
 ------------------
 
 - Tazzi has awoken the Gonk droid, it's repeating "credits"
 - Ohesha broke open the parking droid - rolled 2 light side, 1000 credits inside
 	+ Ohesha split to the party, 200 each
-	+ Jarlo paid the 45 credits 
-	
+	+ Jarlo paid the 45 credits
+
 - Ifa rolled 6 advantages, 1 failure on Knowledge check on Pike Syndicate:
 	+ Spice is their deal
 	+ Slaves also likely there (probs Wookies)
@@ -199,7 +226,7 @@ Back on The Quest for Booty
 - Group discusses several plans to get into the mining/processing centre, including:
 	+ Pretend to be spice oil merchants, looking for some cheap spice byproduct for their chump market.
 	+ Gungi + Gonk exchanged for something (basically a way to sneak them in) to allow for Oswald-searching-out and potentially slave-escaping-opportunities
-	+ Also could pretend Gonk 
+	+ Also could pretend Gonk
 
 _End of session_
 
@@ -214,6 +241,5 @@ S2 Experience Points and Conflicts
 
 ### Conflicts
 - +3 conflict for everyone (stealing the parking meter droid and stealing its lunch money)
-- +2 conflict for intimidating Niles (tech shop guy) 
+- +2 conflict for intimidating Niles (tech shop guy)
 - +1 conflict for using the dark side in a Force Power check (Influence)
-
