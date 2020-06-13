@@ -7,7 +7,7 @@ Table of Contents
 =================
 
    * [Character info](#character-info)
-   * [Ship](#ship)
+   * [Ships](#ships)
       * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
       * [The Winnebego - In Space, Nobody Can Hear the Bargains](#the-winnebego---in-space-nobody-can-hear-the-bargains)
    * [Session 1 - Escaping the Temple and leaving Jedha](#session-1---escaping-the-temple-and-leaving-jedha)
@@ -52,7 +52,7 @@ Character info
 	
 - T4Z1 (Tazzi) - great protocol droid that has been brought to the ship with the crew in exchange for his freedom. 
 
-Ship
+Ships
 ====
 
 HWK290 - The Quest for Booty
