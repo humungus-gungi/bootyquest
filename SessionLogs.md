@@ -52,6 +52,8 @@ Character info
 	
 - T4Z1 (Tazzi) - great protocol droid that has been brought to the ship with the crew in exchange for his freedom. 
 
+![Tazzi](imgs/tazzi.png){:height="50%" width="50%"}
+
 Ships
 ====
 
@@ -66,7 +68,7 @@ HWK290 - The Quest for Booty
 The Winnebego - In Space, Nobody Can Hear the Bargains
 --------------------------------------------------------------------------------
 
-![Winnebagooooo](imgs/winnebago.jpg)
+![Winnebagooooo](imgs/winnebago.jpg){:height="50%" width="50%"}
 
 - Civilian air speeder
 - Probably has some stats 
