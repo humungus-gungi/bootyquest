@@ -97,11 +97,11 @@ Droids
 
 Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
 
-#### GRONK
+#### GNK
 
 <div style="text-align: center"><img src="imgs/gronk.png" /></div>
 
-Yep. There's GRONK.
+Yep. There's GNK.
 
 Ships
 ====
