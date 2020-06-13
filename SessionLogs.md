@@ -6,8 +6,6 @@ Formerly known as *Nerdy Folks Play Star Wars RPG*
 Table of Contents
 =================
 
-   * [The Quest for Booty](#the-quest-for-booty)
-   * [Table of contents](#table-of-contents)
    * [Character info](#character-info)
    * [Ship](#ship)
       * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
