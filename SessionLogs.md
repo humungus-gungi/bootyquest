@@ -18,7 +18,7 @@ Table of contents
       * [On the ship](#ships2)
       * [Kessel Trading Post](#kesseltradingpost)
       * [Back on The Quest for Booty](#questforbootykessels2)
-       *[S2 Experience Points and Conflicts](#exps2)
+      * [S2 Experience Points and Conflicts](#exps2)
 
 <!--te-->
 
