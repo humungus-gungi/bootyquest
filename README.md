@@ -112,7 +112,7 @@ The Winnebego - In Space, Nobody Can Hear the Bargains
 <div style="text-align: center"><img src="imgs/winnebago.jpg"/></div>
 
 - Civilian air speeder
-- Probably has some stats
+- <a href="https://swsheets.com/v/3fjtyxlct-in-space--nobod" target="_blank">Has some stats here!</a>
 
 HWK290 - The Quest for Booty
 -------------------------------------------
@@ -269,3 +269,5 @@ S2 Experience Points and Conflicts
 - +3 conflict for everyone (stealing the parking meter droid and stealing its lunch money)
 - +2 conflict for intimidating Niles (tech shop guy)
 - +1 conflict for using the dark side in a Force Power check (Influence)
+
+<!-- Mairin sucks -->
