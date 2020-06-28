@@ -17,7 +17,7 @@ Table of Contents
       * [Gungi](#gungi)
       * [Droids](#droids)
          * [T4Z1 (Tazzi)](#t4z1-tazzi)
-            * [GNK](#gnk)
+         * [GNK](#gnk)
    * [Ships](#ships)
       * [The Winnebego - In Space, Nobody Can Hear the Bargains](#the-winnebego---in-space-nobody-can-hear-the-bargains)
       * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
@@ -180,7 +180,7 @@ On the ship
 
 _End of session._
 
-S1 Experience Points
+Session 1 Experience Points
 ---------
 
 - 20 XP for everyone
@@ -263,11 +263,11 @@ Back on The Quest for Booty
 - Group discusses several plans to get into the mining/processing centre, including:
 	+ Pretend to be spice oil merchants, looking for some cheap spice byproduct for their chump market.
 	+ Gungi + Gonk exchanged for something (basically a way to sneak them in) to allow for Oswald-searching-out and potentially slave-escaping-opportunities
-	+ Also could pretend Gonk
+	+ Also could pretend Gonk needs repairing.
 
-_End of session_
+_To be decided next time! End of session_
 
-S2 Experience Points and Conflicts
+Session 2 Experience Points and Conflicts
 ---------
 
 ### XP
@@ -281,7 +281,7 @@ S2 Experience Points and Conflicts
 - +2 conflict for intimidating Niles (tech shop guy)
 - +1 conflict for using the dark side in a Force Power check (Influence)
 
-Session 3 - Kessel Pt. 2
+Session 3 - Operation: Kessel Emancipation
 ======================
 
 Destiny points: _6 light, 3 dark_
@@ -430,9 +430,33 @@ Time to fight - _sound the alarm!_
 
 - Retcon that Gungi definitely remembered to get the family charm held by Administrator Fen - belongs to Tekkuk's family
 
-- Next session: talk with Oswald
+_Next session: Ask Oswald about things!_
 
+Session 3 Experience Points and Conflicts
+---------
 
----
+### XP
 
-+1 conflict to Kazgan for Misdirect 
+**Everyone**: +15 Experience for the successful rescue of Oswald Flannigan
+**Everyone**: +10 Experience for the rescue of 45 wookie slaves
+
+- Gungi: +5 experience for great roleplay
+- Gungi: +5 experience for a difficult character moment in sparing Chief Vennik
+
+- Kazgan: +5 Experience for taking the initiative and great roleplay
+- Kazgan: +5 Experience for single-handedly killing Administrator Fen
+
+- Ohesha: +5 Experience for very creative problem solving with your lightsaber
+- Ohesha: +5 Experience for inventive uses for destiny points with the turrets and computer terminal
+
+- Ifa: +5 Experience for great descriptions of your characters actions and emotional state, I loved the part where you described how the suffering around you caused such a significant effect
+
+- Jarlo: +5 Experience for roleplay and for commiting to your character's method of problem solving. Rather than shooting the enemies, you continued to stick to your ability to persuade, inspire, and deceive
+
+### Conflicts
+
+Remember, it's normal to gather some conflict in a session. Don't let it be a huge disincentive. You are still more likely to end up positive unless you steal, torture, etc
+
+- Kazgan: +1 conflict for combat being your first option
+- Kazgan: +1 conflict for using the dark side to power your misdirect
+- Gungi: +3 conflicting for maiming Chief Vennik
