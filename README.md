@@ -7,16 +7,20 @@ Formerly known as *Nerdy Folks Play Star Wars RPG*
 Table of Contents
 =================
 
+   * [The Quest for Booty](#the-quest-for-booty)
+   * [Table of Contents](#table-of-contents)
    * [Character info](#character-info)
-     * [Kasgan Gone](#kasgan-gone)
-     * [Jarlo](#jarlo)
-     * [Ifa Kell](#ifa-kell)
-     * [Ohesha De](#ohesha-de)
-     * [Gungi](#gungi)
-     * [Droids](#droids)
+      * [Kasgan Gone](#kasgan-gone)
+      * [Jarlo](#jarlo)
+      * [Ifa Kell](#ifa-kell)
+      * [Ohesha De](#ohesha-de)
+      * [Gungi](#gungi)
+      * [Droids](#droids)
+         * [T4Z1 (Tazzi)](#t4z1-tazzi)
+            * [GNK](#gnk)
    * [Ships](#ships)
-      * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
       * [The Winnebego - In Space, Nobody Can Hear the Bargains](#the-winnebego---in-space-nobody-can-hear-the-bargains)
+      * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
    * [Session 1 - Escaping the Temple and leaving Jedha](#session-1---escaping-the-temple-and-leaving-jedha)
       * [In the Guardian Temple](#in-the-guardian-temple)
       * [The Shipyard](#the-shipyard)
@@ -27,6 +31,13 @@ Table of Contents
       * [Kessel Trading Post](#kessel-trading-post)
       * [Back on The Quest for Booty](#back-on-the-quest-for-booty)
       * [S2 Experience Points and Conflicts](#s2-experience-points-and-conflicts)
+         * [XP](#xp)
+         * [Conflicts](#conflicts)
+   * [Session 3 - Kessel Pt. 2](#session-3---kessel-pt-2)
+      * [On the ship and meeting the guards](#on-the-ship-and-meeting-the-guards)
+      * [Conference with Administrator Fen](#conference-with-administrator-fen)
+      * ["They called it a mine...A MINE!"](#they-called-it-a-minea-mine)
+      * [Time to fight - <em>sound the alarm!</em>](#time-to-fight---sound-the-alarm)
 
 
 Character info
@@ -269,3 +280,159 @@ S2 Experience Points and Conflicts
 - +3 conflict for everyone (stealing the parking meter droid and stealing its lunch money)
 - +2 conflict for intimidating Niles (tech shop guy)
 - +1 conflict for using the dark side in a Force Power check (Influence)
+
+Session 3 - Kessel Pt. 2
+======================
+
+Destiny points: _6 light, 3 dark_
+
+On the ship and meeting the guards
+-----------
+
+Hatch a plan:
+
+- Jarlo posing as a barterer with an old lady (helped by Wookie) - looking to make a deal for spice oil, a byproduct
+	+ Gungi posing as assistant slave to Ifa
+	+ Kazgan staying behind with the ship, pretending to be a pilot
+	
+- Pike syndicate guards waiting at the entrance
+	+ Jarlo tries to convince them that we're just merchants, independents
+	+ Guards call on the administrator
+	
+- Administrator Fen comes after a few moments
+	+ It takes guts to come out unannounced
+	+ Jarlo smooth talks him - trying to get them into the deal of selling oil to suckers
+	+ Rolled charm with advantage
+
+- After some discussion, including talk of disciplining Gungi the slave
+	+ Jarlo, Kasgan, and Ohesha go with Administrator Fen
+	+ Ifa and Gungi and Gonk to go through the mine and to discuss discipline.
+	
+Conference with Administrator Fen
+-----------
+
+- 60% of spice profits to go to the Pike Syndicate
+- After some discussion, Fen leaves the room
+- 1 light side point used to ensure that an interface is present
+- Kazgan using Misdirect to hide Ohesha hacking in from a guard
+	+ Rolled 1 dark side point, used anyway for +1 conflict
+	+ Ohesha does get into a computer terminal, but **it is encrypted** (1 dark side point used)
+	+ Ohesha failed, 2 failures
+	
+- Meanwhile, Jarlo made conversation with the guard - succeeded in making somewhat friends
+	+ Asks if they can take a stroll around the compound - the guard responds that it's his job to stay here, he might lose his job
+	+ Make your stay more...palatable? 
+	+ Kazgan name-drops "Oswald", guard recognizes the name
+	+ Jarlo talked about their smuggling history, Kazgan fessed up saying "We wanted to shoot him"
+	+ This sets up an absolutely amazing discussion about them shooting Oswald in the mines
+	+ "Wouldn't it be fun to watch these guys shoot Oswald?" etc.
+
+
+"They called it a mine...A MINE!"
+-----------
+
+- Take a trip down into the mines 
+	+ Going to a refining machine 
+	+ Big old Trandoshan (Chief Venek) being an asshat in from of the machine
+	
+- Pikes and Trandoshans are working on the machine
+	+ Gungi wants to look at the machine for weaknesses, but failed real hard
+	+ Will incur one black die if I try to do anything to disable the machine
+	
+- Takes Gungi and Ifa down into the mines
+	+ 6 in this specific area
+	+ Wookies are emaciated, all equipped with shock collars, chained up
+	+ With Ifa and Gungi are Venek, two guards
+
+- Gungi and Tukkuk meet - female wookie, high-level and healthy slave 
+	+ Speaks privately with Gungi:
+	+ In the mine: 60 wookies altogether; ~1 guard for every 5 wookies
+
+- Ifa communicates with Kasgan after going to the surface with Venek
+	+ No sign of Oswald
+
+- Fen came back - seems to be open to Oswald being killed by the team
+	+ Real mad at Oswald for stealing spice and coming back talking about crazy spice force wizards
+	
+- Plotting on how to transport wookies:
+	+ Are there other ships 
+
+- When the wookies hear the bang, it's time to start fighting
+	+ They seem pretty keen to get out of here - great
+	+ They have a proddy electric stick for mining
+
+- 3 administrator folks (Ohesha, Kazgan, Jarlo)
+	+ Go to a nice open air messing area
+	+ Soldiers bring up Oswald
+	+ Looking rough, mechanical hand borked
+	+ Jarlo asks him menacingly, "Do you know how to fight?"
+	+ Meanwhile, Kazgan sneaks to the emergency button, as Ohesha sneaks into the admin building as the alarm blares and blast shields begin to fall
+	+ Kazgan takes a pot shot at Administrator Fen - got a critical
+	
+<div style="text-align: center"><img src="imgs/oswald.png"/></div>
+
+- Wookies and Ifa
+	+ Ifa nearby, Gungi is going to the nearest group of guards and starts aggro-ing as a distraction
+	
+	
+Time to fight - _sound the alarm!_
+-----------
+
+> Roll initiative!
+
+- Ifa - Medium range to Chief+machine, fires light bow at the machinery - machinery blows, chief caught in the detonation (engulfed in colourful flame) due to blast, chief on the ground looking up at Ifa. 
+
+- Gungi - M range to Chief+machine, moves up to stab with lightsabre after "500 CREDITS"
+	+ Strikes Chief, 4 success, 2 threats - instead of killing him, chops off his arms, legs, and tail while he yells "You're all animals!"
+
+- Jarlo, Oswald, Kazgan, Ohesha
+	+ Jarlo first: shouts "Oh no! The empire is attacking!", uses Force Persuasion to put bad thoughts ??? 
+		* Sees Admiral Fen contact the Empire for help
+	+ Kazgan runs into short range, shoots 4s3a - kills Administrator Fen
+	+ Ohesha hacks into a computer to send a conflicting message to the Empire, to confuse and slow them
+	
+- NPC turn
+	+ Oswald runs into the Winnebego with Jarlo's gun (maybe a bit nervous)
+	+ Caves: 2 soldiers who witnessed the explosion and Gungi's mutilation of Venek, put down their weapons - 6 wookies come out after killing their own guards  (will act on Gungi's turn)
+	+ *Meanwhile, on the Courtyard:* 
+	+ 13 soldiers in the courtyard, just saw their boss killed. For the record, they are "Mooks"
+	+ Group of 4 near their boss (group of 5 maybe) are going after Kazgan, take cover and start shooting. 
+
+	+ Caves: 
+		* Gungi runs to the next group of guards/wookies with his Wookie squad of 6 - successfully intimidates guard who was using shock collars on the Wookie cohort. Guard wants to run  at next opportunity
+		* Ifa runs is and smacks the remote out of his hand, and Gungi gets it. The guard becomes a hostage, the 6 wookie corps becomes 11 wookies
+	
+	+ Landing area:
+		* Kazgan has 5 guys shooting at him, tries to demoralize them (only 1 advantage, uses it to yell at Jarlo to get his blaster and shoot - +1 blue die to his next shot)
+		* (Flips a light side point): there are turret guns around the mine.
+		* Ohesha shoots at a group of NPCs: 6 success, 1 threat - they dead.
+		
+- Oswald takes two shots, and drops two of them right away. 
+	+ NPCs shoot at Ohesha, destroy the computer she's working
+	
+- Caves:
+	+ Ifa and Gungi use manacles to tie up the hostage
+	+ Deeper into the mines following the sound of wookies and blaster fire - they find 2 guards and 4 wookies
+	+ Gungi: attempts intimidate and does so, so bad (1 advantage, 1 failure) - advantage emboldens the wookies being guarded by the 2 
+	+ Ifa: intimidate (4 success, 4 advantages) - very quietly walks over, takes their weapons, takes away their zappers and heel-grinds them, switches the chains over to the guards
+
+> I will let you hug a wookie as a free action
+
+- Landing crowd:
+	+ Ohesha goes first: pulls out her lightsaber to deceive the guards into surrender, big success! They both drop their guns after believing she's a Guardian of the Whills. Asks them how to open the doors - one offers to do it for you. 
+	+ Zakgan shoots at a group of 4 running into the mines, they'll redirect now to the upper folks
+	+ Jarlo tries to convince the remaining folks into giving up, given the damage and deaths that have already occurred (2s, 2a): they all buy it!
+	
+- Everyone on the upper layer can successfully escape
+- 55 wookies survived, we get them in after Tazi arrives. 
+
+- We planned our way around surprises, and the ship is crammed full of wookie refugees AND OSWALD!! 
+
+- Retcon that Gungi definitely remembered to get the family charm held by Administrator Fen - belongs to Tekkuk's family
+
+- Next session: talk with Oswald
+
+
+---
+
++1 conflict to Kazgan for Misdirect 
