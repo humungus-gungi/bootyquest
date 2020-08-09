@@ -460,3 +460,5 @@ Remember, it's normal to gather some conflict in a session. Don't let it be a hu
 - Kazgan: +1 conflict for combat being your first option
 - Kazgan: +1 conflict for using the dark side to power your misdirect
 - Gungi: +3 conflicting for maiming Chief Vennik
+
+<!-- Mairin didn't mention that JARLO SAVED THE DAY!!! -->
