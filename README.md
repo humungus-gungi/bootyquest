@@ -135,6 +135,9 @@ HWK290 - The Quest for Booty
 - just enough space to fit the Winnebego
 - Probably has some stats
 
+- STATS:s
+	+ Freighter MWK-290
+
 
 
 Session 1 - Escaping the Temple and leaving Jedha
@@ -294,11 +297,11 @@ Hatch a plan:
 - Jarlo posing as a barterer with an old lady (helped by Wookie) - looking to make a deal for spice oil, a byproduct
 	+ Gungi posing as assistant slave to Ifa
 	+ Kazgan staying behind with the ship, pretending to be a pilot
-	
+
 - Pike syndicate guards waiting at the entrance
 	+ Jarlo tries to convince them that we're just merchants, independents
 	+ Guards call on the administrator
-	
+
 - Administrator Fen comes after a few moments
 	+ It takes guts to come out unannounced
 	+ Jarlo smooth talks him - trying to get them into the deal of selling oil to suckers
@@ -307,7 +310,7 @@ Hatch a plan:
 - After some discussion, including talk of disciplining Gungi the slave
 	+ Jarlo, Kasgan, and Ohesha go with Administrator Fen
 	+ Ifa and Gungi and Gonk to go through the mine and to discuss discipline.
-	
+
 Conference with Administrator Fen
 -----------
 
@@ -318,10 +321,10 @@ Conference with Administrator Fen
 	+ Rolled 1 dark side point, used anyway for +1 conflict
 	+ Ohesha does get into a computer terminal, but **it is encrypted** (1 dark side point used)
 	+ Ohesha failed, 2 failures
-	
+
 - Meanwhile, Jarlo made conversation with the guard - succeeded in making somewhat friends
 	+ Asks if they can take a stroll around the compound - the guard responds that it's his job to stay here, he might lose his job
-	+ Make your stay more...palatable? 
+	+ Make your stay more...palatable?
 	+ Kazgan name-drops "Oswald", guard recognizes the name
 	+ Jarlo talked about their smuggling history, Kazgan fessed up saying "We wanted to shoot him"
 	+ This sets up an absolutely amazing discussion about them shooting Oswald in the mines
@@ -331,20 +334,20 @@ Conference with Administrator Fen
 "They called it a mine...A MINE!"
 -----------
 
-- Take a trip down into the mines 
-	+ Going to a refining machine 
+- Take a trip down into the mines
+	+ Going to a refining machine
 	+ Big old Trandoshan (Chief Venek) being an asshat in from of the machine
-	
+
 - Pikes and Trandoshans are working on the machine
 	+ Gungi wants to look at the machine for weaknesses, but failed real hard
 	+ Will incur one black die if I try to do anything to disable the machine
-	
+
 - Takes Gungi and Ifa down into the mines
 	+ 6 in this specific area
 	+ Wookies are emaciated, all equipped with shock collars, chained up
 	+ With Ifa and Gungi are Venek, two guards
 
-- Gungi and Tukkuk meet - female wookie, high-level and healthy slave 
+- Gungi and Tukkuk meet - female wookie, high-level and healthy slave
 	+ Speaks privately with Gungi:
 	+ In the mine: 60 wookies altogether; ~1 guard for every 5 wookies
 
@@ -353,9 +356,9 @@ Conference with Administrator Fen
 
 - Fen came back - seems to be open to Oswald being killed by the team
 	+ Real mad at Oswald for stealing spice and coming back talking about crazy spice force wizards
-	
+
 - Plotting on how to transport wookies:
-	+ Are there other ships 
+	+ Are there other ships
 
 - When the wookies hear the bang, it's time to start fighting
 	+ They seem pretty keen to get out of here - great
@@ -368,65 +371,65 @@ Conference with Administrator Fen
 	+ Jarlo asks him menacingly, "Do you know how to fight?"
 	+ Meanwhile, Kazgan sneaks to the emergency button, as Ohesha sneaks into the admin building as the alarm blares and blast shields begin to fall
 	+ Kazgan takes a pot shot at Administrator Fen - got a critical
-	
+
 <div style="text-align: center"><img src="imgs/oswald.png"/></div>
 
 - Wookies and Ifa
 	+ Ifa nearby, Gungi is going to the nearest group of guards and starts aggro-ing as a distraction
-	
-	
+
+
 Time to fight - _sound the alarm!_
 -----------
 
 > Roll initiative!
 
-- Ifa - Medium range to Chief+machine, fires light bow at the machinery - machinery blows, chief caught in the detonation (engulfed in colourful flame) due to blast, chief on the ground looking up at Ifa. 
+- Ifa - Medium range to Chief+machine, fires light bow at the machinery - machinery blows, chief caught in the detonation (engulfed in colourful flame) due to blast, chief on the ground looking up at Ifa.
 
 - Gungi - M range to Chief+machine, moves up to stab with lightsabre after "500 CREDITS"
 	+ Strikes Chief, 4 success, 2 threats - instead of killing him, chops off his arms, legs, and tail while he yells "You're all animals!"
 
 - Jarlo, Oswald, Kazgan, Ohesha
-	+ Jarlo first: shouts "Oh no! The empire is attacking!", uses Force Persuasion to put bad thoughts ??? 
+	+ Jarlo first: shouts "Oh no! The empire is attacking!", uses Force Persuasion to put bad thoughts ???
 		* Sees Admiral Fen contact the Empire for help
 	+ Kazgan runs into short range, shoots 4s3a - kills Administrator Fen
 	+ Ohesha hacks into a computer to send a conflicting message to the Empire, to confuse and slow them
-	
+
 - NPC turn
 	+ Oswald runs into the Winnebego with Jarlo's gun (maybe a bit nervous)
 	+ Caves: 2 soldiers who witnessed the explosion and Gungi's mutilation of Venek, put down their weapons - 6 wookies come out after killing their own guards  (will act on Gungi's turn)
-	+ *Meanwhile, on the Courtyard:* 
+	+ *Meanwhile, on the Courtyard:*
 	+ 13 soldiers in the courtyard, just saw their boss killed. For the record, they are "Mooks"
-	+ Group of 4 near their boss (group of 5 maybe) are going after Kazgan, take cover and start shooting. 
+	+ Group of 4 near their boss (group of 5 maybe) are going after Kazgan, take cover and start shooting.
 
-	+ Caves: 
+	+ Caves:
 		* Gungi runs to the next group of guards/wookies with his Wookie squad of 6 - successfully intimidates guard who was using shock collars on the Wookie cohort. Guard wants to run  at next opportunity
 		* Ifa runs is and smacks the remote out of his hand, and Gungi gets it. The guard becomes a hostage, the 6 wookie corps becomes 11 wookies
-	
+
 	+ Landing area:
 		* Kazgan has 5 guys shooting at him, tries to demoralize them (only 1 advantage, uses it to yell at Jarlo to get his blaster and shoot - +1 blue die to his next shot)
 		* (Flips a light side point): there are turret guns around the mine.
 		* Ohesha shoots at a group of NPCs: 6 success, 1 threat - they dead.
-		
-- Oswald takes two shots, and drops two of them right away. 
+
+- Oswald takes two shots, and drops two of them right away.
 	+ NPCs shoot at Ohesha, destroy the computer she's working
-	
+
 - Caves:
 	+ Ifa and Gungi use manacles to tie up the hostage
 	+ Deeper into the mines following the sound of wookies and blaster fire - they find 2 guards and 4 wookies
-	+ Gungi: attempts intimidate and does so, so bad (1 advantage, 1 failure) - advantage emboldens the wookies being guarded by the 2 
+	+ Gungi: attempts intimidate and does so, so bad (1 advantage, 1 failure) - advantage emboldens the wookies being guarded by the 2
 	+ Ifa: intimidate (4 success, 4 advantages) - very quietly walks over, takes their weapons, takes away their zappers and heel-grinds them, switches the chains over to the guards
 
 > I will let you hug a wookie as a free action
 
 - Landing crowd:
-	+ Ohesha goes first: pulls out her lightsaber to deceive the guards into surrender, big success! They both drop their guns after believing she's a Guardian of the Whills. Asks them how to open the doors - one offers to do it for you. 
+	+ Ohesha goes first: pulls out her lightsaber to deceive the guards into surrender, big success! They both drop their guns after believing she's a Guardian of the Whills. Asks them how to open the doors - one offers to do it for you.
 	+ Zakgan shoots at a group of 4 running into the mines, they'll redirect now to the upper folks
 	+ Jarlo tries to convince the remaining folks into giving up, given the damage and deaths that have already occurred (2s, 2a): they all buy it!
-	
-- Everyone on the upper layer can successfully escape
-- 55 wookies survived, we get them in after Tazi arrives. 
 
-- We planned our way around surprises, and the ship is crammed full of wookie refugees AND OSWALD!! 
+- Everyone on the upper layer can successfully escape
+- 55 wookies survived, we get them in after Tazi arrives.
+
+- We planned our way around surprises, and the ship is crammed full of wookie refugees AND OSWALD!!
 
 - Retcon that Gungi definitely remembered to get the family charm held by Administrator Fen - belongs to Tekkuk's family
 
@@ -460,3 +463,279 @@ Remember, it's normal to gather some conflict in a session. Don't let it be a hu
 - Kazgan: +1 conflict for combat being your first option
 - Kazgan: +1 conflict for using the dark side to power your misdirect
 - Gungi: +3 conflicting for maiming Chief Vennik
+
+Session 4: Trippy Space Wizards?
+=================
+
+_aka. The Soul of All Things_
+
+__7 light, 2 dark_
+
+- All of the ship is full of Wookies, so any skill checks on the ship with the Wookies +1 black die
+
+- As Booty Quest is leaving, the Maw is there and it sucks
+	+ The Maw is a very tight area with beacons that show the path - the Empire has heard about the slave riot, and a Star Destroyer is there
+	+ Communicators on the ship start beeping from the destroyer, the Wookies are starting to freak out
+	+ Gungi does a cool check with Jarlo's help, (1S, 2ADV) - they quiet down (S), relax slightly (A), and Jarlo's talk on the com will be easier
+
+- The ship shouldn't raise any red flags on its own
+	+ The Star Destroyer stops them, asks them to power down and await inspection
+	+ Jarlo to chat with them about how this is a waste of time
+	+ Flips a light side point that there was no life-form scanning in this universe
+	+ These attempts fail - we all accept the Maw as our saviour
+
+- On entering the Maw, Tukkuk and Ohesha get ready to fix up the ship
+	+ Dark side point: bolt of energy hits the hull, damages it.
+	+ Ohesha repairs this
+	+ Tentacle monster appears - Jarlo connected mentally to the creature and left it with feelings of good will
+
+- Voice speaks to all players, none of the non-players - it speaks to your mind, but not through the ears
+	+ Leads to a space station with a docking port, neither thought-projection nor using the coms garners any response
+	+ The ship is landed, and Ohesha can fix the ship's strain without rolls
+	+ Raw materials and a lot of time needed to fix the wounds on the ship (may be able to salvage stuff from the station)
+
+- There is no one on the landing dock, but the station seems empty. A single door leaves the landing bay into the rest of the station
+	+ Kasgan leaves through an open door - the hallway is empty, but there are beautiful painted murals all along the halls
+	+ All except Gungi (stays with the Wookies) go down the hall
+
+- Hallway murals
+	+ The murals show 3 people, and old man, a young woman (maybe with a monkey or an owl on her shoulder?), and a younger man
+	+  Ifa doesn't know a lot about the painting - her experience in the temple on Jedha saw lots of pilgrims, one of whom had an illuminated hologram made with golden pixels showing these three figures
+	+ This is what some call the **Celestials** or **Architects** - ancient gods of the force
+	+ The two younger ones battle each other and are commonly featured
+
+- As the hallways continue, they find a sitting area with a single woman inside
+	+ She welcomes them all to Centrepoint Station
+	+ Jarlo went right up to her and asked a lot of questions
+	+ "I have most recently been called the mother", of whom? She touches the mural of the three.
+	+ Almost as old as the universe
+	+ Ifa: "Were your children the light and the darkness?" - their nature, but not their origin
+	+ Gungi arrives after getting a text from Ohesa - "I crossed the line, I no longer served my purpose"
+	+ "Was once the servant of my children and the father. Over time I became the mother. I kept the balance, but I was like you once. Young, idealistic, mortal, but I crossed a line."
+	+ Not immortality - "I drank from the fount of power and the pool of knowledge, and now I must be punished".
+	+
+
++2 conflict Ifa for reading the Maw creature using the dark side
+
+Session 5: Oops Force Mother called
+=================
+
+- Force mother waits for the group to follow her to meet a student
+- Jarlo: What did you do with the ships that brought students here?
+- Force Mother doesn't remember
+- Ohesha: How long have they been here? - Some a long time
+- "After they learned what I had to teach, they all decided to stay."
+- Lisal is the student we will meet - "be calm, what you see may be concerning for you, but trust me: this is okay"
+
+- Lisal's room
+	+ Automatic door opens up
+	+ Clearly someone lived here, but didn't much with them
+	+ At the end of the room is a meditation chair - a cloaked female skeleton is in the chair, there is some flesh but it seems extremely old, odd that there is flesh
+	+ Mother is standing by the door and gestures inwards
+	+ everyone enters, the Mother requests that someone let her borrow their power
+	+ Jarlo and Kasgan take 3 points of strain after volunteering (-1 light side point)
+
+- Wakes up, says to Mother "Abaloth, Mother, why have you brought me back?"
+- "You have been under for a long time, my faithful servant. I wish you to share with these."
+- "Is this...this body is so restrictive," scratches her hand
+- Gungi: "Were you beyond?"
+	+ "Beyond is accurate..."
+- Ohesha: "Dead do you mean?"
+- Lisal: "How long have I been?"
+- Mother: "About fifty lifetimes"
+- L: "Is that all?"
+- Abyssal beings are we, far more than this crude matter. Spirits extend further than you can imagine, entangled with the Force. All will find themselves [this way] before too long. But without control, substance, what makes you you. We can reach the realm where lost souls mingle, we can live free of physical limitations. We are called Beyond Shadows."
+- The Mother's names: "Abaloth, one of my many names."
+
+Questions:
+
+Is this what you want for the universe? Exerting our will on the Force? Greedily grasping the threads of mortality that the Force only lends us?
+
+Jarlo: What have you been doing?
+L: I have been exploring the depths of my mind, of the universe, I was seeing how far the Force can go.
+Mother: I've mostly been here.
+M: Students help me in exchange for knowledge.
+L: While I have been exploring beyond shadows, I've been able to feed Abaloth some of my connection to the Force. It is only through the power the students give her that she is able to find more students.
+L has trouble getting up. Gungi helps her stand up. G: What has this knowledge given you?
+L: No power, gained much power in the mortal realm - understanding of the universe.
+Ifa: Has any of this knowledge helped others?
+L: Yes, but not the way you think it should.
+L: Mother sought power, and those that wanted to stop her imprisoned her. She's not a perfect being, but she is better than what we have and what history shows: this galaxy has been in constant states of war, and that can end.
+Ifa: What if we can end it in a way that doesn't involve subjegation and slavery to the mother.
+L: Every generation has said they can accomplish this: why is yours different? I just don't believe that you five can change it.
+
+Kasgan goes to open the door across the room:
+
+- In the room: another skeleton, similar to Lisal (at a meditation chair), sparse and differently
+
+The party splits.
+
+**Team Mother (Ifa, Gungi)**
+
+Gungi: asks Mother "What do intend to do with the other crew members" - warns Tazi that they're coming over and to message Gungi if anything awry occurs.
+
+Gungi and Ifa look around the Room of Murals - in each of the four rooms, there is a meditating body.
+One room is a massive skeleton with 4 arms, southern room: priest looking person with a very decadent room (prayer), these rooms are much older than Lisals. In the NE room, there are 6 meditators in a prayer circle.
+
+15 learners in the entire area.
+
+**Team Lisal (Jarlo, Kasgan, Ohesha)**
+
+- Wizard Patton Oswald (actually known as Oswald Flannigan)
+- Jarlo messages Oswald, suggesting that the spice oil drugs that he really likes with his space wizardry stuff is in this case. If he wants to, he should sell it to her.
+- Ohesha gets into the computer logs and finds out that the station is one of many - it is Central Point Station, and the series of stations create black holes. These black holes may control Mother.
+	+ Killigs were the creator species - they imprisoned her here. We could try to steal information from them about how the space station works.
+	+ Ohesha and Jarlo make a plan to tell Lisal and the Mother that they will seek out the other space stations.
+
+- Tazi reports that Oswald has upset the Mother and she has him pinned against a wall
+	+ Gungi and Kasgan run over to check it out
+	+ Oswald's up in the air, 15 feet up, looking real upset.
+	+ Gungi runs up, intimidates real good
+	+ The Mother begins combat
+
+- **Roll initiative**
+	+ Kasgan first:
+		* 3s 2a to her face, it flies through her and bounces off of the ship
+		* OOPS IT'S NOT HER REAL BODY HAHA
+		* You don't need a network of stations to hold a humanoid body in place - her body is an other-dimensional being
+	+ As Mother laughs, her mouth rips into her face and her teeth grow; laughs with her jaw open
+	+ Mother's turn:
+		* She steals power from Gungi, he fails a save and takes 6 strain
+	+ Ohesha's turn:
+		* Mechanics check (3 success!! 5 difficulty) allows her to understand the systems of the station and turn up the intensity of the station
+		* The station whirrs into action, creaking and running the coil hot
+		* Mother screeches, a dark side point filps, and the drain on Gungi is weaker
+	+ Lasal's turn:
+		* Grabs Ohesha's arm, inflicts wound by using Force harm
+	+ Ifa's turn:
+		* Information about the station isn't available in the murals
+	+ NPC turn:
+		* Tazi runs through the Mother, pass through her body
+		* T'kook tells Wookies not to do anything
+		* Oswald is recovering from his fall, his leg was hurt from falling 15'
+	+ Gungi:
+		* Uses second wind to regain 2 strain
+		* Successful lightsabre with ebb and flow (but had 2 dark side points)
+			- +1 conflict to Gungi
+			- The lightsabre cuts through her, but with more impact - her form sears and reattaches itself from the lightsabre tearing through; she was already yelling in anguish, from the black hole generator, but will say "hypocrite"
+			- Until end of the next turn, she will take a threat die on each check
+	+ Jarlo
+		* Use manoever to aim at Lasal and fire with the blaster
+
+- New round
+	+ Ohesha
+		* Turn up for what? Mother pain.
+		* Successfully turns it up, Mother screams and her corporeal form disappears
+	 	 * The shaking intensifies: there are visible arcs shooting out of the power conduit, roaring from the station intensifies
+	 	 * It appears to just be warming up - we're all sweating.
+	 + Mother's turn
+		 * A 4-armed creature comes out of one of the room of murals - right in front of Ohesha
+	 + Jarlo
+		 * Runs out into the hall away from Lisal
+	 + Lisal
+		 * Does not get very far, just up to where Jarlo is
+	+ Ifa
+		* Shoots long bow at spider guy - good damage! Mother's host body is opened up in the chest
+	+ Kasgan
+		* Moves to medium range for a better shot
+		* Blasts'em right in the head blamo dead-times
+	+ NPCs look to Gungi:
+		* Gungi tells them to file into the ship 
+	+ Gungi
+		* Uses 2 movements to get into the room with 6 people
+	+ Kasgan:
+		* Shoots Lisal - she is just barely up, but still up
+	+ Mother does something unclear
+	+ Jarlo
+		* Tries shooting Lisal
+		* Misses. Oops.
+	+ Lisal
+		* Summons "zombies" from the other rooms
+	+ Ifa and Gungi run to the ship for their turns
+	+ Three zombies appear from the rooms, including one that successfully tackles Jarlo before he can leave
+	+ Kasgan:
+		* Shoots the arm off of the zombie, seems easier to break free now
+	+ Mother's turn - flips a dark side point, and ... oops
+	+ Gungi runs in and fails to lightsabre a zombie
+	+ Ohesha
+		* Flips a light side point to have a control panel controlling the doors in the space station
+	+ Ifa
+		* Uses lightbow - misses the zombie that Gungi's grappling with and jams the door to the southeast (she missed but rolled a triumph)
+	+ Zombie turn
+		* Jarlo gets bit - _oh no_
+			- 7-soak damage
+		* Gungi gets rushed by the 4-armed zombie
+			- All damage soaked
+		* Witch zombie reaches out, dealing 4 wound that ignores soak to Gungi
+- Next round
+	+ Kasgan
+		* Shoots the Zombie tackling Jarlo, roasts it
+		* Zombie falls off and lands in front of Lisal
+		* Wants to use Misdirect on Lisal to be unable to perceive someone
+	+ Mother - flips a dark side point, _something happens spoooky_
+		* The room with six folks does start getting all scratchy scratchy. Danger, Will Robinson!
+	+ Jarlo
+		* Runs next to Kasgan, wants to shoot at Lisal
+		* Shoots at Lisal (+3 blue dice from allies) but MISSES GAH
+	+ Lisal
+		* Starts to ressurrect the downed zombie
+	+ Gungi
+		* Hits the four-armed zombies with lighsabre, does a lot of damage (8, negate 1 damage) but it isn't downed yet
+	+ Ifa
+		* Gets out curtosis staff, moves to whack the healer zombie
+		* Gives encouragement to Gungi, +1 blue die
+	+ Ohesha
+		* Goes back into the room, rolls mechanics - 1 success and 1 adv.
+		* Closes one door
+	+ Zombie turn
+		* The door Ohesha just opened thuds as a zombie tries to get through it
+		* Ifa has distracted the zombie, takes 4 damage (ignoring soak) as the healer uses soak on her
+		* Gungi takes 1 wound
+	+ Kazgan
+		* Move to close range on the 4-armed guy and takes a shot
+		* 4 success, 3 advantages - that guy's real gone
+		* Moves near the door to the ship
+	+ Mother's turn
+		* Does...SOMETHING
+	+ Jarlo
+		* Runs! RUNS to the next room
+	+ Lisal
+		* Finishes healing the zombie
+	+ Gungi
+		* Slashes through the healer with a nine damage lighsabre attack
+
+Blast off! Sprint to the outside.
+
+**Where the maw is intensifying massively - we successfully get out because Tazi is great and Kazgan needs to leave.**
+
+Ship's in very rough shape.
+
+Remember your strain and wounds from last time.
+
+Don't forget to roll your cool strain adjustment thing
+
+Session 6: Maw Maw Maw Maw
+=================
+
+- Mairin's bad at notes, so here's the short run down:
+	+ Mother proved that she can control folks at a distance and took over the minds of first one, then two, then one additional for a total of 4 Wookies mind controlled (Gungi disabled two of them, with three of them active at a time maximum)
+	+ The Wookies were fought off mainly by Ifa and Gungi, sometimes aided by Jarlo and T'kok
+	+ Meanwhile, Kazgan the masterpilot was doing a great job, and didn't even fire his guns over his shoulders but **definitely wanted to a whole lot**
+	+ Jarlo used his abs and influence to convince the Wookies that fighting other Wookies is okay under the right circumstances
+	+ Ohesha was all "oooh mechanics and astrogation", lots of **screaming** between the two stations
+	+ Oops also Tazzi's arms got ripped off by the controlled Wookie right at the beginning
+
+- Imperials showed up oh no!
+	+ Recognized the ship as fugitives
+	+ Were all "Yo board us I guess" to Jarlo, "Let us arrest you!"
+	+ The Booty Crew said "No way!" and scooted off out of there, blamo hyperdrive activated, getting out of Dodge
+
+- Also Oswald was there. And the Gonk droid I guess. He didn't say anything except "Dread...500 credits..."
+
+Session 6b: The Afterparty
+=================
+
+- a few days of hyperspace travel
+	+ HEAL UP - cumulative damage from slave riot, the Mother ship, and the wacky space battle from session 6
+
+-
