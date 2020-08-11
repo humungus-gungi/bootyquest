@@ -737,5 +737,51 @@ Session 6b: The Afterparty
 
 - a few days of hyperspace travel
 	+ HEAL UP - cumulative damage from slave riot, the Mother ship, and the wacky space battle from session 6
+	
+- Oswald and the crew have a chat
+	+ Oswald was captured by the Pikes because he "borrowed" some spice to give to the Spice Wizards
+	+ Gave flowers - taken away ages ago 
+	+ Tracker guy: can follow someone from Bluetooth, for example
 
--
+> Spicy force wizards
+
+- Ohesha scans Oswald for a search
+	+ A small chip in the ear (short range, ~2 inches) indicating a serial number (presumably slave #)
+	+ Measures the Wookies as well, they all have a serial number - nothing else
+
+- Jarlo: tell us more about the shamans
+	+ Got a message out of the blue - request for additional spice
+	+ Live on a life-filled planet, very nice - had things ready for him before he got there
+	+ Giant mushrooms
+	+ Had flowers prepared - blue and black flower
+	+ Oswald was going to trade the drugs - apparently had special properties - figured it'd sell for a lot
+	+ Flowers might have special properties if he ate them, but he didn't get the chance
+	+ Was kidnapped by the Pike syndicate
+		* Was about to leave the trading post on Kessel to talk to some of the contacts to figure out what the deal was with these flowers, was arrested outside of the trading post
+	+ Jarlo: are you well travelled? 
+	+ Oswald: has been around - had own ship, was confiscated by the pikes. 
+	
+- Oswald has contacts on Naboo, Ohesha wants to drop him off
+	+ Naboo is solidly under empire control 
+	+ Ifa: Did the force wizards speak with you, or just take spice?
+	+ Oswald: They referred to me as Sentient, not much conversation
+	+  Ifa: what did the Wizards look like - one was really tall, twice his height. Had a weird horn thing. Was nice, had smaller guys, knee high near him. Said everything will come together in time. 
+	
+- On the trip over, Ifa studies the holocron - the history goes back ~4000 years before present
+	+ Ifa has two things she's curious about: how she fits into the history - showed up as a child, wondering if she's going to figure into the history
+	+ Ifa finds history of those that drop her off - while she's searching, mentions of those subjegated by the empire; one section about the collapse of the Wookie civilization - Gungi reads over, including long records of  many, many species subjegated 
+
+- Gungi learns about Wookie culture from the ship guests, borrows a data pad to record the stories of the Wookies
+	+ Jarlo and Gungi also suss out if any of them want to come along with the group
+
+_Several days pass, the ship comes out of hyperspace at a beautiful green and brown planet_.
+
+- The planet is not in the holocron
+
+- The planet is surrounded by a cloud that seems to be coming from the planet, forms rings around it
+	+ Jarlo opens the coms, nobody answers
+	+ Is Force coming off of the planet? Ifa says *yes*. We all notice this place is strong with the force. 
+	
+- We land on the planet - it looks like James Cameron's Avatar; Stellaris background
+	+ Ifa and Ohesha are like, "Woah, this planet is the best place I've ever been"
+	
