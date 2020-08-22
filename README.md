@@ -72,7 +72,7 @@ Ifa Kell
 
 **Appearance:** Middle-aged, white-haired woman with a long walking stick (haha it's a weapon lolz)
 
-**Job:** Guardian of the Wills
+**Job:** Guardian of the Whills
 
 Tasked with keeping the Archive safe by her cool friend Imwe
 
@@ -150,7 +150,7 @@ In the Guardian Temple
 
 - Imwe recruits *Ifa Kell* (Guardians of the Whills)
 	+ Recommends use of pilgrims (other party members)
-	+ Holochron contains all their records --> journal of the wills, archives of the galaxy. Otherwise everything will be forgotten. All records are here - Empire wishes to destroy.
+	+ Holochron contains all their records --> journal of the Whills, archives of the galaxy. Otherwise everything will be forgotten. All records are here - Empire wishes to destroy.
 
 - Checkpoint with 4 troopers, 2 sergeants (result of 1 dark destiny)
 	+ Jarlo and Ohesha decided to sneak through as merchants (force die roll to influence the checkpoint guards = 2 light side) to convince that he and Ohesha are going to a hotel on the other side of town.
@@ -178,7 +178,7 @@ On the ship
 			- traveller told them a riddle maybe pro
 				+ *the sun rises over the witches' tomb, and the last star from the citadel is your guiding light*
 			- ancient creature on a planet (coordinates provided, not an Imperial hot spot)
-				+ Apparently creature around longer than the Jedi, maybe know the way to the Ancient order of the wills
+				+ Apparently creature around longer than the Jedi, maybe know the way to the Ancient order of the Whills
 			- Pilgrim passing through said that a freight captain (coordinates provided) boasted he was sending shipments to Force Shamans somewhere in the unknown regions beyond the Outer Rim
 
 _End of session._
@@ -841,6 +841,12 @@ We hike into the Hall of Echos. We get on an elevator. It takes us to a room wit
 
 The journal is a very very large room. It has some stairs, and a lot of 6-pointed pillars. The pilars have notches them with suggested writing. When we touch the pillars, we get visions of the events logged in the journal. When we walk through the pillar'd hallways to the glowing rooms, we end up in the blue world.
 
-The blue world room has weird alien creatures in it! But they ignore us. It has distinct columns, and interesting paintings - including the celestials. There's a new painting being made, recording things they see in the notches of the column. There's a prophetic column which stresses touchers, but give visions of good jedis or murdered children. 
+The blue world room has weird alien creatures in it! But they ignore us. It has distinct columns, and interesting paintings - including the celestials. There's a new painting being made, recording things they see in the notches of the column. There's a prophetic column which stresses touchers, but give visions of good jedis or murdered children. We meet a human force-ghost who talks us through some of the paintings.
 
+Oh no! One of the paintings shows us that the Mother is being surrounded by the Empire's armada. 
 
+We learn from a helpful force ghost that there are three people who may know how to kill a celestial being - one's in the Empire, one is in the Rebelion, and one's on Tatooine. Gungi learns that the one in the rebellion is Ashoka, and that she's on a planet where spiders walk on coral mesas. 
+
+Ifa has a vision about how to defeat the Mother. All she learns is that there's a long time of darkness with a massive toothy Motherly presence. 
+
+The human force teaches us all some of the skills from the Whills. AND THEN IT TURNS OUT HE WAS QUI GON!!!
