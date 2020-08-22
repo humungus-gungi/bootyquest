@@ -123,7 +123,7 @@ The Winnebego - In Space, Nobody Can Hear the Bargains
 <div style="text-align: center"><img src="imgs/winnebago.jpg"/></div>
 
 - Civilian air speeder
-- Probably has some stats
+- <a href="https://swsheets.com/v/3fjtyxlct-in-space--nobod" target="_blank">Has some stats here!</a>
 
 HWK290 - The Quest for Booty
 -------------------------------------------
@@ -784,4 +784,63 @@ _Several days pass, the ship comes out of hyperspace at a beautiful green and br
 	
 - We land on the planet - it looks like James Cameron's Avatar; Stellaris background
 	+ Ifa and Ohesha are like, "Woah, this planet is the best place I've ever been"
-	
+
+---------
+
+## XP
+Part 1 - The Kessel Run
+- 15 xp for everyone for the discovery of the Celestial Bonus Adventure
+- 5 xp for everyone for surviving the trip through the maelstrom
+
+- 5xp for Cailey for keeping the ship running
+- 5xp for Lisa & Taylor for creative use of force powers in deterring a giant alien squid
+
+Part 2 - Centerpoint Station
+- 10 xp for everyone for surviving the Mother's Wrath
+- 5 xp for everyone for excellent roleplay
+
+- +5 xp for Jamie, Lisa, and Mairin for saving everyone with amazing combat skillz
+- +5 xp for Cailey for creative problem solving by turning up Centerpoint station... and for giving me so much plot ammunition >:D
+- +1xp for Taylor for not dying. You have a real hard go buddy
+
+Part 3 - Kessel Run Redux
+- +15 xp for everyone for surviving the new and improved maelstrom
+- +5 xp for everyone because everyone was engaged and excitable and I liked playing in person
+
+- +5xp for Jamie for taking the initiative in flying the ship to safety
+- +5xp for Mairin for taking down three wookies with non-lethal strikes. Way to be a badass and stay true to character
+
+## Conflict
+- Everyone: +3 conflict while you consider the possible ramifications of your actions with the mother and the maelstrom
+- Cailey: +2 conflict, what negative consequences will turning up Centerpoint station cause?
+- Jamie: +1 conflict for your enthusiasm to torch all the unconscious baddies before you knew their nature (even if you were right)
+
+Session 7: Fungusworld
+=================
+
+We start with star destroyer. It's in the maelstrom. It's in rough shape. It's fighting with a space squid!! And oh no, there's an inquisitor on board with the admiral!!!
+
+The inquisitor seems to hear something in the maelstrom. This something seems upset, and seems to want to meet the empire ship.
+
+Meanwhile back on the bootyquest, we've landed on the planet with spice wizards. The group hangs out for a little while, and meet some sentient Fuungli! They're mushroom folk. They're cute! They want to bring us to other humanoids! 
+
+While we travel with the Fuungli, we learn that the Fuungli are part of Hango. Hango is "All and One". Eventually, we're stopped by Lexlin one of the Spice Wizards. They ask for knowledge, so we tell them all about the benefits of free markets! Then we go to a dark mushroom cove for a feast.
+
+We learn about things from Lexlin
+ - The Hangoids are leaving their homes as a consequence of helping our group
+ - Somehow, the Hangoids expect that our actions will help them too
+ - The wookies onboard the ship are likely to help the Hangoids in what they're doing later
+
+Looks like the wookies are staying here!
+
+Ifa gathers through foresight that Hango is Hang-ry for knowledge!
+
+Lexlin brings us through the jungle to Hango. Hango will be hanging out here while the Empire hunts huts, but the rest of the Hangoids need to leave, to avoid leading the Empire to the Journal. Hango big. Hango old! Hango guards the journal of the will!!!
+
+We hike into the Hall of Echos. We get on an elevator. It takes us to a room with a large robot. When the robot awakes, it accepts the holocron. It also records our life stories. It's happy with all that knowledge! And we get to enter the journal. 
+
+The journal is a very very large room. It has some stairs, and a lot of 6-pointed pillars. The pilars have notches them with suggested writing. When we touch the pillars, we get visions of the events logged in the journal. When we walk through the pillar'd hallways to the glowing rooms, we end up in the blue world.
+
+The blue world room has weird alien creatures in it! But they ignore us. It has distinct columns, and interesting paintings - including the celestials. There's a new painting being made, recording things they see in the notches of the column. There's a prophetic column which stresses touchers, but give visions of good jedis or murdered children. 
+
+
