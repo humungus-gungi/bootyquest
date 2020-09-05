@@ -70,6 +70,8 @@ Ifa Kell
 
 <div style="text-align: center">   </div>
 
+<div style="text-align: center"><img src="imgs/ifa.jpg"/></div>
+
 **Appearance:** Middle-aged, white-haired woman with a long walking stick (haha it's a weapon lolz)
 
 **Job:** Guardian of the Wills
