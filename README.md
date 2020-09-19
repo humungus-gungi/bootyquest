@@ -974,4 +974,76 @@ Session 9: Racing Dudes
 
 ## SLOTS SLOTS SLOTS SLOTS! SLOTS SLOTS!!! SLOTS!!!! SLOTS!!!!!
 
-The party has made a total of 9240 credits from selling flowers! And we're in a casino!
+The party has made a total of 9240 credits from selling flowers! And we're in a casino! We've convinced all the bookies that Kasgan is an aweful pilot. On his first race, we secure 15:1 odds against him winning. Kasgan puts in all his money - 2550! Gungi bets 2000 credits! Oasha bets 1000! Ifa and Jarlo aren't betting. Lance (and Hronkin the Hutt) are probably amused by all this.
+
+## Pre-race
+
+The party gets brought to the show floor, with a support station. Oasha's on tech and astrogation, Jarlo and others are on moral support.
+
+Let's meet the other pilots!
+#### Vin, the blue guy. He's suuuper friendly!!
+Very excited to meet Kasgan. He's worried that other racers will straight up murder you! Crazy! ME? I JUST GOTTA GO FAST!
+
+#### Other racers!
+They don't care about Kasgan. Some duck billed guy thinks Kasgan's arrogant, and also thinks Kasgan'n'll'be murdered. One points out that race payouts are 100k credits! Too bad Hronkin the Hutt owns those winnings.
+
+## Race mechanics:
+
+#### Course
+
+ - Every turn, you're going through a corner.
+ - Each corner has a recommended speed. At that recommended speed, making the corner is difficulty 2.
+ - A tick of speed above recommended adds a difficulty. 
+ - Accumulated speed puts you ahead of the competition.
+ - Guns point forward at the competition.
+ - Shots get harder with more forward distance. 
+
+#### Ship stats
+
+ - Max speed = 5
+ - Handling adds a blue to pilot checks
+ - HP, max strain = 10
+ - Armor = 3
+ - Gun deals 7 damage + success
+ 
+## RACE! RACE RACE!
+
+Gentlealiens, start your engines!! Fireworks!
+
+#### Round 1
+
+Kasgan punches it, and Gains The Advantage! Speed immediately 5. Takes 5 stress. He gets a lot of advantages, and prevents two racers from punching it. 
+At the first gate, he's level with the green humanoid lady, with a lead on everyone else!
+
+*Meanwhlie, back at the stage*
+There's an *Assassin*. Only Ifa notices them, but notices them with a **triumph!!** The triumph dictates that the assassin is an injurred pike. Lance notices them immediately, and immediately disarms him using stun knuckles. The assassin is upset about Kessel being eaten, for some reason.
+
+#### Round 2
+
+Oasha successfully finds the recommended speed for the next two rings
+Kasgan makes two evasive maneuvers! Stays at 5 speed. Difficulty +2 for any incoming fire.
+He takes incoming fire, and takes 3 damage!
+He stays ahead of three competitors, but green humanoid lady pulls *slightly* ahead. Oh boy!
+
+*Meanwhlie, back at the stage*
+
+Jarlo makes a compelling speach about how the Empire are the real baddies behind Kessel's destruction. Big deceit. Also uses F- to make the crowd upset at the Empire. 3/4's of the crowd are convinced!
+
+Assassin is super arrested.
+
+Other party members roll vigilance. Ifa gets a triumph! Ifa mutters into the crowd that the Empire is bad, and turns more people into the anti-empire crowd.
+
+#### Round 3
+
+Oasha reduces system strain on the ship. Gets a stupid roll. Ship strain down to zero, woo! Also adds a single top speed for one round, and adds three blue dice. 
+Kasgan takes two evasive maneuvers. Difficulty +2 for incoming fire. Stays at 5 speed. 
+Successfully makes it through the gate!!
+Kessel lady catches up, and green humanoid pulls ahead by one!
+Rodian guy shoots at sonic, and scores some hits. Ohno!
+
+#### Round 4
+
+Oasha plots a course, and gets the ideal speed for the next two rings. She notices that there is a radio dark zone behind the big asteroid.
+
+Kasgan decelerates to 4 speed, and takes aim at green humanoid lady. She's skilled and being evasive, and oh no, Kasgan misses! On his piloting roll, he gets three successes. He's in second place, right behind Green Humanoid Lady! Kessel lady hits Green Humanoid Lady, too. Green guy misses sonic. 
+
