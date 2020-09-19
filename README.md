@@ -967,3 +967,11 @@ Kasgan's face is plastered all over advertisements. Ifa sees "Kessel Destroying 
 
 Kasgan and crew - we are brought to the ship along with a set of groupies. The guards won't let the crew out of the ship's pit area. Ifa's there in her concealing robes.
 Ohesha --> does a mechanics check to "tune up" the ship.
+
+
+Session 9: Racing Dudes
+=================
+
+## SLOTS SLOTS SLOTS SLOTS! SLOTS SLOTS!!! SLOTS!!!! SLOTS!!!!!
+
+The party has made a total of 9240 credits from selling flowers! And we're in a casino!
