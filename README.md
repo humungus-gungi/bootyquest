@@ -17,7 +17,7 @@ Table of Contents
       * [Gungi](#gungi)
       * [Droids](#droids)
          * [T4Z1 (Tazzi)](#t4z1-tazzi)
-         * [GNK](#gnk)
+            * [GNK](#gnk)
    * [Ships](#ships)
       * [The Winnebego - In Space, Nobody Can Hear the Bargains](#the-winnebego---in-space-nobody-can-hear-the-bargains)
       * [HWK290 - The Quest for Booty](#hwk290---the-quest-for-booty)
@@ -25,19 +25,30 @@ Table of Contents
       * [In the Guardian Temple](#in-the-guardian-temple)
       * [The Shipyard](#the-shipyard)
       * [On the ship](#on-the-ship)
-      * [S1 Experience Points](#s1-experience-points)
+      * [Session 1 Experience Points](#session-1-experience-points)
    * [Session 2 - Kessel and Digging Up Dirt on Oswald Flanigan](#session-2---kessel-and-digging-up-dirt-on-oswald-flanigan)
       * [On the ship](#on-the-ship-1)
       * [Kessel Trading Post](#kessel-trading-post)
       * [Back on The Quest for Booty](#back-on-the-quest-for-booty)
-      * [S2 Experience Points and Conflicts](#s2-experience-points-and-conflicts)
+      * [Session 2 Experience Points and Conflicts](#session-2-experience-points-and-conflicts)
          * [XP](#xp)
          * [Conflicts](#conflicts)
-   * [Session 3 - Kessel Pt. 2](#session-3---kessel-pt-2)
+   * [Session 3 - Operation: Kessel Emancipation](#session-3---operation-kessel-emancipation)
       * [On the ship and meeting the guards](#on-the-ship-and-meeting-the-guards)
       * [Conference with Administrator Fen](#conference-with-administrator-fen)
       * ["They called it a mine...A MINE!"](#they-called-it-a-minea-mine)
       * [Time to fight - <em>sound the alarm!</em>](#time-to-fight---sound-the-alarm)
+      * [Session 3 Experience Points and Conflicts](#session-3-experience-points-and-conflicts)
+         * [XP](#xp-1)
+         * [Conflicts](#conflicts-1)
+   * [Session 4: Trippy Space Wizards?](#session-4-trippy-space-wizards)
+   * [Session 5: Oops Force Mother called](#session-5-oops-force-mother-called)
+   * [Session 6: Maw Maw Maw Maw](#session-6-maw-maw-maw-maw)
+   * [Session 6b: The Afterparty](#session-6b-the-afterparty)
+      * [XP](#xp-2)
+      * [Conflict](#conflict)
+   * [Session 7: Fungusworld](#session-7-fungusworld)
+   * [Session 8: Flowers for Flannigan](#session-8-flowers-for-flannigan)
 
 
 Character info
@@ -109,6 +120,8 @@ Droids
 <div style="text-align: center"><img src="imgs/tazzi.png"/></div>
 
 Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
+
+Ohesha has upgraded his arms to include a computer-interface computer and converted his joints to ball joints.
 
 #### GNK
 
@@ -298,7 +311,7 @@ Hatch a plan:
 
 - Jarlo posing as a barterer with an old lady (helped by Wookie) - looking to make a deal for spice oil, a byproduct
 	+ Gungi posing as assistant slave to Ifa
-	+ Kazgan staying behind with the ship, pretending to be a pilot
+	+ Kasgan staying behind with the ship, pretending to be a pilot
 
 - Pike syndicate guards waiting at the entrance
 	+ Jarlo tries to convince them that we're just merchants, independents
@@ -319,7 +332,7 @@ Conference with Administrator Fen
 - 60% of spice profits to go to the Pike Syndicate
 - After some discussion, Fen leaves the room
 - 1 light side point used to ensure that an interface is present
-- Kazgan using Misdirect to hide Ohesha hacking in from a guard
+- Kasgan using Misdirect to hide Ohesha hacking in from a guard
 	+ Rolled 1 dark side point, used anyway for +1 conflict
 	+ Ohesha does get into a computer terminal, but **it is encrypted** (1 dark side point used)
 	+ Ohesha failed, 2 failures
@@ -327,8 +340,8 @@ Conference with Administrator Fen
 - Meanwhile, Jarlo made conversation with the guard - succeeded in making somewhat friends
 	+ Asks if they can take a stroll around the compound - the guard responds that it's his job to stay here, he might lose his job
 	+ Make your stay more...palatable?
-	+ Kazgan name-drops "Oswald", guard recognizes the name
-	+ Jarlo talked about their smuggling history, Kazgan fessed up saying "We wanted to shoot him"
+	+ Kasgan name-drops "Oswald", guard recognizes the name
+	+ Jarlo talked about their smuggling history, Kasgan fessed up saying "We wanted to shoot him"
 	+ This sets up an absolutely amazing discussion about them shooting Oswald in the mines
 	+ "Wouldn't it be fun to watch these guys shoot Oswald?" etc.
 
@@ -366,13 +379,13 @@ Conference with Administrator Fen
 	+ They seem pretty keen to get out of here - great
 	+ They have a proddy electric stick for mining
 
-- 3 administrator folks (Ohesha, Kazgan, Jarlo)
+- 3 administrator folks (Ohesha, Kasgan, Jarlo)
 	+ Go to a nice open air messing area
 	+ Soldiers bring up Oswald
 	+ Looking rough, mechanical hand borked
 	+ Jarlo asks him menacingly, "Do you know how to fight?"
-	+ Meanwhile, Kazgan sneaks to the emergency button, as Ohesha sneaks into the admin building as the alarm blares and blast shields begin to fall
-	+ Kazgan takes a pot shot at Administrator Fen - got a critical
+	+ Meanwhile, Kasgan sneaks to the emergency button, as Ohesha sneaks into the admin building as the alarm blares and blast shields begin to fall
+	+ Kasgan takes a pot shot at Administrator Fen - got a critical
 
 <div style="text-align: center"><img src="imgs/oswald.png"/></div>
 
@@ -390,10 +403,10 @@ Time to fight - _sound the alarm!_
 - Gungi - M range to Chief+machine, moves up to stab with lightsabre after "500 CREDITS"
 	+ Strikes Chief, 4 success, 2 threats - instead of killing him, chops off his arms, legs, and tail while he yells "You're all animals!"
 
-- Jarlo, Oswald, Kazgan, Ohesha
+- Jarlo, Oswald, Kasgan, Ohesha
 	+ Jarlo first: shouts "Oh no! The empire is attacking!", uses Force Persuasion to put bad thoughts ???
 		* Sees Admiral Fen contact the Empire for help
-	+ Kazgan runs into short range, shoots 4s3a - kills Administrator Fen
+	+ Kasgan runs into short range, shoots 4s3a - kills Administrator Fen
 	+ Ohesha hacks into a computer to send a conflicting message to the Empire, to confuse and slow them
 
 - NPC turn
@@ -401,14 +414,14 @@ Time to fight - _sound the alarm!_
 	+ Caves: 2 soldiers who witnessed the explosion and Gungi's mutilation of Venek, put down their weapons - 6 wookies come out after killing their own guards  (will act on Gungi's turn)
 	+ *Meanwhile, on the Courtyard:*
 	+ 13 soldiers in the courtyard, just saw their boss killed. For the record, they are "Mooks"
-	+ Group of 4 near their boss (group of 5 maybe) are going after Kazgan, take cover and start shooting.
+	+ Group of 4 near their boss (group of 5 maybe) are going after Kasgan, take cover and start shooting.
 
 	+ Caves:
 		* Gungi runs to the next group of guards/wookies with his Wookie squad of 6 - successfully intimidates guard who was using shock collars on the Wookie cohort. Guard wants to run  at next opportunity
 		* Ifa runs is and smacks the remote out of his hand, and Gungi gets it. The guard becomes a hostage, the 6 wookie corps becomes 11 wookies
 
 	+ Landing area:
-		* Kazgan has 5 guys shooting at him, tries to demoralize them (only 1 advantage, uses it to yell at Jarlo to get his blaster and shoot - +1 blue die to his next shot)
+		* Kasgan has 5 guys shooting at him, tries to demoralize them (only 1 advantage, uses it to yell at Jarlo to get his blaster and shoot - +1 blue die to his next shot)
 		* (Flips a light side point): there are turret guns around the mine.
 		* Ohesha shoots at a group of NPCs: 6 success, 1 threat - they dead.
 
@@ -448,8 +461,8 @@ Session 3 Experience Points and Conflicts
 - Gungi: +5 experience for great roleplay
 - Gungi: +5 experience for a difficult character moment in sparing Chief Vennik
 
-- Kazgan: +5 Experience for taking the initiative and great roleplay
-- Kazgan: +5 Experience for single-handedly killing Administrator Fen
+- Kasgan: +5 Experience for taking the initiative and great roleplay
+- Kasgan: +5 Experience for single-handedly killing Administrator Fen
 
 - Ohesha: +5 Experience for very creative problem solving with your lightsaber
 - Ohesha: +5 Experience for inventive uses for destiny points with the turrets and computer terminal
@@ -462,8 +475,8 @@ Session 3 Experience Points and Conflicts
 
 Remember, it's normal to gather some conflict in a session. Don't let it be a huge disincentive. You are still more likely to end up positive unless you steal, torture, etc
 
-- Kazgan: +1 conflict for combat being your first option
-- Kazgan: +1 conflict for using the dark side to power your misdirect
+- Kasgan: +1 conflict for combat being your first option
+- Kasgan: +1 conflict for using the dark side to power your misdirect
 - Gungi: +3 conflicting for maiming Chief Vennik
 
 Session 4: Trippy Space Wizards?
@@ -471,7 +484,7 @@ Session 4: Trippy Space Wizards?
 
 _aka. The Soul of All Things_
 
-__7 light, 2 dark_
+__7 light, 2 dark__
 
 - All of the ship is full of Wookies, so any skill checks on the ship with the Wookies +1 black die
 
@@ -642,7 +655,7 @@ One room is a massive skeleton with 4 arms, southern room: priest looking person
 		* Moves to medium range for a better shot
 		* Blasts'em right in the head blamo dead-times
 	+ NPCs look to Gungi:
-		* Gungi tells them to file into the ship 
+		* Gungi tells them to file into the ship
 	+ Gungi
 		* Uses 2 movements to get into the room with 6 people
 	+ Kasgan:
@@ -693,7 +706,7 @@ One room is a massive skeleton with 4 arms, southern room: priest looking person
 		* The door Ohesha just opened thuds as a zombie tries to get through it
 		* Ifa has distracted the zombie, takes 4 damage (ignoring soak) as the healer uses soak on her
 		* Gungi takes 1 wound
-	+ Kazgan
+	+ Kasgan
 		* Move to close range on the 4-armed guy and takes a shot
 		* 4 success, 3 advantages - that guy's real gone
 		* Moves near the door to the ship
@@ -708,7 +721,7 @@ One room is a massive skeleton with 4 arms, southern room: priest looking person
 
 Blast off! Sprint to the outside.
 
-**Where the maw is intensifying massively - we successfully get out because Tazi is great and Kazgan needs to leave.**
+**Where the maw is intensifying massively - we successfully get out because Tazi is great and Kasgan needs to leave.**
 
 Ship's in very rough shape.
 
@@ -722,7 +735,7 @@ Session 6: Maw Maw Maw Maw
 - Mairin's bad at notes, so here's the short run down:
 	+ Mother proved that she can control folks at a distance and took over the minds of first one, then two, then one additional for a total of 4 Wookies mind controlled (Gungi disabled two of them, with three of them active at a time maximum)
 	+ The Wookies were fought off mainly by Ifa and Gungi, sometimes aided by Jarlo and T'kok
-	+ Meanwhile, Kazgan the masterpilot was doing a great job, and didn't even fire his guns over his shoulders but **definitely wanted to a whole lot**
+	+ Meanwhile, Kasgan the masterpilot was doing a great job, and didn't even fire his guns over his shoulders but **definitely wanted to a whole lot**
 	+ Jarlo used his abs and influence to convince the Wookies that fighting other Wookies is okay under the right circumstances
 	+ Ohesha was all "oooh mechanics and astrogation", lots of **screaming** between the two stations
 	+ Oops also Tazzi's arms got ripped off by the controlled Wookie right at the beginning
@@ -739,10 +752,10 @@ Session 6b: The Afterparty
 
 - a few days of hyperspace travel
 	+ HEAL UP - cumulative damage from slave riot, the Mother ship, and the wacky space battle from session 6
-	
+
 - Oswald and the crew have a chat
 	+ Oswald was captured by the Pikes because he "borrowed" some spice to give to the Spice Wizards
-	+ Gave flowers - taken away ages ago 
+	+ Gave flowers - taken away ages ago
 	+ Tracker guy: can follow someone from Bluetooth, for example
 
 > Spicy force wizards
@@ -760,18 +773,18 @@ Session 6b: The Afterparty
 	+ Flowers might have special properties if he ate them, but he didn't get the chance
 	+ Was kidnapped by the Pike syndicate
 		* Was about to leave the trading post on Kessel to talk to some of the contacts to figure out what the deal was with these flowers, was arrested outside of the trading post
-	+ Jarlo: are you well travelled? 
-	+ Oswald: has been around - had own ship, was confiscated by the pikes. 
-	
+	+ Jarlo: are you well travelled?
+	+ Oswald: has been around - had own ship, was confiscated by the pikes.
+
 - Oswald has contacts on Naboo, Ohesha wants to drop him off
-	+ Naboo is solidly under empire control 
+	+ Naboo is solidly under empire control
 	+ Ifa: Did the force wizards speak with you, or just take spice?
 	+ Oswald: They referred to me as Sentient, not much conversation
-	+  Ifa: what did the Wizards look like - one was really tall, twice his height. Had a weird horn thing. Was nice, had smaller guys, knee high near him. Said everything will come together in time. 
-	
+	+  Ifa: what did the Wizards look like - one was really tall, twice his height. Had a weird horn thing. Was nice, had smaller guys, knee high near him. Said everything will come together in time.
+
 - On the trip over, Ifa studies the holocron - the history goes back ~4000 years before present
 	+ Ifa has two things she's curious about: how she fits into the history - showed up as a child, wondering if she's going to figure into the history
-	+ Ifa finds history of those that drop her off - while she's searching, mentions of those subjegated by the empire; one section about the collapse of the Wookie civilization - Gungi reads over, including long records of  many, many species subjegated 
+	+ Ifa finds history of those that drop her off - while she's searching, mentions of those subjegated by the empire; one section about the collapse of the Wookie civilization - Gungi reads over, including long records of  many, many species subjegated
 
 - Gungi learns about Wookie culture from the ship guests, borrows a data pad to record the stories of the Wookies
 	+ Jarlo and Gungi also suss out if any of them want to come along with the group
@@ -782,8 +795,8 @@ _Several days pass, the ship comes out of hyperspace at a beautiful green and br
 
 - The planet is surrounded by a cloud that seems to be coming from the planet, forms rings around it
 	+ Jarlo opens the coms, nobody answers
-	+ Is Force coming off of the planet? Ifa says *yes*. We all notice this place is strong with the force. 
-	
+	+ Is Force coming off of the planet? Ifa says *yes*. We all notice this place is strong with the force.
+
 - We land on the planet - it looks like James Cameron's Avatar; Stellaris background
 	+ Ifa and Ohesha are like, "Woah, this planet is the best place I've ever been"
 
@@ -824,7 +837,7 @@ We start with star destroyer. It's in the maelstrom. It's in rough shape. It's f
 
 The inquisitor seems to hear something in the maelstrom. This something seems upset, and seems to want to meet the empire ship.
 
-Meanwhile back on the bootyquest, we've landed on the planet with spice wizards. The group hangs out for a little while, and meet some sentient Fuungli! They're mushroom folk. They're cute! They want to bring us to other humanoids! 
+Meanwhile back on the bootyquest, we've landed on the planet with spice wizards. The group hangs out for a little while, and meet some sentient Fuungli! They're mushroom folk. They're cute! They want to bring us to other humanoids!
 
 While we travel with the Fuungli, we learn that the Fuungli are part of Hango. Hango is "All and One". Eventually, we're stopped by Lexlin one of the Spice Wizards. They ask for knowledge, so we tell them all about the benefits of free markets! Then we go to a dark mushroom cove for a feast.
 
@@ -839,16 +852,118 @@ Ifa gathers through foresight that Hango is Hang-ry for knowledge!
 
 Lexlin brings us through the jungle to Hango. Hango will be hanging out here while the Empire hunts huts, but the rest of the Hangoids need to leave, to avoid leading the Empire to the Journal. Hango big. Hango old! Hango guards the journal of the will!!!
 
-We hike into the Hall of Echos. We get on an elevator. It takes us to a room with a large robot. When the robot awakes, it accepts the holocron. It also records our life stories. It's happy with all that knowledge! And we get to enter the journal. 
+We hike into the Hall of Echos. We get on an elevator. It takes us to a room with a large robot. When the robot awakes, it accepts the holocron. It also records our life stories. It's happy with all that knowledge! And we get to enter the journal.
 
 The journal is a very very large room. It has some stairs, and a lot of 6-pointed pillars. The pilars have notches them with suggested writing. When we touch the pillars, we get visions of the events logged in the journal. When we walk through the pillar'd hallways to the glowing rooms, we end up in the blue world.
 
 The blue world room has weird alien creatures in it! But they ignore us. It has distinct columns, and interesting paintings - including the celestials. There's a new painting being made, recording things they see in the notches of the column. There's a prophetic column which stresses touchers, but give visions of good jedis or murdered children. We meet a human force-ghost who talks us through some of the paintings.
 
-Oh no! One of the paintings shows us that the Mother is being surrounded by the Empire's armada. 
+Oh no! One of the paintings shows us that the Mother is being surrounded by the Empire's armada.
 
-We learn from a helpful force ghost that there are three people who may know how to kill a celestial being - one's in the Empire, one is in the Rebelion, and one's on Tatooine. Gungi learns that the one in the rebellion is Ashoka, and that she's on a planet where spiders walk on coral mesas. 
+We learn from a helpful force ghost that there are three people who may know how to kill a celestial being - one's in the Empire, one is in the Rebellion, and one's on Tatooine. Gungi learns that the one in the rebellion is Ashoka, and that she's on a planet where spiders walk on coral mesas.
 
-Ifa has a vision about how to defeat the Mother. All she learns is that there's a long time of darkness with a massive toothy Motherly presence. 
+Ifa has a vision about how to defeat the Mother. All she learns is that there's a long time of darkness with a massive toothy Motherly presence.
 
 The human force teaches us all some of the skills from the Whills. AND THEN IT TURNS OUT HE WAS QUI GON!!!
+
+
+Session 8: Flowers for Flannigan
+=================
+
+Here's where the crew left off;
+
+- The empire has found centrepoint station
+- Ashoka may help?
+- Rebel base with coral mesas
+
+## Getting out of Magic Spice Planet (tm)
+
+Met up with Hongo on the way out.
+
+The hall of echos is a vergence of the force - we could interact with those who existed at the same time, but not those of the past.
+We were only in there for an hour or two. So that's about right.
+
+Return to the great feast, Wookies are packing up. Gungi and Ifa help them unload their gear. They still have some personal belongings, but they can probably leave tomorrow.
+The group stays for a final meal, eat with Oswald, T'Kook and Lexlin.
+
+Oswald wants to be dropped off in the Outer Rim. Asks Lexlin for re-payment, given that the original payment was seized by the Empire Slug Dogs.
+
+Spice flowers - flowers with narcotic effects. Used here to expand minds, but that is not the use that Oswald should take.
+He also gives each of us a flower - says "You could be the type to properly use this, to expand your access to the spirit of all things." (Increases your force rating by 1 for ten minutes, but also you hallucinate).
+
+Dinner finishes, the Wookies give a group hug! Gungi exchanges communications codes with T'Kook.  
+Oswald wants to go to Hronkin's Casino and Hotel.
+
+### Approaching Hronkin's Casino and Hotel
+
+Voxx cluster asteriod field, run by the Hutts. Owner: Hronkin. There is no empire presence here, only underworld gambling. Lots of this is for space racing. Typical casino with various machines and Star Wars themed gambling opportunities. Also a big place for shows, a main stage, Hronkin likes to decadently show up and show off.
+
+This place is also heavily enforced by Hronkin's guards. What's nearby? These kinds of locations are good for people who know things the Empire doesn't. Black market dealings, finding information, selling things that we should be selling.
+
+Ohesha upgrades Tazi: now has a port on a finger to directly connect to a computer. Also all of his arms are ball joints so he can windmill them all.
+
+Once arriving at the Casino, Oswald wants to give us a cut **if** we provide body guard protection. After Jarlo's negotiation, we've agreed to take 13% of Oswald's profits in exchange. After Oswald asks Gungi to carry the cargo, it bumps up to 14%.
+
+### Making a deeeeeeeal
+
+We reach a restaurant nearby, deep in the casino. We are drawing a lot of attention - not unusual. Rag tag group. Gonk comes along, hides the lightsaber with Ifa. Now Gonk is selling second hand drinks for 10 credits after Ohesha's reprogramming.
+
+We're in the bar looking intimidating, meets a Bothan at the door named Omwat. He's here for a deal, looks eager to make a deal. Oswald shows off the flowers he's brought in tow, "This comes from a secret society of *drug wizards*!" Omwat does not look up at the rest of us, seems unimpressed by the flowers. After looking up, Omwat looks surprised to see the group. "Oswald, where did you find these people?"
+
+Ohesha quietly pulls our her data pad and finds a photo of us with the first news story, **Kessel Run Blown Up: Maybe forever? More at 7**. With pictures. Yikes. Also there's a bounty of an uncertain amount. Double yikes.
+
+Kasgan: "We went through a lot to get these to you".
+
+Oswald: "These are incredible heroes who rescued me and other slaves of the Pike syndicate, they've fought the man and *stuck it to him!* They came with me into the unknown regions and fought incredible beasts to collect these flowers. We got the last of these flowers".
+
+Omwat considers, and says "Okay, let's just finish this up quickly." He seems more agitated. After some brief negotiations, 66,000 credits in total. This should be enough for Oswald to get out of here.
+
+On Omwat's way out, Kasgan stops him and asks about the planet. Omwat doesn't know, but he suspects that a Bothan Information centre can help.
+
+All routes out of the restaurant are guarded, Gonk has sold half of the drinks. We have 50 credits in total because of his efforts.
+
+### BUSTED
+
+While considering which exit is most promising, the gang realizes that the restaurant is going quiet. In one entrance comes a masked figure, Kasgan attempts to misdirect by changing Gungi to look like challenger who's coming in - he rolls one force die (dark, flipped to a light side point). The guards are now very confused, but the Masked Man (who we learn is named Lance) keeps coming. The other guards come over, asking for Gungi's orders (who is disguised). Gungi waves them to the other exit, and away they go.
+
+The group starts fleeing towards their ship while blending in with the crowd. If you're blending, make a stealth check - they did a really bad job. Kasgan, in fact, had two despairs, and accidentally fires his weapon while trying to sneak. Guards run in, and only Ifa gets out by succeeding on her stealth roll. The rest are surrounded by guards.
+
+Lance walks up and says, "Make the right choice. It's time for you to give up, and we're going to speak to Hronkin. He would like to see you." The group gives up, not wanting to cause more chaos.
+
+**If anyone is going to conceal anything, now is the time to try it**. Ohesha tries to conceal her lightsabre - succeeds but with a threat. Gungi fails to conceal his shock gloves.
+
+Kasgan and Jarlo's blasters and shock gloves have been taken. After the weapons are taken, they meet Hronkin, a very dapper hutt.
+
+"Welcome my friends to my humble establishment." Ohesha: "We're glad to be here! You've been a very gracious host."
+
+Kasgan wants in on the racing cash, starts regaling Hronkin with a story of the maw to convince him that he's qualified to join the races.
+
+#### Meanwhile ...
+
+Meanwhile...Ifa looks for a way to sneak into the Hronkin's office - gets 1 triumph but no success. She runs into Lynn, who is peddling spice. She hatches a plan with Lynn to see if she can get a meeting with Hronkin herself and get into the room. Lynn's also offering to smuggle in ... *maybe Gungi's lightsabre I dunno maybe that would work?*. Ifa trusts Lynn to hold on to the lightsabre.
+
+#### Meanwhile ...
+
+Ohesha basically dishes out the entire story of the Mother to Hronkin. Including that she's a giant force monster. Kasgan re-iterates that the Maw was very challenging.
+
+Hronkin asks a follow-up about Spice Flowers, and in steps Lynn - she starts her pitch on spice oil. (*Kyle proceeds to talk to him self*).
+
+- Hronkin: "Who are you? Do you know this person?"
+- Ohesha: "Yes".
+- Hronkin: "So this spice flowers...make you high *and* can cure anything? Can we have a sample of these?" Kasgan gives his over to have it tested. "You people seem to be worth more to me than the bounty...Lance, find him a ship."
+
+Bounty: 5 million credits for the whole group.
+
+- Gungi: "What other avenues do you have for proving wealth?"
+- Hronkin: "You should consider yourself 5 million credits in debt to me, because this is what you'd be worth to me otherwise."
+
+The ships are single-pilot, so there's no place for another passenger. Gungi realizes that Lynn is hiding his lightsabre up her sleeve as she brushes by.
+
+#### Meanwhile ...
+
+Kasgan's face is plastered all over advertisements. Ifa sees "Kessel Destroying Flying in the Race", can view the race.
+
+### Getting ready to race
+
+Kasgan and crew - we are brought to the ship along with a set of groupies. The guards won't let the crew out of the ship's pit area. Ifa's there in her concealing robes.
+Ohesha --> does a mechanics check to "tune up" the ship.
