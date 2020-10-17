@@ -1031,7 +1031,7 @@ Jarlo makes a compelling speach about how the Empire are the real baddies behind
 
 Assassin is super arrested.
 
-Other party members roll vigilance. Ifa gets a triumph! Ifa mutters into the crowd that the Empire is bad, and turns more people into the anti-empire crowd.
+Other party members roll vigilance. Ifa gets a triumph! Ifa mutters into the crowd that the Empire steals babies, and turns more people into the anti-empire crowd.
 
 #### Round 3
 
@@ -1047,3 +1047,64 @@ Oasha plots a course, and gets the ideal speed for the next two rings. She notic
 
 Kasgan decelerates to 4 speed, and takes aim at green humanoid lady. She's skilled and being evasive, and oh no, Kasgan misses! On his piloting roll, he gets three successes. He's in second place, right behind Green Humanoid Lady! Kessel lady hits Green Humanoid Lady, too. Green guy misses sonic. 
 
+#### Round 5
+
+Oasha plots a course, and finds one more ring's ideal speed
+
+Kasgan takes evasive maneuvers, and fires at green humanoid lady. Shot misses, and blows up an asteroid which spills debris into his path. 
+
+*Meanwhlie, back at the stage*
+
+The crowd is getting really rowdy. Fights are starting between pro-/against-empire groups, and the guards are drawing weapons to break up fights. Jarlo tries to talk everyone down, but only succeeds in making the guards more friendly with the group.
+
+#### Round 6
+
+Oasha plots the speeds for another ring, and advantages a rock into the path of everyone else going through that path.
+
+As Kasgan enters the section, there are rogue ships with turrets firing at, and hitting Kasgan!!! Dealing 2 damage. The ship's at 5 HP. AND OH NO, MISSILES ARE LOCKED ON!!
+
+Kasgan takes two evasive maneuvers. He gets so many advantages that one of the two missiles targest Sonic instead!!
+
+Kasgan ends up in third place, behind Sonic and Green Lady.
+
+Kessel lady takes shots and misses Kasgan. 
+
+#### Round 7
+
+Oasha spoofs the missiles, and gets a Triumph! The missile changes the missiles target to the Green Lady!! 
+
+Kasgan takes more evasive maneuvers, and nails the flying check. Kasgan is now in third place, behing Sonic and Green Lady. 
+
+Turrets take shots at Kasgan, and hit Kasgan for 2 damage. Kessel lady misses Kasgan. 
+
+*Meanwhlie, back at the stage*
+
+Ifa helps Lance knock out some civies. Jarlo gets the hutt to announce he doesn't support the empire. Some civvies back off. Jarlo gets a conflict in the process.
+
+#### Round 8
+
+Oasha plots the speed for the last unknown ring
+
+Kasgan punches it to speed 6, fails the pilot check. The missile hits Sonic, and Sonic's out! Kasgan is in second place, only behind Green Lady
+
+#### Round 9
+
+Oasha heals strain from the ship, and rolls a triumph! Ship strain goes to zero, and speed stays at six!!!
+
+Kasgan Stays On Target and fires, and blows up the Green Lady!!! Kessel lady fires and misses Kasgan. 
+
+#### Round 10
+
+Oasha jamms Kessel Lady's systems, and successfully increases her difficulty to hit Kasgan with weapons.
+
+Kasgan takes two evasive maneuvers. Kessel Lady gets an unsuccessful triumph with her attack, and takes Kasgan's speed down to 4.
+
+Kasgan wins the race!!
+
+*Meanwhlie, back at the stage*
+
+The riot is broken up with gunfire by guards who have just arrived! Lance thanks us for help.
+
+Oasha earns 14000 from gambling
+Gungi earns 28000
+Kasgan earns 35700
