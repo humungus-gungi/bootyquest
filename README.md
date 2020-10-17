@@ -1108,3 +1108,194 @@ The riot is broken up with gunfire by guards who have just arrived! Lance thanks
 Oasha earns 14000 from gambling
 Gungi earns 28000
 Kasgan earns 35700
+
+# Session 10 - Post-race, things get racey
+
+## HOORAY KASGAN WON THE RACE! 
+
+Kasgan gets major props, everyone is based for him, stanning all over the place.
+
+He notices people chanting "Down with the empire!" Wonder what that's about. Gets a comedically large credit chip. 
+
+Kasgan is approached a Twilek news anchor and a Gamorrian with a large holocam, they stick a microphone in his face. 
+"Kasgan Gone, your meteoric rise has people asking just who you are! Will you do a brief interview with us?"
+
+"Yeah, I'm the best"
+
+"Just who is Kasgan? What's your background?"
+
+"My background is I'm the best in the galaxy and nobody can beat me!"
+
+"How was the race, how did it feel out there?"
+
+"That race was pretty easy, I got all set up, I made my move, and then I did it, and I won." 
+
+
+"Tell us - what do you think of your fellow competitrs?"
+
+"Well, they tried really hard butt when you don't have a chance you do'nt have a chance"
+
+"We've heard reports of rockets on the race course, but of course none of the ships were equipped"
+
+"Somebody must have rigged up rockets on the asteroids. I can understand why people would try to cheat me out of my win""
+
+"But none of them hit you?"
+
+"Play back the tapes, I may have hit the rockets, may have missed me. In the end the right person won"
+
+"Do you haev anything to say about the alleged connection with you and the Kessel run?"
+
+"I don't know anything about the Kessel run except that I did it faster than anybody"
+
+"You only got in to the race because of the loss of another - and because of your notoriety regarding Kessel"
+
+"Well, the circumstances may have been bad...but the right racer was out there"
+
+"Those are some bold claims..hang on a moment *listens to earpiece* We are just now hearing a report from the Empire..what? WHAT DO YOU HAVE TO SAY FOR...?"
+
+The lights turn out, people scream. Lance comes up next to Kasgan, pulls him in - "We need to get out of here, now". 
+
+Everyone else has been brought close to Kasgan. Including Ifa. 
+
+*Time to get going*.
+
+## Dark room shimmy
+
+Lance and his guards are pulling you out of there, the only lights being datapads being pulled out as people check the news.
+The crowd's murmurs get louder - vigilance to hear anything? 
+
+Bystanders are murmoring, "how many dead? This was intentional?" They start looking for the Booty Crewty. They stealth/athletics check to pass through (+threats based on threats from vigilance). 
+Jarlo asks for Lance's help - everyone succeeds! (how, we do not know!)
+
+The Crewty is lead to the front of a large elevator door. Lance pulls out a keycard and activates the elevator's input panel system, opening the doors. He gestures inside. Everyone piles in, they're on their way to meet Hronkin.
+
+Jarlo attempts smalltalk with Lance, who initially resists. Halfway up, he hits the emergency stop button and turns to Jarlo.
+
+He looks for a moment, then says. "Go over again what you know about what happened on Kessel."
+
+Ohesha: "Why?"
+
+Lance: "Just go over it". 
+
+Jarlo describes the space station, and a "strange force thing", then the empire showed up. 
+
+Ohesha: "We went to Kessel for business, there was a bit of a revolt while we were there looking for Oswald. It worked out in our favour. When we left the planet, there was an Imperial starship blocking the exit. We decided to go into the Maw to try and escape, which we did. Through luck, and now the proven fantastic piloting abilities of our **amazing** pilot, we managed to survive. Then the Imperial starship followed us in. 
+
+When we got here, we found out the Kessel run was gone."
+
+Lance: "Last time you mentioned...Force Something? Some kind of creature?"
+
+Kazgan: "A giant squid!" 
+
+Ohesha: "There was also a space station in the Maw, which was bizarre, with some kind of...Mother Creature. A lady at the space station who attacked us, so we left. Then after we left the Kessel Run was gone.'
+
+Kasgan: "And a giant squid!"
+
+Ohesha: "Yes, a giant squid attacked the Imperial ship as we were leaving"
+
+Lance: "So, you didn't do anything to Kessel, not on purpose?" 
+
+Nopes.
+
+Lance turns the elevator back on, saying nothing.
+
+Ohesha: "Why are you so concerned about this?"
+
+Lance: "You'll find out. We're going to be hearing about this for a long time."
+
+The elevator opens to Hronkin yelling, "ABOUT TIME YOU GOT HERE, LANCE! I THOUGHT YOU DID RESEARCH ON THESE RACERS!" he yells from his floaty, while floating in a pool...surrounded by sexy shirtless men, all of whom boast better abs than even Jarlo himself.
+
+"Why am I finding out about this from THE NERFHERDERS ON THE INTERNET! WHAT DO I PAY YOU FOR!!!"
+
+Lance leads us out the room, find a remote control, and turns on a TV for the Crewty. There are shots that appear to be of Kessel, which is on fire of a sort - charred flames fill the landscape, The shot changes to an interview - a figure stands in front of a large number of Imperials. She is the Inquisitor. 
+
+"The suspects, who previously had a bounty, used a station they found or deployed into the Kessel Run to really muck up Kessel. We believe they may have rebellion involvement, may have been funded by the rebellion taking place in the lawless outer rim. The Empire will not stand for these acts of terrorism against our citizens. We are raising the bounty on these murderers and WE WANT THEM ALIVE!" 
+
+Jarlo: "You've seen our ship - do you think we can do that? You've seen our Winnebego!" 
+
+Lance steps forward and says, "I believe them"
+
+Ifa and Gungi briefly recognize someone in the crowd - Lasal, an apprentice to the mother - fully alive and standing with the Imperial Troops. 
+
+The TV continues - they have also disabled the "weapon" that was used to damage Kessel, and may even be able to clear away the Nebula in time. The broadcast ends, "if you know anything about those involved in this tragedy, speak up...or suffer great damage in retaliation for hiding a traitor." 
+
+Ohesha and Ifa explain that the station is probably the weapon they're talking about - they claim that the Empire must have followed them into the maw. But they undersell the story, Ohesha underplays the role she played in generating black holes from the space station. She has to deceive Hronkin (with support from Ifa). And just barely pulls it off!
+
+Hronkin: "While you may not have been the one to do ... whatever has been done to Kessel ... you're too much of a risk to have here any more. if anyone reports your presence here, *and we did just broadcast you winning a race*...it's too much. Get out of here."
+    
+Kazgan's haggling for his winnings, but it falls through. 
+
+Hronkin: "You still owe me flowers."
+
+Ohesha: "Oswald, you got those right?"
+
+Oswald: "Uh, I sold...al...a significant amount of my flowers...so I'd have to...go get more from my warehouse." 
+
+Kasgan: "So you want us to get more and come back here, or what?" 
+
+Hronkin: "I suppose that would be a good arrangement, but you are all far too much attention grabbing - I can't stand having you around right now. But Oswald here is the one with all the flowers, correct?"
+
+Ohesha: "Yeah, but he has to go back to his warehouse."
+
+Hronkin: "Perhaps you all can go and I'll keep Oswald..."
+
+Ohesha: "If you don't want us coming back, why would you keep Oswald?"
+
+H: He can get my flowers so I can finally make money off of you. I have plenty more profits I can get off of you...
+
+J: We'll trade you an Oswald for a Lance! _attempts to seduce_
+
+H: I will not give up Lance. 
+
+Lance is very resistant. 
+
+Jarlo is dismayed, and even used the Dark Side! **Dun dun dunnnn.**
+
+H: How dare you try to poach my greatest bounty hunter, right in front of me!! Guards, seize Oswald - he will be staying with me, and showing me where he got his flowers.
+
+K: I hope you're going to treat him well! 
+
+H: The next time I call on you for help, make sure you come back. Or else something might happen to Oswald...
+
+G: If you harm him, you won't want us to come back. 
+
+H: You don't need to be here for me to own you. 
+
+J: Okay, well, bye. 
+
+Lance leads them back to the elevator, the doors close on Oswald's face as he's being held by two guards. 
+
+The Crewty vows to come back for him, feeling bad for him. A couple of guards show up at the bottom of the elevator, but Lance brushes them off. He takes the Crewty to a back room, where he works with some of the bookies and gets them the money from the last round. 
+
+Lance hands them a card, "If you're looking for the rebellion, call this number. Tell them Lance sent you." 
+
+## Back on the Booty, Questing Again
+
+While Kazgan pilots the ship out of the Casino Planet or whatever, Jarlo calls the number.
+
+"Hey, this is ... wait who is this?"
+
+J: If you've been watching the news, you may know about the Kessel run. We've been looking for the rebellion to continue our quest for the Jedi - Cherrup Imwe - and now we need to contact the rebellion for information. We got your number from a bounty hunter named Lance. He's a great guy! ... 
+
+As you go on, the woman on the other end of the line looks more and more confused. As soon as you mention Lance, she interrupts. 
+
+She looks to her side and is clearly messing with a data pad. "Oh, it's *you*, oh my gosh! Why would Lance?" 
+
+The signal cuts out. Ohesha checks to see if the line has been cut. Something at the edge of the system is jamming the signal, and is getting closer.
+
+Let's get out of here! Just as they start calculating navigation for hyperspeed, the computers create an error "Gravity well detected". 
+
+RUUUN AWAAAAY! 
+
+Kazgan uses his Full Throttle while rolling a piloting check - success and a threat; the ship creaks and strains, takes some strain damage, but it rockets up to full speed + 1. 
+
+A signal starts going across the comms, a hail to anyone. "To all ships in the system, please shut down and prepare to be boarded. We have heard that the fugitives of Kessel are here. No one is allowed to leave the system. Anyone who attempts to leave will be fired on."
+
+The Crewty rockets out as a ship comes out of the asteroid field and approaches the station. It is not the one the Mother was on. It's a real big Imperial ship, star destroyer sized. 
+
+
+
+
+
+
+
