@@ -121,7 +121,7 @@ Droids
 
 Great protocol droid that has been brought to the ship with the crew in exchange for his freedom.
 
-Ohesha has upgraded his arms to include a computer-interface computer and converted his joints to ball joints.
+Ohesha has upgraded his arms to include a computer-interface terminal coming out of his wrist. Also all of his joints are converted to ball joints. He is a charming yet horrifying mechanical spider nightmare.
 
 #### GNK
 
@@ -1293,9 +1293,113 @@ A signal starts going across the comms, a hail to anyone. "To all ships in the s
 
 The Crewty rockets out as a ship comes out of the asteroid field and approaches the station. It is not the one the Mother was on. It's a real big Imperial ship, star destroyer sized. 
 
+We rocket out of the asteroid field as we receive the message - lots of smaller signals come from the Star Destroyer but they are all staying around the casino. 
+
+It seems like the crew got off scott free. The star destroyer is scanning - Ifa uses foresee to try to see where to go with the ship. She has to tap into the dark side, but she is granted a vision of the woman on the phone. 
+
+> Her name is Cyril, she is running along with a droid. She is running from a large building, a facility of some kind, into a landing pad with a variety of ships. Some are small, some are fighters, some are grouped around her. She calls out to others on the landing pad, pointing at their ships. They jump on board their vessels, ready to leave. 
+
+Meanwhile, on the Booty Quest, Ohesha attempts a counter-jam to hinder the broadcast. It is briefly disrupted, with some confusion on the other side of the line. The ship does not appear to be turning toward the BQ, the computer is no longer complaining about the gravity well. As they leave the gravity well, they also leave the range of scanners and jammers. 
+
+Jarlo re-calls the Rebel Connection - she is now in a cockpit. Jarlo explains that the Crewty got away, she sighs and sends coordinates, saying "I guess we won't go. We'll wait here after all." 
+
+Blam blam bloom, they go to the coordinates and **voila, rebel base!**! 
 
 
 
+Session 11: Viva la Revolucion 
+=================
 
+They roll 7 light, 2 dark side.
 
+## Tensions at the Rebel Foyer
 
+Bing bam boom - base. 
+
+Two female humanoids run out, one with pink skin who is very excited. The other is the women we spoke to on the phone. 
+
+The droid is V6.
+
+Pink: I'm Pamzan, you can call me Pan! I'm so excited to meet you! Tell me everything about it!! 
+
+Ciril [the more serious, telephone woman from earlier]: Well, we're not all excited about _everything_ you've been up to...we need to talk about it.
+
+Ifa: We didn't anticipate the havoc. 
+
+Pam: TELL ME EVERYTHING! *Pam runs off to grab others for the story telling.*
+
+Jarlo, to Ciril: Quickly before she comes back, tell us what we need to know. 
+
+Ciril - the captain is very security focused. Before everyone else comes, how is the casino doing? When you left? What was the empire doing? Is Lance okay? 
+
+Turns out: Lance is Ciril's brother, and Ciril doesn't know who Ahsoka Tano is. 
+
+Pam returns with a bunch of people, including a bat guy with a minigun that WILL NOT be pointed towards the ground. The safety protocols are terrible. A spider-like humanoid wanders to the ship and starts muttering about hardware. Ohesha and Jarlo tag along.
+
+[Spider man]: How did you get this far without firepower? 
+
+[Ohesha]: Luck, mostly. They've either been distracted by other messes - those we set and those we don't - and sneak away. 
+
+[Jarlo]: We tend to sneak out because of luck...
+
+[Kasgan]: And good piloting! 
+
+[Ohesha]...and that's when the problems start.
+
+[Spider man]: That seems obvious looking at the ship. I'm Venian, but Pam calls me Skooky. Everyone else has taken to calling me Skooky. I do not care about it. 
+
+It's because he's spooky. The Crewty begins to reminisce about times they've seen spiders. 
+
+Pam: Oh no, here comes captain Killjoy! *Ciril elbows her*
+
+Out of the base comes a cloaked figure in Mandolorian armour. He marches out gun in hand, looks at the rest of the team and says, "Who gave them our coordinates?"
+
+Ciril: I did, but...
+
+[Mando]: Now tell me, what do we know about these people? Because what I've seen is that they've crept out of the Empire, worked with the Hutts, all with an enormous bounty. What are you doing here, then? 
+
+[Gungi]: We thought the Rebellion was open to any common citizens looking to fight against the Empire.
+
+[Ifa]: Do you know of the Whils? *Killjoy asks about this, asks Ifa to continue to explain*
+
+[Mando]: You should know it is bold to talk to a Mandalorian about the Jedi. What do you know about them? 
+
+[Ifa]: I was never admitted as a Jedi, but I would die to protect the temple and the way of the Jedi.  
+
+[Anyway the team retcons because the Mandalorian doesn't like the Jedi maybe]
+
+Ifa rolls a killer Lore check, recognizes the family name of the Mando from the sigil - Neth. She addresses him as Captain Neth, he is impressed by highly tense and keeps his hand on his gun as he goes inside. 
+
+Ifa lays it all out, mentions Ahsoka and he tenses further. She eventually admits Gungi's history with Ahsoka as a Padawan. 
+
+He comes out, and asks Gungi directly to prove that he is a Jedi - Gungi clarifies he is a Padawan and shows his lightsabre. 
+
+## Invited to the base
+
+They are invited inside - a cluttered but cozy environment. Skooky and Ohesha start working through electronic projects, Gungi and Fenton (Batman) talk about their emotional connections to their weapons. 
+
+Jarlo and Skooky discuss supply lines, he mentions that they need to fend for themselves with only information coming from the Rebellion. 
+
+[Gungi]: How connected are you to the rest of the Rebellion? 
+
+[M]: We mostly know agents with codenames. The Rebellion is broken into smaller cells for anonymity. 
+
+[Gungi]: You said you had questions for us? 
+
+[M]: Let's begin with the most important question - what do you want with us? 
+
+They discuss the need to use communication networks to find Ahsoka - she's dealt with Force beings of this magnitude before.
+
+Ohesha goes to scan the ship for tracking devices, just to be sure. She finds only a faint signal, the string "T4Z1", emitting from Tazi. It's very weak, and she accidentally turns it off without finding out exactly where it came from. 
+
+Meanwhile, Neth will put in a word through his network and ask for information about Ahsoka Tano. In the meantime, while they wait, Ciril has asked if they would consider liberating Hronkin's Casino. They are shocked. This could be...IMPOSSIBLE?!
+
+Skooky and the Crewty go over their sensor logs and show off the ship that appeared. Turns out it was GRAVITY WELL TECH! It's created by two large orbs on the ship, it prevents hyperspace jumping nearby. 
+
+The Crewty then spends some good time planning their casino-takeover strategy. Here are some key notes:
+
+1. Get some of the rebels onto the missile launching asteriod - Skoopy et al. to take over with the Booty Quest and other rebel ships
+2. Use the Winebago to get Jarlo and other insurrectionists onto the space station/casino - this will include Jarlo, Ohesha, Gungi, Ifa
+3. They meet Lance there to fight off some dudes, this may involve turning the lights off in the station and using infrared lights to move around the station
+4. Then, once some command is held in the casino, Kazgan and some members of the rebels --> taking racing ships (WITH GUNS!) and maybe Ohesha - they'll go out to the shield generators and either take them down digitally or with boomy-boomy guns
+5. Profit?
