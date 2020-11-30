@@ -4,6 +4,7 @@ The Quest for Booty
 
 Formerly known as *Nerdy Folks Play Star Wars RPG*
 
+
 Table of Contents
 =================
 
@@ -49,7 +50,40 @@ Table of Contents
       * [Conflict](#conflict)
    * [Session 7: Fungusworld](#session-7-fungusworld)
    * [Session 8: Flowers for Flannigan](#session-8-flowers-for-flannigan)
-
+      * [Getting out of Magic Spice Planet (tm)](#getting-out-of-magic-spice-planet-tm)
+         * [Approaching Hronkin's Casino and Hotel](#approaching-hronkins-casino-and-hotel)
+         * [Making a deeeeeeeal](#making-a-deeeeeeeal)
+         * [BUSTED](#busted)
+            * [Meanwhile ...](#meanwhile-)
+            * [Meanwhile ...](#meanwhile--1)
+            * [Meanwhile ...](#meanwhile--2)
+         * [Getting ready to race](#getting-ready-to-race)
+   * [Session 9: Racing Dudes](#session-9-racing-dudes)
+      * [SLOTS SLOTS SLOTS SLOTS! SLOTS SLOTS!!! SLOTS!!!! SLOTS!!!!!](#slots-slots-slots-slots-slots-slots-slots-slots)
+      * [Pre-race](#pre-race)
+            * [Vin, the blue guy. He's suuuper friendly!!](#vin-the-blue-guy-hes-suuuper-friendly)
+            * [Other racers!](#other-racers)
+      * [Race mechanics:](#race-mechanics)
+            * [Course](#course)
+            * [Ship stats](#ship-stats)
+      * [RACE! RACE RACE!](#race-race-race)
+            * [Round 1](#round-1)
+            * [Round 2](#round-2)
+            * [Round 3](#round-3)
+            * [Round 4](#round-4)
+            * [Round 5](#round-5)
+            * [Round 6](#round-6)
+            * [Round 7](#round-7)
+            * [Round 8](#round-8)
+            * [Round 9](#round-9)
+            * [Round 10](#round-10)
+   * [Session 10 - Post-race, things get racey](#session-10---post-race-things-get-racey)
+      * [HOORAY KASGAN WON THE RACE!](#hooray-kasgan-won-the-race)
+      * [Dark room shimmy](#dark-room-shimmy)
+      * [Back on the Booty, Questing Again](#back-on-the-booty-questing-again)
+   * [Session 11: Viva la Revolucion](#session-11-viva-la-revolucion)
+      * [Tensions at the Rebel Foyer](#tensions-at-the-rebel-foyer)
+      * [Invited to the base](#invited-to-the-base)
 
 Character info
 ============
