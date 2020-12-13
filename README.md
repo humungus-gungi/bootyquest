@@ -1437,3 +1437,101 @@ The Crewty then spends some good time planning their casino-takeover strategy. H
 3. They meet Lance there to fight off some dudes, this may involve turning the lights off in the station and using infrared lights to move around the station
 4. Then, once some command is held in the casino, Kazgan and some members of the rebels --> taking racing ships (WITH GUNS!) and maybe Ohesha - they'll go out to the shield generators and either take them down digitally or with boomy-boomy guns
 5. Profit?
+
+
+
+Session 12: Viva La SVegasolution!
+=================
+
+## Making our entrance on the casino
+
+Oh man, we're getting ready to storm a casino! There's a fabrication and speech'ing and guns'ing montage. It's sweet. The camera cuts to a wide shot of the occupied casino, with rebel ships and the booty quest coming in dark. Winnebego inside booty quest, rebel ship approaches the base. T4Z1's piloting the booty quest, and will be parked hidden in the asteroids.
+
+The winnebago separates from the booty quest, and drifts through the asteroids. Eventually, it picks up a patrol of three tie fighters! Ifa rolls to infer their patrol pattern. She get's - let's see here - seven successes... 
+
+Ifa figures out the timing on when to sleep through to the Casino. Kasgan is going to bring the Winnegego in during a gap, and get some help from Jarlo with the Winnebego's janky controls. Kasgan rolls a 2/2/2 against a difficulty three. Taylor's note: This shouldn't fail. Yeah, we got a success and three advantages. The advantages are spent on having a relatively warm reception upon successfully dock. We exit the winnebago, and...
+
+THERE'S ALREADY A BRAWL BETWEEN CASINO GUARDS AND STORM TROOPERS!!! The guards take out the storm troopers - awesome.
+
+We then get the SitRep from the guard, with security cams help:
+ - In the central room, we see that there's a bunch of civilians under guard
+ - We see that Hronkin and Lance are under guard as well
+ - We see Oswald is alive and well
+ - We see the hanger has a large rowdy crowd and several storm troopers
+ - There are other rooms with guard presence, but which aren't important to players' plans
+
+Jarlo proposes drawing guards off with false comms from the storm trooper's radio. Oasha helps by getting the storm trooper's ID. Some storm troopers head "Northward" in response to the fake threat.
+
+## Liberating our casino friends
+
+The team is ready to move into the central room! We leave some guards behind with the winnebego, since it's critical that we have it for getaway.
+
+Kasgan gets ready to ambush the South-door-guarding storm trooper. We're going through some sort of open area on approach to the central casino area. Let's free some VIPs!!!
+
+Kasgan prepares to **Misdirect** the guard by making a civilian look like a commander. Kasgan rolls well enough to distract the storm trooper for a turn. In the meantime, Oasha prepares to force a slot machine to make distracting noise, to disguise the sound of blaster fire. Oasha rolls well, with light side points! And causes a SUPER JACKPOT CHIP SPEWING EXTRAVOGANZA!!!! 
+
+Kasgan gets right next to the guarding storm trooper during the distractions and chaos, and takes his shot. He gets two successes but six advantages, which means two criticals. One crit is a 74, which is a high number. The next crit is an 11, which is a low number. The storm trooper drops his weapon. And now has trouble walking. Partially because he died.
+
+In the background, one civvy starts picking up chips. Also, some storm troopers guarding Lance and Hronkin get upset at the hullaballoo, and want to come over and help stop annoying noises. We request that two troopers come assist. As they're walking over, Ifa attempts to set herself up for an ambush by sneaking through the crowd. The guard kinda notices her.
+
+In the meantime, Kasgan Misdirects a guard into thinking that Jarlo is a storm trooper. It works, but he rolls some dark side, so will be taking a conflict for it. Jarlo lures a fellow storm trooper over to help with rowdy civilians. That storm troop is now thoroughly out of sight from the guards around Hronkin and Lance. The storm trooper who noticed Ifa is focused on and approaching Ifa. 
+
+## Combat!
+
+Turn #1: Ambush!!!
+ - Ifa is smacking the nearby storm trooper with her staff. She does 6 damage to the storm trooper! But the armor soaks enough that the storm trooper is still standing.
+ - Kasgan shoots the misdirected storm trooper! Kasgan gets a crit of 61. The storm trooper is now slightly dazed! But also dead. There is now one nearby storm trooper, and one sergent / two troopers guarding the VIPs.
+ - Gungi goes loud!! And smacks a storm trooper with his shocko gloves! The other nearby storm trooper is down. There are now only the guards around the VIP.
+ - Oasha tries to turn off all the lights in the room. And she does. The lights are now off.
+ - Jarlo takes a strain to get in short range to our VIPs, behind some slot machines for cover, and lobs the dropped blasters at our VIP friends.
+ 
+We get some turn orders rolled out - 2\*PC -> N\*PC -> 3\*PC -> Troopers
+ 
+Turn #2:
+ - Gungi picks up the blaster from the downed trooper, runs to the slot machines opposite Jarlo, and lobs the blaster at the VPI friends
+ - Ifa runs to long range from the troopers, and takes a shot at the sergent with her lightbow. The sergent is badly hurt, but still alive. 
+ - NPC Time:
+   - Hronkin shouts over comms that it's time to do some fighting.
+   - Lance incapacitates the sergent, runs off to the side, and shouts that it's a trap
+   - The casino guards take out blster pistols, and take shots at us! Gungi takes a hit for 5 post-soak damage. Jarlo takes 4 post-soak damage, and witnesses the death of a slot machine nearby.
+ - Kasgan's runs next to Jarlo; medium range to the various guards and troopers. 
+ - Jarlo gets on the imperial comms to see what their plan is. Is told to get off the comms, because an executive is inbound on our location.
+ - Troopers go! One fires wildly into the darkness, hits nothing. 
+ - A lightsaber appears, and starts cutting through the north bulkhead. Oh nooo!
+ 
+Turn #3: 
+ - Jarlo encourages some civvies to fight the imperials. Six of them are convinced to fight the storm troopers. Takes a conflict for dark-side use.
+ - Kasgan shoots at some of the casino guards. Triumph! He hits a guard for 12 damage (who doesn't die), but the other casino guards are thoroughly intimidated. 
+ - NPC time!
+   - Lance smacks/disarms an adjacent casino guard, and intimidates another adjacent guard into surrendering - helps that there was a triumph just now.
+   - The guard who got hit is spooked, and finds cover behind the bar.
+   - The gurad who's fine shoots at Kasgan, but misses.
+   - The civvies rush courageously into the fray. One jumps onto a guard who's on the ground! 
+   - Other civvies are not interested in fighting. 
+ - Ifa moves to a position to prep for incoming baddies. There are familiar, force-powerful peoples coming through the door, and black-armored storm troopers.
+ - Gungi runs to the door, and attempts to stop the red light saber's movement through the door, via a lightsaber tug of war. 
+   - Contested brawn check! Oasha helps by pointing out where there are some strong points of the door. Flips a destiny point, and gets a couple of successes. Lightsaber cutting delayed!
+ - Oasha opens the souther doors so we can get out southbound.
+ - Troopers turn! 
+   - One shoots and misses, one shoots and injures a rebellious civvy.
+   - Gungi **feels** the mother being all creepy like.
+
+Turn #4:
+ - Kasgan gets right up close to the uninjured casino guard, and takes a shot. Casino guard takes 12 damage, and is still standing.
+ - Jarlo intimidates Hronkin into standing his troops down so we don't hurt him. 
+ - NPC time!
+   - Oswald hugs Jarlo
+   - Civvies swarm the storm troopers and disarm them
+   - Guards drop their guns
+   - Lance collects guns
+ - Ifa administers first aid to the bleeding civvy. The civvy is still heavily wounded, but isn't bleeding anymore.
+ - Oasha assists Gungi again with door jamming, and tries to rig a slot machine coin-spewing booby trap... and succeeds at it. Those coins will get spewed booby-trap style in a few turns.
+ - Gungi rolls to keep lightsabers from cutting through the door. 
+ 
+Turn #5: 
+ - Ifa helps a wounded civvy to escape the central room
+ - Jarlo tries to coerce Hronkin into handing over his communicator, but fails. Hronkin is super spooked, though, so is staying off comms for a while.
+ - Kasgan and Oasha leave the room
+ - Civvies and VIPs all leave the room
+ - Oasha locks the doors behind us. As the doors lock, the door is cut almost the rest of the way through - and is thrown across the room by force poser. 
+ 
