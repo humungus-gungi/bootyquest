@@ -84,6 +84,15 @@ Table of Contents
    * [Session 11: Viva la Revolucion](#session-11-viva-la-revolucion)
       * [Tensions at the Rebel Foyer](#tensions-at-the-rebel-foyer)
       * [Invited to the base](#invited-to-the-base)
+   * [Session 11: Viva la Revolucion](#session-11-viva-la-revolucion)
+      * [Tensions at the Rebel Foyer](#tensions-at-the-rebel-foyer)
+      * [Invited to the base](#invited-to-the-base)
+   * Session 12: Viva La SVegasolution!
+      * Making our entrance on the casino
+      * Liberating our casino friends
+      * Combat!
+   * Session 13: No More Slots!
+   
 
 Character info
 ============
@@ -1439,7 +1448,6 @@ The Crewty then spends some good time planning their casino-takeover strategy. H
 5. Profit?
 
 
-
 Session 12: Viva La SVegasolution!
 =================
 
@@ -1535,3 +1543,6 @@ Turn #5:
  - Civvies and VIPs all leave the room
  - Oasha locks the doors behind us. As the doors lock, the door is cut almost the rest of the way through - and is thrown across the room by force poser. 
  
+
+Session 13: Excitement!
+=================
