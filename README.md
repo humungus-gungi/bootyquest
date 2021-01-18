@@ -1542,7 +1542,96 @@ Turn #5:
  - Kasgan and Oasha leave the room
  - Civvies and VIPs all leave the room
  - Oasha locks the doors behind us. As the doors lock, the door is cut almost the rest of the way through - and is thrown across the room by force poser. 
- 
+
 
 Session 13: Excitement!
 =================
+
+## Hanger Dang-er
+
+GET OUT OF DODGE!!!
+
+### Jarlo rallies the troops
+
+First thing - they need to get the citizens riled up so they can break into the hangar -- here, Lynn and the other speedy pilots are being held by 9 troopers and their commanders. 
+
+The Booty Crewty flips a light side point to create mechanical tunnels. Access is through the floorboards, of which there are two entry points in the hangar. We just hope that they have enough room for Gungi. 
+
+Gungi, Ohesha, Lance, and Oswald jump into the access tunnels. Kasgan and Jarlo prepare at the north door, Ifa at the south, weapons in hand.  Ohesha and Lance get busy setting up a distracting TV vision: a horrid hybrid of Jarlo's voice and Kasgan's face to inspire the masses to insurrection - WHAT A SUCCESS!!! As a result of their incredible teamwork, Ohesha and Lance access screens across the station -  Jarlo, it's time to *shine*!
+
+AND HE DOES!!! What a miraculous paragon on persuasion! (2 triumphs and 2 success, hahaha!) Get that charisma on, leaving 5 Storm Troopers shaken. 
+
+### Fight night!
+
+Ifa comes up behind the trooper she is stalking - she reaches out and senses his thoughts of wanting to be away, wanting to leave this place. She speaks with him, encouraging him to leave his own captors and uses compassion to sway him away from this fight. It works! Ifa just councellored that guy into pacifism. Wow! 
+
+Kazgan's turn, and he's out for blood. He first misdirects, using a deception check with force die, to make the nearest trooper believe that he is coming in as the Second Sister and shouts, "Kill the traitors!" while pointing to two troopers on a nearby dias. He shoots an AMAZING shot, damaging both on the dias - the Eastern Wall troopers are also now shaken, leaving all but the trooper sergeant now in deep fear. 
+
+Finally, we come to Gungi - now that everyone's peeing their pants, Gungi is ready to put the icing on the cake. He jumps out, immediately engaging with two nearby troopers who have to make fear checks. One just straight runs away, the other gets whacked with the lightsabre, is disarmed, and maybe dies? Not if Gungi can help it, but...you know. Maybe dead.
+
+In response, the Sergeant realizes his troops suck. Unloading his gun (unsuccessfully) at Gungi, he screams to the troops to aim for the Wookie. One manages to hit, doing 5 damage. Another of the troopers, confused about why the "Inquisitor" (Kasgan) is suddenly carrying a gun, freezes in place while his neighbour fires at Kasgan, hitting for 6 damage. 
+
+But don't despair! The crowd has begun to turn to Crewty's team - one of the lead racers runs out and tackles a trooper, trying to wrestle the gun out of their hands with the rest of the crowd building to action. 
+
+Player turns - Gungi storms up to fight two troopers, he hits the Sergeant, doing 8 damage and compromising the Sergeant with a *critical hit*.  Kazgan, not to be one-upped by the Wookie, jumps on to the dias and aims at the Sergeant for a *dirty kill steal*. He crits! The Sergeant is DEAD! 
+
+Now, to Ifa's turn. She aims her lightbow at two remaining troopers on the W side, and BLAM! A massive explosion rockets, killing them. And, _triumphantly_ triggers the fire suppression system. The fire suppression doors slam shut, locking Jarlo out. Oops. 
+
+He rustles through the mechanical tunnels, popping out where Gungi did on the E Side. He sheepishly fires his blaster at the only lingering trooper, the one tackled by the pilot. Oops. The good luck streak has ended...and he misses but with 3 advantage.
+
+## Sweet, bloody victory - let's get out of here, then.
+
+Ohesha luckily is unphased by this bad kismet. The plane doors open after some coding, showing off 5 glorious, shiny speeders. And what's more, it looks like they've been worked on. Aw yes. She opens her short range communicators, indicating she'll make her way to the Winnebego to work on the station shield with Lance. With the help of the pilots, they could get out. Looks like they just want to leave, but first Jarlo needs to beg for their help. 
+
+He explains their plan, and encourages the pilots to get involved. Then, Gungi counts the money in his pocket, and adds an additional 5000 credit bounty for each pilot. Jarlo's persuasion (and maybe a bit the bounty) results in resounding support from the pilots. 
+
+Heartwarmingly, various members of the crowd come up, offering their help as mechanics, astromech droids, and other skills for contributing to the effort.
+
+While Kasgan and the pilots go off to work on their ships, trooper cutters start breaking into the hangar bay. Oddly, there doesn't seem to be any lightsabre light coming through. Meanwhile, Lance's datapad starts beeping.
+
+"Uh, that seems bad. We just lost air flow...the life support systems may be damaged." 
+
+Well. Ohesha messages the rest, asking Jarlo to talk into the station-wide comms system - he calls the attention of everyone on the station. 
+
+"Life support has been compromised, please begin to evacuate. The Empire has done this to us, as long as nothing unexpected happens, we should have enough oxygen."
+
+The room stirs, obviously stress is building, but it's manageable for now. 
+
+Kasgan and crew will be ready to launch by the time Jarlo has made his speech. Half the room leaves, but half sticks around to help the Crewty. Amazing! 
+
+Jarlo: "See that door that's being cut through? Let's leave before they finish! Let's go!"
+
+The crowd bustles near the door, blocking efficient exit. The north doors drop, dark armoured troops come guns out and ready to fire. 
+
+### Dark Troopers, whomp whomp
+
+BLAM BLAM! They fire into the crowd, killing several. One hits the control panel for the exit and WHOMP - it slams shut, leaving Jarlo, Ifa, Gungi, Lynn, Oswald, and another NPC in the room. Round one: usher in the NPCs, they are now safe. Jarlo takes a well-aimed shot and 
+
+WOW! HE DOES IT! Shoots the trooper! WHAM!
+
+Ifa and Gungi have slightly less luck. Gungi sprints to the corner to grab a gun, then shoots it off. Actually hits?! WOW!
+
+The troopers line up their sights, one shooting at Jarlo, the other at Gungi...fates align and they miss! Dice wash out! 
+
+Skedadle you three! Ifa destiny-points-up some debris to block their way, and they get into the mech tubes.
+
+### Meanwhile, back with the pilots...
+
+PYUM into space. Ohesha and Lance hop on the Winnebego..with a slow start from Lance's new piloting skills. Kasgan and pilots know the locations of the tie fighters and the path to their objective.
+
+Fight begins! Three tie fighters sweep the arena and ding one of non-Kasgan pilots. Kasgan begins to warm up his weapons, getting ready to assault those fighters. Pew pew! Pilots fire left and right, first one tie fighter, then another, then they're all debris. 
+
+VICTORY! That was quick!
+
+### Those pilots are too good. Pedestrian time
+
+The on-foot-walkers (Jarlo, Ifa, Gungi, Lynn, and Oswald) notice that the small breeze that's been running through the vents has stopped - this is different than when the life support was cut. They're in the tractor beam room - the Crewty spend a light side point and WOW~ Jeff the tractor beam technician can help us. While Ifa uses astrogation to work out how to throw the asteroids, Jeff the tech to assist. 
+
+After she finishes up, Ifa pulls out her medical kit and heals some of Gungi's wounds. Jarlo, sitting at the door to wait for his turn at healing, Force-senses at least two new troopers pulling up to the door. 
+
+_And here we end the session!_
+
+1. Troopers at the door to the tractor room
+2. Tie fighters (4) moving towards the departing ships
+3. Ifa to heal Jarlo at the next session
+
