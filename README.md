@@ -84,15 +84,19 @@ Table of Contents
    * [Session 11: Viva la Revolucion](#session-11-viva-la-revolucion)
       * [Tensions at the Rebel Foyer](#tensions-at-the-rebel-foyer)
       * [Invited to the base](#invited-to-the-base)
-   * [Session 11: Viva la Revolucion](#session-11-viva-la-revolucion)
-      * [Tensions at the Rebel Foyer](#tensions-at-the-rebel-foyer)
-      * [Invited to the base](#invited-to-the-base)
-   * Session 12: Viva La SVegasolution!
-      * Making our entrance on the casino
-      * Liberating our casino friends
-      * Combat!
-   * Session 13: No More Slots!
-   
+   * [Session 12: Viva La SVegasolution!](#session-12-viva-la-svegasolution)
+      * [Making our entrance on the casino](#making-our-entrance-on-the-casino)
+      * [Liberating our casino friends](#liberating-our-casino-friends)
+      * [Combat!](#combat)
+   * [Session 13: Excitement!](#session-13-excitement)
+      * [Hanger Dang-er](#hanger-dang-er)
+         * [Jarlo rallies the troops](#jarlo-rallies-the-troops)
+         * [Fight night!](#fight-night)
+      * [Sweet, bloody victory - let's get out of here, then.](#sweet-bloody-victory---lets-get-out-of-here-then)
+         * [Dark Troopers, whomp whomp](#dark-troopers-whomp-whomp)
+         * [Meanwhile, back with the pilots...](#meanwhile-back-with-the-pilots)
+         * [Those pilots are too good. Pedestrian time](#those-pilots-are-too-good-pedestrian-time)
+
 
 Character info
 ============
