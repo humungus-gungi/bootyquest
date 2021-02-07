@@ -1639,3 +1639,145 @@ _And here we end the session!_
 2. Tie fighters (4) moving towards the departing ships
 3. Ifa to heal Jarlo at the next session
 
+
+Session 14: Buckle up. The fight continues! 
+=================
+
+## Tractor beam room
+
+Jarlo overhears chatter on the coms - Elite Guards are coming up to the tractor beam. The Inquisitor is busy taking down life support. 
+
+Jarlo speaks up, asking for more time for the life support system. He says there's a squad with difficulties - he's trying to persuade the troopers/Inquisitor on the line that a troop is having technical difficulties. He succeeds! The troopers, very used to these sorts of technical difficulties. 
+
+Inquisitor: "I don't care *who's having trouble with life support!* You'll have time to get off the station after I'm done..."
+
+Jarlo attempts to convince her that there is a real danger, persuading. He rolls a success, 2 advantage, and a despair?! Wow. 
+
+She does believe him. She stops to say: "Troopers, what's your TK number? What's your code?"
+
+Jarlo looks into the helmet (flips a light side point), and sees that the trooper number on a laminated card inside. Thank goodness! 
+
+Inquisitor: "TK blah blah blah, you're out of position! We just passed where you are!"
+
+Jarlo: "Of course, we had life support issues!" He now pretends to make choking noises, the troopers arrange to have them move to a fixing station for the troopers. 
+
+The Inquisitor is on her way to the life support room....just down the hallway. 
+
+### Anyway so what's the evacuation status?
+
+Tie fighters have been launched here. Kasgan is going to engage with the fighters, flying over to protect the civilian ships leaving the station, speeding over. 
+
+Ohesha follows suit, Lance awkwardly flying slowing and cautiously. She pumps up the engine to give Lance extra ability to dodge and move (results in extra blue dice for Lance's next piloting check).
+
+Kasgan, 1S 2A 1Triuph - BLAMO!!! Shooty shooty! The first barrage destroys the tie fighters in three shots - the remaining pilots turn their sights on the Star Destroyer. 
+
+In response, a laser charges and blasts into the side of the station. The tractor tech inside screams, "Woah, we just got hit hard! The docking area's been blasted open!"
+
+### The station has been hit! 
+
+Venting air, the station is compromised. 
+
+(Flipping a light side) - the station has automatic blast doors, such that less oxygen vents than would otherwise. 
+
+Jarlo senses now is a good time for a leadership speech, "Now is our time to shine! We're going to get the Empire this time, go us!" 
+
+Very rousing. 
+
+Ifa: It's time to revolt against the empire. They obviously don't care for us - we all need to rise up. Jarlo, tell the people to fight back! 
+
+Jarlo: You might as well fight for us! The empire is trying to kill us all! The fight now lies in the tractor beam room and the life support room - come and fight. 
+
+In a massive mix up for Jarlo, he doesn't manage to rally any troops. Ifa and Gungi move to the life support room and prepare to get a jump on the Inquisitor. Ifa uses foresee - she sees the Inquisitor straining under the conflict of two personalities - she sees her reach a door (the door to the life support room, apparently) and reaches out with the force, sensing what is going on in the room. 
+
+### IN SPAAAAACE
+
+Tie fighters are pouring out of the Star Destroyer. Two interceptors join the fight, backing up the regular fighters.
+
+A few pilots are shot, none yet taken down but several are struggling to keep flying. Astromechs are panicking over the coms as they try to control the ship systems under fire. 
+
+Kasgan, ever confident, aims for the Interceptor himself. It's harder to hit, but a better trophy. He gets 2 success, 4 advantages *despite the odds!* **Never tell him the odds**.  One of the interceptors is down! 
+
+- [ ] As the other pilots fire on the neighbouring tie fighters, the rolls are ON FIRE! Tie fighters are blowing to bits. Advantages are flowing from Kasgan's rolls to Ohesha! Lasers are flying! Mechs are scrambling to heal hull damage! 
+
+TWO TRIUMPHS WHAT?! This is wild. Just crazy rolls from the pilot squad. 
+
+The pilots are closer to the Star Destroyer now, there are more turrets than they'd thought originally. Just so many turrets to fire on them.
+
+Ohesha takes down 4 of the shields, some of the asteroids begin to float over. 
+
+### Oooh let's go back inside
+
+Jarlo feels multiple life forces moving towards them - he again calls out over the intercom for more help, it worked and troopers are being overtaken across the station. 
+
+Meanwhile, everyone in the tractor beam room gets ready for a fight as three elite troopers walk up to the door. 
+
+In the Life Support room, the doors open and the Inquisitor stands in the entryway. Ifa reaches for her, walking up unarmed. 
+
+"You know the mother is just using you, you can choose another life."
+
+"You hypocrites, your rebelious ways have put everyone in danger."
+
+Ifa: "We're trying to ensure that people have a choice, that slavery and darkness isn't forced upon them. They can choose another way - those who are rising up against you and the empire are chosing another way."
+
+The Inquisitor falls backwards, holding her head. The Mother's voice rings out: "I know these two..."
+
+A brief struggle of wills takes place - there's going to be some kind of fight. 
+
+Gungi will take the opening hit, the Inquisitor breathing quite heavily. She's staggered, get a blue die, she blocks a good amount of the damage as our lightsabres clash. 
+
+The Inquisitor starts laughing - "I've been waiting for this."
+
+Well, at least Gungi had a good run. 
+
+### SPAAAACE 
+
+The pilots are still firing away - the remaining interceptor does a kamakaze dive into the WInnebego, *In Space No-one Can Hear the Deals*! It crashes in, doing massive damage and endangering Ohesha and Lance inside. While the interceptor is destroyed, it definitely managed to intercept realllll hard. 
+
+_I guess the GM has decided everyone is to die this week._
+
+More tie fighters and interceptors pour out, the pilots continue to fight against them. Two more drop to hits (using the Link ability). 
+
+Ohesha works to restore the air seal on *Nobody Can Hear the Deals*, and keeps it space-shape for now.
+
+### Tractor beam room
+
+Jarlo attempts to inspire the troops in the room, weakly inspiring a few of them. 
+
+The door drops, troopers walk in. Oswald takes a first hit, blasting an Elite trooper right in the chest, the others join in and pepper the troopers. Some miss, some hit in scraping shots, clipping arms legs and causing him to stumble back, takes a knee, and dropping his gun. 
+
+The other two raise their weapons and we go to the ...
+
+### Life support room
+
+The inquisitor goes first - she strikes Gungi, Gungi hits back. They're both parrying plenty, but still definitely damaging one another. 
+
+Ifa strikes from a distance - the shot hits her, and she has significantly less ability to parry from the ranged attacks, clumsy and distracted. 
+
+### Space is getting heated
+
+Tie fighters are slamming into asteroids, approaching the civilian ships. The other interceptor swings around to Kasgan, firing at him.
+
+The fight continues - now there are four interceptors, ten tie fighters plaguing space. Kasgan focuses on those threatening the Winnebego, destroying one. Greedo pilot focuses on the next wave of fighters leaving the destroyer, heavily damaging one. 
+
+Ohesha is continuing to take down shields. 
+
+### Inquistor strikes again
+
+She activates some features of her lightsaber - the sabre starts spinning, wow. This sucks. 
+
+She hits Gungi twice with each side of the blade, nearly taking him out. Ouch! 
+
+Ifa Ebb/Flows with a lore check, attempting to weaken the Inquisitor with lore about the Mother. WOW DOES SHE EVER TALK HER INTO BEING STRESSED! 
+
+Ifa: "The Mother is the great deceiver, she prefers slaves to servants. The corpses of her servants serve her forever...she will be the destruction of the Empire. She wants to bring down the Empire and destroy everything..." The Triumph comes into play here - Ifa and the Inquisitor both take two strain (plus some extra secret strain for the Inquisitor). 
+
+The Inquisitor, holds her head, speaking both as the Mother and Inquisitor simultaneously as they fight for control, the lightsabre stops spinning. Gungi strikes, taking his opportunity - AMAZING CRITICAL! He disarms the Inquisitor, gets a free second attack, and gives more strain - Gungi grumbles "Stay down!"
+
+Back in the Tractor Beam room: 
+
+Jarlo has been shot, he's dropped. He automatically takes a critical hit - he's suffering strain each time he performs any actions. 
+
+But lo, the star destroyer starts to move. It begins slowly to drift, backing out of the shielded area. Sadly, all three of the civilian ships have now been destroyed, along with one of the pilots. 
+
+**The adventure will continue next time, as we learn what will happen with the Inquisitor, Star Destroyer, and unconscious JARLO!?!** 
+
