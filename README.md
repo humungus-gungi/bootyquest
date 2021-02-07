@@ -1639,3 +1639,7 @@ _And here we end the session!_
 2. Tie fighters (4) moving towards the departing ships
 3. Ifa to heal Jarlo at the next session
 
+Round 2:
+ - Inquisitor activates her spinning lightsaber!! Oh no!! Attacks Gungi; does 10 damage :C
+ - Ifa adds significant stress by using her Lore check (via Ebb/Flow), and telling the inquisitor just how mean the Mother is
+ - Gungi absolutely fucks the inquisitor up
