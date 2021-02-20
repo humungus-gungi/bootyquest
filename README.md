@@ -1781,3 +1781,35 @@ But lo, the star destroyer starts to move. It begins slowly to drift, backing ou
 
 **The adventure will continue next time, as we learn what will happen with the Inquisitor, Star Destroyer, and unconscious JARLO!?!** 
 
+
+Session 14: I'm tired of these m'f'n stakes in the m'f'n game
+=================
+
+Reminder that:
+- The starship is backing out of the asteroids. As it does, it's emitting back-up beeps.
+- The inquisitor is unconscious and disarmed, because Ifa and Gungi stressed her out.
+- Civilain ships are being destroyed by tie fighters as Kasgan focuses on protecting Oasha.
+- Jarlo is losing consciousness as civilians keep shooting at troopers.
+
+In the life support room! Gungi picks up the inquisitor's lightsaber, and Ifa ties up the inquisitor. Inquisitor's doing some internal churning, so Ifa mind melds the inquisitor. The mind meld'd world is fire! So burny! And she's fighting a distorted force using lady, reminiscent of a presence on Centerpoint station - the mother!
+Ifa has a form in this mind meld'd world, and is joining the fray - trying to help the inquisitor beat up the force user. She willpower's her lightbow into a form which deaden's force around the target. Ifa fires a bolt, and the mother has her force powers sapped away by the generated field. The inquisitor is confused by Ifa's appearance, and the mother gets really creepy realizing that Ifa's gotten more powerful. Ifa ignores the Mother, and verbally offers support to the mother. The inquisitor starts lightsabering the mother, but the mother's limbs just grow back. 
+
+Meanwhile in space!!! Oasha has some tie fighters moving to intercept, and Kasgan moves to engage them. Kasgan takes some evasive maneuvers to avoid damage, and takes his shot - immediately destroying a tie fighter! Picasso takes a shot at the interceptor, and gets a triumph!!! The interceptor is obliterated, and kareens into a anti-astroid shield generator, destroying it! Greedo chases down and destroys a straggling tie fighter, and Ace crits an interceptor!! It's a bad day for tie fighters.
+
+Oasha turns off some shield generators!! She takes down the remaining three sheild generators on the star destroyer's starboard side.
+
+Star destroyer turn!! It has six turrets which fire at our friendly ships. Kasgan is hit for 6 damage! He's only got one health left! GREEDO TAKES TWO HITS AND IS DESTROYED!!!! More civvy ships take hits, and another is destroyed by tie fighters.
+Several asteroids start colliding with the star destroyer, and take out a shield generator and some turrets.
+Some asteroid fragments shower around the fighters. Pilots need to dodge them, and will be distracted next round while trying to fire. Kasgan takes no damage, Picasso takes no damage, and Ace rolls a triumph on her check! In the triumph, an asteroid fragment gets redirected into a vulnerable part of the star destroyer.
+
+Back in the lifesupport room: Ifa wants to beat up the Mother inside the inquisitor's brain! She imposes her will to form the lightbow into something which amplifies the lightsaber damage going to the Mother. The Mother dodges the shot, but the inquisitor gains some advantages. The inquisitor keeps fighting, and cuts through the mother - making the Mother fade into a cackling cloud of dust! The Mother speaks to Ifa's mind - she talks about having many vessels, and seeing Ifa again later. The Inquisitor thanks Ifa, and both Ifa and the Inquisitor come back to reality. 
+Gungi takes the Inquisitor over his shoulder; Gungi and Ifa move into the tractor beam room to see what's going on there. 
+Jarlo's still unconscious. 
+
+Cutscene time!!!
+
+With an unconscious inquisitor, the fight is easily won by the civilians onboard the casino.
+The star destroyer, battered by asteroids, flees the battlefield.
+Onboard the station, Lance commands repairs of the station.
+Rebel friends come back with a disassembled missile battery.
+Kyle points out that Hronkin was a bad guy, and is essentially out of his old power.
