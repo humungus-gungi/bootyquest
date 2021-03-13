@@ -1548,6 +1548,9 @@ Turn #5:
  - Oasha locks the doors behind us. As the doors lock, the door is cut almost the rest of the way through - and is thrown across the room by force poser. 
 
 
+# HEY KYLE THIS IS WHERE EXPERIENCE STARTS
+
+
 Session 13: Excitement!
 =================
 
@@ -1796,7 +1799,7 @@ Ifa has a form in this mind meld'd world, and is joining the fray - trying to he
 
 Meanwhile in space!!! Oasha has some tie fighters moving to intercept, and Kasgan moves to engage them. Kasgan takes some evasive maneuvers to avoid damage, and takes his shot - immediately destroying a tie fighter! Picasso takes a shot at the interceptor, and gets a triumph!!! The interceptor is obliterated, and kareens into a anti-astroid shield generator, destroying it! Greedo chases down and destroys a straggling tie fighter, and Ace crits an interceptor!! It's a bad day for tie fighters.
 
-Oasha turns off some shield generators!! She takes down the remaining three sheild generators on the star destroyer's starboard side.
+Oasha turns off some shield generators!! She takes down the remaining three shield generators on the star destroyer's starboard side.
 
 Star destroyer turn!! It has six turrets which fire at our friendly ships. Kasgan is hit for 6 damage! He's only got one health left! GREEDO TAKES TWO HITS AND IS DESTROYED!!!! More civvy ships take hits, and another is destroyed by tie fighters.
 Several asteroids start colliding with the star destroyer, and take out a shield generator and some turrets.
@@ -1809,7 +1812,45 @@ Jarlo's still unconscious.
 Cutscene time!!!
 
 With an unconscious inquisitor, the fight is easily won by the civilians onboard the casino.
-The star destroyer, battered by asteroids, flees the battlefield.
+The star destroyer, battered by asteroids, backs out the battlefield.
 Onboard the station, Lance commands repairs of the station.
 Rebel friends come back with a disassembled missile battery.
 Kyle points out that Hronkin was a bad guy, and is essentially out of his old power.
+
+
+Session 15: Casino? More like Ca-See-Ya-Later!
+=================
+
+First off, that last cutscene was just Jarlo dreaming.
+
+Introduction! The starship slowly backs out of the asteroid, and points its broadside at the casino. Oh no! Several anti-ship batteries have been destroyed, but some big guns on the broadside point at the casino. There are still 5 tie fighters and an interceptor out in the asteroid field, as well as Kasgan's remaining fighter friends, and Oasha taking shelter behind asteroids.
+
+Oasha gets really snuggled into the anti-asteroid shields. She figures out how to use generators' thrusters to move the shields infront of the incoming broadside. She hops on the radio telling Kasgan the plan - and to stay out of the way. She succeeds the hack, and gets the generators moving. The tie fighters happen to be near where the shields are going, and they'll need to scramble to keep from hitting the shields.
+
+Kasgan goes guns-blazing at the tie fighters. He takes out two tie fighters in one turn, woah! Picasso takes lots of really good shots at the tie fighter, but forgets about a new shield being in the way, and misses with 5 advantages. Ace decides that Kasgan can't take all the credit, and totally destroys two tie fighters herself! Fragements from the destroyed tie fighters litter the field, and make it harder for the star destroyer to cleanly target the casino
+
+Tie fighter time! The interceptor lands a hit on Picasso! Picasso takes 5 damage, and has one health left, with no astromech repair left. The last remaining tie fighter crashes into the shield, like a dork.
+
+The star destroyer fires! Some shots hit the shield and asteroids, but some make it through to the casino. The casino is rocked by heavy fire.
+
+Back on the station, Ifa does some healing on Jarlo, getting him back on his feet. Jarlo is still on the brink of death, and will take one strain per action.
+
+Gungi takes some manacles and restrains the inquisitor. 
+
+Over the radio, the civvies get news that Hronkin has been captured in the VIP hanger bay. Jeff the tractor beam guy stays around with some armed guard, and the rest of the crew runs off to see what's happening with Hronkin.
+
+In the VIP hanger, civvies have captured Hronkin and several storm troopers. The hanger bay has several yachts, but also some imperial ship transits! The civvies are in a mob, looking for blood. Jarlo tries to convince the crowd that prisoners are more useful than the dead, backed by several of the civvies from the last fight.
+
+Back into space!!! A Lego A-Wing fighter comes into the fray, and destroys the interceptor. It's Ceril from the rebel crew! They've hooked the missile battery to their ship. It's got one shot. Ceril suggests taking aim at the star destroyer's bridge, and taking a shot once the destroyer's remaining shield generator is down.
+
+Oasha moves the shields to cover more of the star destroyer's cone of fire. The shields cause some weird asteroid collision/interractions, making it harder for it to target the Casino
+
+Kasgan and crew strafe the shield generator! And rolls a dispair on the strafing run!! He does good damage to the shield generator, but a stray turret shot hits Kasgan's ship, not doing any hull damage, but breaches the air seal on the ship. Kasgan has five minutes of air remaining!!! Picasso does more damage to the shield generator. Ace does enough damage to the shield generator, and the generator EXPLODES into mechanical candy! Ceril in her A-Wing strafes the turrets around the bridge, and takes out two of the turrets. 
+Now it's time for EIGHT turrets to take shots. Picasso takes a hit!!! His ship explodes, and hits the side of the destroyer; Picasso is dead! Ceril takes a hit, but her mech gets to work on repairs.
+The rebel ship comes in with a missile to launch. It takes a shot at the bridge, and hits! The bridge goes down, and the turrets stop firing. The star destroyer is burning in space.
+
+Back on the Casino, a mob is still looking for justice. Ifa decides she wants to know whether the empire is coming back any time soon using foresight. She sees a burning star destroyer in amongst an asteroid field being rescued by a second incoming star destroyer, but the casino is out of the picture. Jarlo reads Hronkin's mind, and learns that he is only treacherous. He also convinces the crowd that imprisoning Hronkin and the guards for interrogation is worth more than killing them. 
+
+**Cutscene!!**
+
+The casino starts moving around, using all of its thrusters and tractor beams for maximum thrust, with some asteroids in tow for camoflauge. The ships on the outside dock and repair. The inquisitor and Hronkin are in the brig. Looks like the Casino is under rebel control now!!!\
