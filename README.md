@@ -1856,3 +1856,19 @@ Back on the Casino, a mob is still looking for justice. Ifa decides she wants to
 The casino starts moving around, using all of its thrusters and tractor beams for maximum thrust, with some asteroids in tow for camoflauge. The ships on the outside dock and repair. The inquisitor and Hronkin are in the brig. Looks like the Casino is under rebel control now!!!
 
 The gang goes into an intense RP session to figure out what the Inquisitor wants to do, where her allegiences lay, and what we should do with her. We reveal that the Mother is certainly still active inside the Empire, and she wants to be released to personally warn Vader. After reading her thoughts to gain some confidence, we are convinced that the Mother is more important to her than combatting us or the rebellion. We release her in an imperial transporter to do what she will. The rebellion leaders are confused by the action. Hronkin in handed over to Lance as his prisoner.
+
+Session 16: SHOPPING SHOPPING SHOPPING
+=================
+
+The gang shops a bunch. Among other things, we buy a hclocron and a mysterious map.
+We bought parts to repair the Casino, for exactly 100k as it happens. Buying them was interesting, though - the sales rep was a particular dismembered mechanic from kessel.
+
+Session 17: Fix the Casino!!
+=================
+
+Kasgan surprises us with a new ship. A nice space ship. It has a gun on it! 
+Oasha installs a bunch of mods that people bought. 
+Ifa and Gungi read the Holocron we bought. And oh man, it has a program by Suljo Warde! Gungi knows about this guy - he was a guest speaker at the academy, and a master of foresight. He fought in the clone wars, cool! The 
+holocron contains secret knowledge saved by Suljo. In fact, the holocron is a straight up force-imprint of Suljo. 
+Ifa asks Suljo about the Mother. Suljo knows nothing. 
+Ifa asks the holocron about it's primary function - Warde's copy gives a story about Warde's ability to predict the future - including predicting other people's decision making. Warde encoded his teachings into three kyber crystals, constructed alongisde the holocron. To learn Warde's secrets, we need to follow in his footsteps, starting on the planet where he constructed the crystals.
