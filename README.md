@@ -1455,6 +1455,7 @@ The Crewty then spends some good time planning their casino-takeover strategy. H
 Session 12: Viva La SVegasolution!
 =================
 
+
 ## Making our entrance on the casino
 
 Oh man, we're getting ready to storm a casino! There's a fabrication and speech'ing and guns'ing montage. It's sweet. The camera cuts to a wide shot of the occupied casino, with rebel ships and the booty quest coming in dark. Winnebego inside booty quest, rebel ship approaches the base. T4Z1's piloting the booty quest, and will be parked hidden in the asteroids.
@@ -1682,6 +1683,7 @@ Venting air, the station is compromised.
 
 (Flipping a light side) - the station has automatic blast doors, such that less oxygen vents than would otherwise. 
 
+
 Jarlo senses now is a good time for a leadership speech, "Now is our time to shine! We're going to get the Empire this time, go us!" 
 
 Very rousing. 
@@ -1857,11 +1859,162 @@ The casino starts moving around, using all of its thrusters and tractor beams fo
 
 The gang goes into an intense RP session to figure out what the Inquisitor wants to do, where her allegiences lay, and what we should do with her. We reveal that the Mother is certainly still active inside the Empire, and she wants to be released to personally warn Vader. After reading her thoughts to gain some confidence, we are convinced that the Mother is more important to her than combatting us or the rebellion. We release her in an imperial transporter to do what she will. The rebellion leaders are confused by the action. Hronkin in handed over to Lance as his prisoner.
 
-Session 16: SHOPPING SHOPPING SHOPPING
+
+Session 16: Shoes. Let's buy some shoes.
 =================
 
-The gang shops a bunch. Among other things, we buy a hclocron and a mysterious map.
-We bought parts to repair the Casino, for exactly 100k as it happens. Buying them was interesting, though - the sales rep was a particular dismembered mechanic from kessel.
+The Inquisitor reached the Mothership, the navigation on the imperial transporter. The casino is on its escape path. . 
+
+Lance is in the control room, barking out orders on navigating the tugs. 
+
+"Set the decoys, turn about 3.2 degrees, ... "
+
+Lance gives out the money, saying "This reward I'm giving you is contingent on you successfully getting the repairs and equipment we need. We'll die, everyone on board, unless you come back with the life support gear we need. We're unarmed, at risk of pirates, we need you."
+
+Layton and his team are coming along, as will a larger civilian transport ship to move the gear. 
+
+Lance gave us about as much as it cost, but he can top it off if we need to. Ohesha and Lance break into a long conversation about the importance of quality goods; nothing is more important than a good warranty. 
+
+Layton hands over a list of goods tha his contact - Akalin, from the Wheel - has seen go by recently. "He always finds the cool stuff...he's not a great salesman though looking at this list."
+
+ Pamzan wanders up, "That's not Akalin's list, is it? Everyone at the Wheel is so raacist..."
+
+Turns out everyone's pretty human there. Oops. Oh well. Guess there's nowhere else we can go.
+
+Skooky and Ohesha are currently going over the list of parts excitedly, discussing the trade-offs between different generations of parts, spouting serial numbers and SKUs. Ohesha's friggen thrilled. 
+
+"Well this one's a little more expensive, but I think it's a better purchase." Jarlo and Ohesha perk up, imagining how they'll be able to haggle down prices.  
+
+Hmmm....seems like we might need more humans on the team. The Crewty considers bringing more humans along to try to fit in better. They plan to bring along Layton, Lance (is he even a human?), and Oswald. But first, Jarlo has to convince Oswald that it's worth the trouble of joining in. 
+
+Many pilots are also keen on leaving the station - the gas circulating throughout casino is starting to stink of metallic gunk, and they are eager for any excuse to get fresh air. 
+
+Before they go, the team brings shirts to the sexy hot tub men (mostly Twi'leks) in Jarlo's office. For punishment's sake. 
+
+Then they're off! Hyperspacing for about half a day, they arrive at The Wheel. 
+
+It's a donut-shaped station with a shielding device around it, which protects it from the Empire. This is not only a trade hub for both above- and below-board trade, but also a popular tourist attraction with casinos and high rate hotels. The Crewty receives an incoming message with a cheery robotic voice:
+
+"Hello and welcome to the Wheel! I'm MasterCom, and I'll be your guide through this stay! May I ask your purpose at the wheel?"
+
+Jarlo: "We're looking to buy a ton of space station materials and are looking for a trading dock"
+
+MC: "You had me at 'buying', friend! Come in and dock at Spot 17. Enjoy your stay, and you can access me at any computer terminal if you need anything"
+
+We park and there is plenty of extra space. This is made for massive loading, MC seems to have taken into account that we will be dealing in some heavy goods. 
+
+Gungi puts on his disabled shock collar and robes, hiding his lightsaber. Ifa takes her staff (*walking stick*).
+
+The hanger deck contains a variety of stores etc. The Wheel is basically a modern big city, but in space! 
+There are a lot of cargo storage here, clothing outlets, and signs pointing towards the promenade: droid repair, parts stores, an information kiosk, a lot...there's a lot going on here. At the entrance, there's a lot of touristy materials and ship maintenance (fuel, cantina, etc.)
+
+The pilots who stayed behind bicker about who's going to be designated driver as they funnel into the cantina. 
+
+Jarlo votes clothing - SewNews Apparel. They carry a "complete line of starship ready clothing for many species. Jump suits, even space suits! Even our limited supply of formal wear" The owner, Sonnu, is a Twi'lek currently sitting behind the counter in discussion with a customer. She does not wear lavish clothing, rather utilitarian. 
+
+Ifa wants to put on something more business-like for the sake of negotiation. Jarlo, with his superior market knowledge, realizes she's selling for about 2/3 the market value, very cheap. 
+
+Jarlo: "These are some cheap suits!" Sonnu remarks, "You're welcome to pay more if you like". Are they knock-offs? Did they fall off the back of a turn-up truck? 
+
+Kazgan asks for a custom job, "Can you mark this with a K?" For another 10 credits, consider this shirt emblazoned. "If you do a good job, I'll give you 35c. But only for the best! I gotta have the best! I want blaster shots on it, so people know what's coming for them before I blast em. And sharks with a laser beam cannon!" After half an hour, Evan the embroiderer comes out. It is the gaudiest thing anyone has ever seen. 
+
+Kazgan is thrilled. 
+
+They then meander over to the Armour shop recommended by Sonnu: Rennick's Shop of Armour. Rennick, a flying watto-like creature, runs the place. Filled with cheap armour, prices a little below what they typically would be. 
+
+Rennick: "Welcome to my shop - looking for some protection?"
+
+He'll sell at 2/3 the regular asking price, and has a few simple mods. Ohesha's looking for armoured clothing with a camo mod. 
+
+Ifa's looking for Kurtosis gauntlets, very fancy! "That's one of my rarer pieces, but I do have it over here. Not as much of a deal, but still preeetty good." Ifa snags em. 
+
+Gungi slips hims 100 credits to slip up the location of a black market armour shop where he can find, "Kanto's place. He's got particular gear, weird stuff for sure, but he's the kind of guy you're looking for. But...eehh, he's a bit xenophobic..." Gungi gives him another 20 credits for the tip. 
+
+After buying some armour, the team goes to a popular space station parts store. "Come on in, be with you in a moment". Uh oh. It's Venneck...the Trandoshan who...uh, got dismembered. His limbs are all prosthetics....*they didn't grow back?*...he rattles over to the counter. 
+
+Gungi and Ifa slink out of the store before he turns around. Facing Jarlo and Ohesha, Venneck says, "Hey, don't I recognize you? I think I ... have you been here for a while?" After searching for the name "JARLO", he fills with fury. 
+
+His datapad shows a photo of Wookies filing into the Booty Quest, Jarlo firing at guards. "Is this you?!?!"
+
+J: "Yep! That's me!"
+
+V: "Do you know a big Wookie? With a lightsaber? Named, Goongi? No, it says here, Gungi..."
+
+J: "Hmmm, I don't know any Wookies named Gungi..." *Deception, Jaro? LIES?!*
+
+Somehow Jarlo convinces Venneck that Gungi was just another in the mob of Wookies. They begin talking a deal, offering to help compensate him for the troubles he experienced as a result of their involvement on Kessel. His out the door offer: 200,000 credits.
+
+Wow. NOT a deal. Jarlo asks for an itemized list, which is denied. Meanwhile Ohesha tallies up her own estimate of the appropriate cost. 
+
+Jarlo counter-offers with 100,000 credits. Vennick, denies. "Look, for the prosthetics and these parts, I'm going to need at least 110,000." With the help of MC, who was very keen to ensure that the transaction was mediated effectively. Finally, the whole cost goes to 100,000 credits. FInal sale. 
+
+V: "Now get the hell out of my store!"
+
+ They go on to see Kanto in district 12. Four guards wait at the door, Kanto is tinkering with a weapon in the otherwise empty room. 
+ 
+ K: "What do we have here?"
+ 
+Kasgan: "You got any guns?"
+
+K: "Plenty. What're you looking for?"
+
+Kasgan: *lists all the guns on Akalin's newsletter*  "is this an accurate list or not?"
+
+K: "Sure, I have them, but the prices might be a bit...different for you" 
+
+Ifa: "He's buying for me"
+
+K: "Really? You think you could hold the rotary cannon? I don't think any of you could"
+
+I: "I don't do my own shooting - I take care of them, they take care of me"
+
+K: "These don't look like guards"
+
+I: "Only the most common of people speak about money. Don't talk to me about how much I spend on my staff".
+
+K: "Alright, so we're looking at a thunder head, a proton rifle, and....armoured robes to fit a slave [Gungi], right. I believe that..."
+
+I: "Better to protect me if I'm in a scary situation, so I don't have to take care of myself"
+
+K: "Alright, I can give you those weapons. For .... 20,000 credits." Time for Jarlo to negotiate. 
+
+They negotiate down to the prices on Akalin's list, after an incredibly charming display from Jarlo. 
+
+Ifa and Gungi head over to the New Age shoppe, which is very much the stereotype you would expect it be. Incense fills the air, crystals line many counters. Ifa and Gungi go up to the nearest employee, asking if they knew Ember Nebula, the woman Ifa is looking for. 
+
+"Ooh, the Ember Nebula is currently stocking the lucky totems in the corner. You'll know her from the beads in her hair"
+
+Ifa: "Thank you!" She walks over to Ember Nebula and pulls on her hair beads, "Hello! Ember Nebula! We have travelled so far...we are travellers who are in search of things we heard you may have. I'm looking for a glass cube, and I've heard also you might have a lightsaber pike"
+
+EN: "ShhhhhHH!!! Don't say that in the shoppe, come to the back..."
+
+She leads the Crewty through rooms of people smoking hookahs, there are various sounds of pleasure eminating from the rooms. Finally we enter a very stark room, along the walls a variety of sealed locked safes. "Okay, now that we're away from the prying eyes...you're looking for a lightsaber pike? That's a very rare item, and certainly not something that would be provided in a shop like this...why would you be looking for an item like this?" 
+
+I: "We kind of opened a bit of a Pandora's box, and we need to get Pandora back into the box. We need weapons that are, for us. You see, I'm from the Guardians of the Whills on Jedah"
+
+EN: "Oooh I LOVE the Guardians! I've made the pilgrimage many times! Have you walked the thousand steps? I'll see if I can help you with the things we definitely don't have. I'd probably charge about, 20,000 credits for it."
+
+I: Would you be able to charge me less if I took the glass cube off of your hands as well? 
+
+Gungi: And a Lorrdian crystal? 
+
+EN: Do you know what this cube is? Why are you after it, anyway? 
+
+I: Oh, I just heard it was really pretty !
+
+EN: IT IS! But we have had it for a long time...I guess we should get rid of it. For the pike and the cube...23,000. All together. 
+
+I: 20,000? 
+
+Jarlo has to tap into his dark side to price gauge EN down to 16,000. 
+
+Ifa: Listen, Jarlo, it isn't appropriate to offer 16,000 - 20,000 is fine for the glass cube and the pike. 
+
+The EN does *not* open a safe and pull out a lightsaber pike. 
+
+Gungi also takes a Lorrdian gemstone, and Jarlo buys 2 training lightsabers. 
+
+Things are going quite well! And a basic lightsaber. 
 
 Session 17: Fix the Casino!!
 =================
