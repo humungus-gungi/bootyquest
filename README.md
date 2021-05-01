@@ -2020,28 +2020,48 @@ Things are going quite well! And a basic lightsaber.
 Session 17: Fix the Casino!!
 =================
 
+
 Kasgan surprises us with a new ship. A nice space ship. It has a gun on it! 
+
 Oasha installs a bunch of mods that people bought. 
+
 Ifa and Gungi read the Holocron we bought. And oh man, it has a program by Suljo Warde! Gungi knows about this guy - he was a guest speaker at the academy, and a master of foresight. He fought in the clone wars, cool! The 
+
 holocron contains secret knowledge saved by Suljo. In fact, the holocron is a straight up force-imprint of Suljo. 
+
 Ifa asks Suljo about the Mother. Suljo knows nothing. 
+
 Ifa asks the holocron about it's primary function - Warde's copy gives a story about Warde's ability to predict the future - including predicting other people's decision making. Warde encoded his teachings into three kyber crystals, constructed alongisde the holocron. To learn Warde's secrets, we need to follow in his footsteps, starting on the planet where he constructed the crystals.
 
 
 Session 18: Just landed, feeling like buying a bar.
 =================
 
+
 WOAH A CINEMATIC! Gungi places the new crystal into his lightsaber. It turns GOOOLD!!! 
+
 The gang recalls that the first crystal is Arbooine. After looking at the charts, we find that arbouine is a backwater planet covered in trees and freshwater. The world is sparsely inhabited by avian humanoids, and used to be a republican world, before turning isolationist. 
+
 We descend into the planet surface, and the holocron's gatekeeper guides us to a landing site near Quolos! We need to find Gel Marcolf to start our search for the crystals. But we need to go through the lush and verdant wilderness!
+
 Thankfully, we all have a lot of survival gear, and generally have an alright time navigating the wilderness.
+
 We encounter a rickety bridge over a canyon, woah! It'll take some coordination. Oh no - some of us aren't very coordinated...
+
 Kasgan crosses the bridge no problem, and does so well that he spends some advantage to give Jarlo a blue die. Jarlo manages to cross only after breaking one of the planks, making it harder. Gungi gets across no problem, and so does Ifa. Oasha uses her imblue force power to upgrade the bridge, and crosses no problem!
+
 Now that we've all crossed the bridge.
+
 After another survival check to navigate the forest, we come across a travelling merchant family, who travels from city to city. THEIR FAMILY NAME IS JIARLO! They're transporting food and some anti-venom for the local bear-sloths, and they love buying shiny things to sell to the avian humanoid inhabitants. Apparently, Marcolf likes shiny technology. Also, Marcolf is the leader of Quolos, and seems a bit tyranical.
+
 We make it to Quolos! At the gate, the gang requests an audience with Malcolf. This surprises the guards, but the let us in.
+
 Making our way through the town, we find a massive prison. Looking around us, we notice that guards constantly patroll the town, and the citizens are distinctly affraid of them. We notice some guards chastising some citizens. 
+
 We go into a bar to see if we can chat with the locals. We ask for a quiet corner away from the guards, and some nice syrup tea. The bartender is really cautious about anything to do with Marcolf. Turns out Markolf's leadership was the end result of generations of inter-generational fighting. 
+
 While we're talking to the barkeeper, he gets shaken down by some guards. We intervene to give him the money he needs, and help calm him down after the fact.
+
 After the shake down, we get he run-down of Marcolf's history. Marcolf was Warde's apprentice, and was put in place as a benevolent dictator to solve the inter-generational conflict between two families, the Helshar and the Tumris. Once Warde was gone, Markoff's leadership became increasingly despotic. Marcolf uses technological advances to improve guards and prisons, and people who resist are imprisoned. 
+
 We ask the barkeeper how to look for info on getting to the kyber crystal without chatting to Marcolf about crystals. In exchange for helping him escape Quolos (which will cost us 5000 credits), he'll help us contact the leader of a town's resistance, named Pathran Helshar. He'll be leaving behind an abandoned bar, which Jarlo wants to buy as part of the deal!
