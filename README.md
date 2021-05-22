@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 The Quest for Booty
 =================
 
@@ -1457,6 +1455,7 @@ Session 12: Viva La SVegasolution!
 =================
 
 
+
 ## Making our entrance on the casino
 
 Oh man, we're getting ready to storm a casino! There's a fabrication and speech'ing and guns'ing montage. It's sweet. The camera cuts to a wide shot of the occupied casino, with rebel ships and the booty quest coming in dark. Winnebego inside booty quest, rebel ship approaches the base. T4Z1's piloting the booty quest, and will be parked hidden in the asteroids.
@@ -1685,6 +1684,7 @@ Venting air, the station is compromised.
 (Flipping a light side) - the station has automatic blast doors, such that less oxygen vents than would otherwise. 
 
 
+
 Jarlo senses now is a good time for a leadership speech, "Now is our time to shine! We're going to get the Empire this time, go us!" 
 
 Very rousing. 
@@ -1778,6 +1778,7 @@ Ifa Ebb/Flows with a lore check, attempting to weaken the Inquisitor with lore a
 Ifa: "The Mother is the great deceiver, she prefers slaves to servants. The corpses of her servants serve her forever...she will be the destruction of the Empire. She wants to bring down the Empire and destroy everything..." The Triumph comes into play here - Ifa and the Inquisitor both take two strain (plus some extra secret strain for the Inquisitor). 
 
 The Inquisitor, holds her head, speaking both as the Mother and Inquisitor simultaneously as they fight for control, the lightsabre stops spinning. Gungi strikes, taking his opportunity - AMAZING CRITICAL! He disarms the Inquisitor, gets a free second attack, and gives more strain - Gungi grumbles "Stay down!"
+
 
 Back in the Tractor Beam room: 
 
@@ -2017,6 +2018,8 @@ Gungi also takes a Lorrdian gemstone, and Jarlo buys 2 training lightsabers.
 
 Things are going quite well! And a basic lightsaber. 
 =======
+=======
+>>>>>>> f6188e293d0c3955ee965588298ab085268dd932
 
 The Quest for Booty
 =================
@@ -3273,6 +3276,7 @@ The elevator opens to Hronkin yelling, "ABOUT TIME YOU GOT HERE, LANCE! I THOUGH
 
 "Why am I finding out about this from THE NERFHERDERS ON THE INTERNET! WHAT DO I PAY YOU FOR!!!"
 
+
 Lance leads us out the room, find a remote control, and turns on a TV for the Crewty. There are shots that appear to be of Kessel, which is on fire of a sort - charred flames fill the landscape, The shot changes to an interview - a figure stands in front of a large number of Imperials. She is the Inquisitor. 
 
 "The suspects, who previously had a bounty, used a station they found or deployed into the Kessel Run to really muck up Kessel. We believe they may have rebellion involvement, may have been funded by the rebellion taking place in the lawless outer rim. The Empire will not stand for these acts of terrorism against our citizens. We are raising the bounty on these murderers and WE WANT THEM ALIVE!" 
@@ -3474,6 +3478,10 @@ The Crewty then spends some good time planning their casino-takeover strategy. H
 Session 12: Viva La SVegasolution!
 =================
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f6188e293d0c3955ee965588298ab085268dd932
 ## Making our entrance on the casino
 
 Oh man, we're getting ready to storm a casino! There's a fabrication and speech'ing and guns'ing montage. It's sweet. The camera cuts to a wide shot of the occupied casino, with rebel ships and the booty quest coming in dark. Winnebego inside booty quest, rebel ship approaches the base. T4Z1's piloting the booty quest, and will be parked hidden in the asteroids.
@@ -3701,6 +3709,10 @@ Venting air, the station is compromised.
 
 (Flipping a light side) - the station has automatic blast doors, such that less oxygen vents than would otherwise. 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f6188e293d0c3955ee965588298ab085268dd932
 Jarlo senses now is a good time for a leadership speech, "Now is our time to shine! We're going to get the Empire this time, go us!" 
 
 Very rousing. 
@@ -3876,15 +3888,176 @@ The casino starts moving around, using all of its thrusters and tractor beams fo
 
 The gang goes into an intense RP session to figure out what the Inquisitor wants to do, where her allegiences lay, and what we should do with her. We reveal that the Mother is certainly still active inside the Empire, and she wants to be released to personally warn Vader. After reading her thoughts to gain some confidence, we are convinced that the Mother is more important to her than combatting us or the rebellion. We release her in an imperial transporter to do what she will. The rebellion leaders are confused by the action. Hronkin in handed over to Lance as his prisoner.
 
+<<<<<<< HEAD
 Session 16: SHOPPING SHOPPING SHOPPING
 =================
 
 The gang shops a bunch. Among other things, we buy a hclocron and a mysterious map.
 We bought parts to repair the Casino, for exactly 100k as it happens. Buying them was interesting, though - the sales rep was a particular dismembered mechanic from kessel.
+=======
+
+Session 16: Shoes. Let's buy some shoes.
+=================
+
+The Inquisitor reached the Mothership, the navigation on the imperial transporter. The casino is on its escape path. . 
+
+Lance is in the control room, barking out orders on navigating the tugs. 
+
+"Set the decoys, turn about 3.2 degrees, ... "
+
+Lance gives out the money, saying "This reward I'm giving you is contingent on you successfully getting the repairs and equipment we need. We'll die, everyone on board, unless you come back with the life support gear we need. We're unarmed, at risk of pirates, we need you."
+
+Layton and his team are coming along, as will a larger civilian transport ship to move the gear. 
+
+Lance gave us about as much as it cost, but he can top it off if we need to. Ohesha and Lance break into a long conversation about the importance of quality goods; nothing is more important than a good warranty. 
+
+Layton hands over a list of goods tha his contact - Akalin, from the Wheel - has seen go by recently. "He always finds the cool stuff...he's not a great salesman though looking at this list."
+
+ Pamzan wanders up, "That's not Akalin's list, is it? Everyone at the Wheel is so raacist..."
+
+Turns out everyone's pretty human there. Oops. Oh well. Guess there's nowhere else we can go.
+
+Skooky and Ohesha are currently going over the list of parts excitedly, discussing the trade-offs between different generations of parts, spouting serial numbers and SKUs. Ohesha's friggen thrilled. 
+
+"Well this one's a little more expensive, but I think it's a better purchase." Jarlo and Ohesha perk up, imagining how they'll be able to haggle down prices.  
+
+Hmmm....seems like we might need more humans on the team. The Crewty considers bringing more humans along to try to fit in better. They plan to bring along Layton, Lance (is he even a human?), and Oswald. But first, Jarlo has to convince Oswald that it's worth the trouble of joining in. 
+
+Many pilots are also keen on leaving the station - the gas circulating throughout casino is starting to stink of metallic gunk, and they are eager for any excuse to get fresh air. 
+
+Before they go, the team brings shirts to the sexy hot tub men (mostly Twi'leks) in Jarlo's office. For punishment's sake. 
+
+Then they're off! Hyperspacing for about half a day, they arrive at The Wheel. 
+
+It's a donut-shaped station with a shielding device around it, which protects it from the Empire. This is not only a trade hub for both above- and below-board trade, but also a popular tourist attraction with casinos and high rate hotels. The Crewty receives an incoming message with a cheery robotic voice:
+
+"Hello and welcome to the Wheel! I'm MasterCom, and I'll be your guide through this stay! May I ask your purpose at the wheel?"
+
+Jarlo: "We're looking to buy a ton of space station materials and are looking for a trading dock"
+
+MC: "You had me at 'buying', friend! Come in and dock at Spot 17. Enjoy your stay, and you can access me at any computer terminal if you need anything"
+
+We park and there is plenty of extra space. This is made for massive loading, MC seems to have taken into account that we will be dealing in some heavy goods. 
+
+Gungi puts on his disabled shock collar and robes, hiding his lightsaber. Ifa takes her staff (*walking stick*).
+
+The hanger deck contains a variety of stores etc. The Wheel is basically a modern big city, but in space! 
+There are a lot of cargo storage here, clothing outlets, and signs pointing towards the promenade: droid repair, parts stores, an information kiosk, a lot...there's a lot going on here. At the entrance, there's a lot of touristy materials and ship maintenance (fuel, cantina, etc.)
+
+The pilots who stayed behind bicker about who's going to be designated driver as they funnel into the cantina. 
+
+Jarlo votes clothing - SewNews Apparel. They carry a "complete line of starship ready clothing for many species. Jump suits, even space suits! Even our limited supply of formal wear" The owner, Sonnu, is a Twi'lek currently sitting behind the counter in discussion with a customer. She does not wear lavish clothing, rather utilitarian. 
+
+Ifa wants to put on something more business-like for the sake of negotiation. Jarlo, with his superior market knowledge, realizes she's selling for about 2/3 the market value, very cheap. 
+
+Jarlo: "These are some cheap suits!" Sonnu remarks, "You're welcome to pay more if you like". Are they knock-offs? Did they fall off the back of a turn-up truck? 
+
+Kazgan asks for a custom job, "Can you mark this with a K?" For another 10 credits, consider this shirt emblazoned. "If you do a good job, I'll give you 35c. But only for the best! I gotta have the best! I want blaster shots on it, so people know what's coming for them before I blast em. And sharks with a laser beam cannon!" After half an hour, Evan the embroiderer comes out. It is the gaudiest thing anyone has ever seen. 
+
+Kazgan is thrilled. 
+
+They then meander over to the Armour shop recommended by Sonnu: Rennick's Shop of Armour. Rennick, a flying watto-like creature, runs the place. Filled with cheap armour, prices a little below what they typically would be. 
+
+Rennick: "Welcome to my shop - looking for some protection?"
+
+He'll sell at 2/3 the regular asking price, and has a few simple mods. Ohesha's looking for armoured clothing with a camo mod. 
+
+Ifa's looking for Kurtosis gauntlets, very fancy! "That's one of my rarer pieces, but I do have it over here. Not as much of a deal, but still preeetty good." Ifa snags em. 
+
+Gungi slips hims 100 credits to slip up the location of a black market armour shop where he can find, "Kanto's place. He's got particular gear, weird stuff for sure, but he's the kind of guy you're looking for. But...eehh, he's a bit xenophobic..." Gungi gives him another 20 credits for the tip. 
+
+After buying some armour, the team goes to a popular space station parts store. "Come on in, be with you in a moment". Uh oh. It's Venneck...the Trandoshan who...uh, got dismembered. His limbs are all prosthetics....*they didn't grow back?*...he rattles over to the counter. 
+
+Gungi and Ifa slink out of the store before he turns around. Facing Jarlo and Ohesha, Venneck says, "Hey, don't I recognize you? I think I ... have you been here for a while?" After searching for the name "JARLO", he fills with fury. 
+
+His datapad shows a photo of Wookies filing into the Booty Quest, Jarlo firing at guards. "Is this you?!?!"
+
+J: "Yep! That's me!"
+
+V: "Do you know a big Wookie? With a lightsaber? Named, Goongi? No, it says here, Gungi..."
+
+J: "Hmmm, I don't know any Wookies named Gungi..." *Deception, Jaro? LIES?!*
+
+Somehow Jarlo convinces Venneck that Gungi was just another in the mob of Wookies. They begin talking a deal, offering to help compensate him for the troubles he experienced as a result of their involvement on Kessel. His out the door offer: 200,000 credits.
+
+Wow. NOT a deal. Jarlo asks for an itemized list, which is denied. Meanwhile Ohesha tallies up her own estimate of the appropriate cost. 
+
+Jarlo counter-offers with 100,000 credits. Vennick, denies. "Look, for the prosthetics and these parts, I'm going to need at least 110,000." With the help of MC, who was very keen to ensure that the transaction was mediated effectively. Finally, the whole cost goes to 100,000 credits. FInal sale. 
+
+V: "Now get the hell out of my store!"
+
+ They go on to see Kanto in district 12. Four guards wait at the door, Kanto is tinkering with a weapon in the otherwise empty room. 
+ 
+ K: "What do we have here?"
+ 
+Kasgan: "You got any guns?"
+
+K: "Plenty. What're you looking for?"
+
+Kasgan: *lists all the guns on Akalin's newsletter*  "is this an accurate list or not?"
+
+K: "Sure, I have them, but the prices might be a bit...different for you" 
+
+Ifa: "He's buying for me"
+
+K: "Really? You think you could hold the rotary cannon? I don't think any of you could"
+
+I: "I don't do my own shooting - I take care of them, they take care of me"
+
+K: "These don't look like guards"
+
+I: "Only the most common of people speak about money. Don't talk to me about how much I spend on my staff".
+
+K: "Alright, so we're looking at a thunder head, a proton rifle, and....armoured robes to fit a slave [Gungi], right. I believe that..."
+
+I: "Better to protect me if I'm in a scary situation, so I don't have to take care of myself"
+
+K: "Alright, I can give you those weapons. For .... 20,000 credits." Time for Jarlo to negotiate. 
+
+They negotiate down to the prices on Akalin's list, after an incredibly charming display from Jarlo. 
+
+Ifa and Gungi head over to the New Age shoppe, which is very much the stereotype you would expect it be. Incense fills the air, crystals line many counters. Ifa and Gungi go up to the nearest employee, asking if they knew Ember Nebula, the woman Ifa is looking for. 
+
+"Ooh, the Ember Nebula is currently stocking the lucky totems in the corner. You'll know her from the beads in her hair"
+
+Ifa: "Thank you!" She walks over to Ember Nebula and pulls on her hair beads, "Hello! Ember Nebula! We have travelled so far...we are travellers who are in search of things we heard you may have. I'm looking for a glass cube, and I've heard also you might have a lightsaber pike"
+
+EN: "ShhhhhHH!!! Don't say that in the shoppe, come to the back..."
+
+She leads the Crewty through rooms of people smoking hookahs, there are various sounds of pleasure eminating from the rooms. Finally we enter a very stark room, along the walls a variety of sealed locked safes. "Okay, now that we're away from the prying eyes...you're looking for a lightsaber pike? That's a very rare item, and certainly not something that would be provided in a shop like this...why would you be looking for an item like this?" 
+
+I: "We kind of opened a bit of a Pandora's box, and we need to get Pandora back into the box. We need weapons that are, for us. You see, I'm from the Guardians of the Whills on Jedah"
+
+EN: "Oooh I LOVE the Guardians! I've made the pilgrimage many times! Have you walked the thousand steps? I'll see if I can help you with the things we definitely don't have. I'd probably charge about, 20,000 credits for it."
+
+I: Would you be able to charge me less if I took the glass cube off of your hands as well? 
+
+Gungi: And a Lorrdian crystal? 
+
+EN: Do you know what this cube is? Why are you after it, anyway? 
+
+I: Oh, I just heard it was really pretty !
+
+EN: IT IS! But we have had it for a long time...I guess we should get rid of it. For the pike and the cube...23,000. All together. 
+
+I: 20,000? 
+
+Jarlo has to tap into his dark side to price gauge EN down to 16,000. 
+
+Ifa: Listen, Jarlo, it isn't appropriate to offer 16,000 - 20,000 is fine for the glass cube and the pike. 
+
+The EN does *not* open a safe and pull out a lightsaber pike. 
+
+Gungi also takes a Lorrdian gemstone, and Jarlo buys 2 training lightsabers. 
+
+Things are going quite well! And a basic lightsaber. 
+
+>>>>>>> f6188e293d0c3955ee965588298ab085268dd932
 
 Session 17: Fix the Casino!!
 =================
 
+<<<<<<< HEAD
 Kasgan surprises us with a new ship. A nice space ship. It has a gun on it! 
 Oasha installs a bunch of mods that people bought. 
 Ifa and Gungi read the Holocron we bought. And oh man, it has a program by Suljo Warde! Gungi knows about this guy - he was a guest speaker at the academy, and a master of foresight. He fought in the clone wars, cool! The 
@@ -3892,3 +4065,108 @@ holocron contains secret knowledge saved by Suljo. In fact, the holocron is a st
 Ifa asks Suljo about the Mother. Suljo knows nothing. 
 Ifa asks the holocron about it's primary function - Warde's copy gives a story about Warde's ability to predict the future - including predicting other people's decision making. Warde encoded his teachings into three kyber crystals, constructed alongisde the holocron. To learn Warde's secrets, we need to follow in his footsteps, starting on the planet where he constructed the crystals.
 >>>>>>> e442a661f19bb922ea59bb805f781e7ee7398c99
+=======
+
+Kasgan surprises us with a new ship. A nice space ship. It has a gun on it! 
+
+Oasha installs a bunch of mods that people bought. 
+
+Ifa and Gungi read the Holocron we bought. And oh man, it has a program by Suljo Warde! Gungi knows about this guy - he was a guest speaker at the academy, and a master of foresight. He fought in the clone wars, cool! The 
+
+holocron contains secret knowledge saved by Suljo. In fact, the holocron is a straight up force-imprint of Suljo. 
+
+Ifa asks Suljo about the Mother. Suljo knows nothing. 
+
+Ifa asks the holocron about it's primary function - Warde's copy gives a story about Warde's ability to predict the future - including predicting other people's decision making. Warde encoded his teachings into three kyber crystals, constructed alongisde the holocron. To learn Warde's secrets, we need to follow in his footsteps, starting on the planet where he constructed the crystals.
+
+
+Session 18: Just landed, feeling like buying a bar.
+=================
+
+WOAH A CINEMATIC! Gungi places the new crystal into his lightsaber. It turns GOOOLD!!! 
+
+The gang recalls that the first crystal is Arbooine. After looking at the charts, we find that arbouine is a backwater planet covered in trees and freshwater. The world is sparsely inhabited by avian humanoids, and used to be a republican world, before turning isolationist. 
+
+We descend into the planet surface, and the holocron's gatekeeper guides us to a landing site near Quolos! We need to find Gel Marcolf to start our search for the crystals. But we need to go through the lush and verdant wilderness!
+
+Thankfully, we all have a lot of survival gear, and generally have an alright time navigating the wilderness.
+
+We encounter a rickety bridge over a canyon, woah! It'll take some coordination. Oh no - some of us aren't very coordinated...
+
+Kasgan crosses the bridge no problem, and does so well that he spends some advantage to give Jarlo a blue die. Jarlo manages to cross only after breaking one of the planks, making it harder. Gungi gets across no problem, and so does Ifa. Oasha uses her imblue force power to upgrade the bridge, and crosses no problem!
+
+Now that we've all crossed the bridge.
+
+After another survival check to navigate the forest, we come across a travelling merchant family, who travels from city to city. THEIR FAMILY NAME IS JIARLO! They're transporting food and some anti-venom for the local bear-sloths, and they love buying shiny things to sell to the avian humanoid inhabitants. Apparently, Marcolf likes shiny technology. Also, Marcolf is the leader of Quolos, and seems a bit tyranical.
+
+We make it to Quolos! At the gate, the gang requests an audience with Malcolf. This surprises the guards, but the let us in.
+
+Making our way through the town, we find a massive prison. Looking around us, we notice that guards constantly patroll the town, and the citizens are distinctly affraid of them. We notice some guards chastising some citizens. 
+
+We go into a bar to see if we can chat with the locals. We ask for a quiet corner away from the guards, and some nice syrup tea. The bartender is really cautious about anything to do with Marcolf. Turns out Markolf's leadership was the end result of generations of inter-generational fighting. 
+
+While we're talking to the barkeeper, he gets shaken down by some guards. We intervene to give him the money he needs, and help calm him down after the fact.
+
+After the shake down, we get he run-down of Marcolf's history. Marcolf was Warde's apprentice, and was put in place as a benevolent dictator to solve the inter-generational conflict between two families, the Helshar and the Tumris. Once Warde was gone, Markoff's leadership became increasingly despotic. Marcolf uses technological advances to improve guards and prisons, and people who resist are imprisoned. 
+
+We ask the barkeeper how to look for info on getting to the kyber crystal without chatting to Marcolf about crystals. In exchange for helping him escape Quolos (which will cost us 5000 credits), he'll help us contact the leader of a town's resistance, named Pathran Helshar. He'll be leaving behind an abandoned bar, which Jarlo wants to buy as part of the deal!
+
+Session 19: Getting the lay of the land 
+=================
+
+(_We didn't take notes at all during the session, here are a few points_):
+
+- Matriarch of one family = Koh Helshar
+- Son = Pathran Helshar, leader of a local rebellion
+- Patriarch of the other conflicting family = Odir Tumris
+- These two families were put "at peace" by the intervention of 
+
+- Verbal agreement made between the families to form a council
+- The group went to visit Marcolf, talked about the holochron, and after some discussion were taken to the state rooms. Ohesha and Gungi smuggled in. 
+
+Oh also they sold guns, so there's conflict. Boxes of guns. The families said they'd be ready to rebel the next day. We did get a tour also. 
+
+Session 20: Marcolf's manor
+=================
+
+Let's get going! We roll a nice pile of good luck! 
+
+Kasgan immediately threatens assassinations. "It's not assassination, it's just justice. They're bad guys!" 
+The team begins plotting:
+
+Gungi: "Let's ask the guards about the place..."
+
+Ifa: "Want to see if the guards want to come in and have a drink with us?" She goes to the door, as the smallest and unassuming, "We're really hungy and thirsty - would it be alright to bring some food? Some drink? Come in and sit with us!"
+
+The guards suspiciously look at each other, then said "We can get you some food and drink, but we can't leave our post."
+
+Gungi: "When do you stop working, friends."
+
+"The night shift"
+
+Ifa: "Do you think the Reeve would mind, even if you just left the door open and we shared a meal here? We're new to the planet, and we'd love to get more history and idea of how the Reeve came to be and how this manor came to be. It's like nothing we've seen before!"
+
+"Well, I guess the door can be open...while we're here...there's no reason that couldn't happen." They call someone to bring food and drink for you, which takes some time. 
+
+Ifa: "How long have you been in service of the Reeve?" Gungi: "From here?" One of the guards is from Quoloth, the other from a nearby city. The city was described as "Bigger". 
+
+Ifa: "Do you have family here?"
+
+They go on to discuss the family rivalries and bring order to Quoloth. Ifa: "There's something different here than what I've seen on this planet - there are places where people are kept in prison. Is that because of the warring between the clans?"
+
+"The only people who go to prison because they threaten the order."
+
+The conversation shuts down as soon as it comes about that the local's father is currently trapped in prison. For resisting the architectural turnover (converting old symbology in the town square into a totem to Reeve Marcolf). 
+
+As Jarlo, Gungi, Ifa, and the guards eat and drink (water + honeyed wine, fish), Ohesha notices (light side point) a computer terminal in the room. It has limited access, got a lot of pre-set administrated parental controls, but Ohesha has been able to bypass them. 
+
+Meanwhile, Ifa and Gungi try to swap songs with the guards. Ifa charms them beautifully, the guards are interested but don't necessarily join in. 
+
+Ohesha also successfully stealthed her way to the control panel and around the parental controls. She realizes there are monitors on this computer - she should be able to get around it with a computers check, but it will be a little bit tougher. Despite being more difficult, Ohesha hacks in with ease looking for blueprints or information on layout of the building. We know he has a Kyber crystal here somewhere...
+
+Blam! A map of the spot. And schedules! 
+
+<div style="text-align: center"><img src="imgs/manor.png"/></div>
+
+There are typically 18 guards at the manor at any time (and the Reeve), and there is a guard barracks just outside. Ohesha accesses basic cameras (she's like, **real** good at computers), there's one in the garden room, dining room, and one in the storage area. It's dark, but it's there. There is not one in Marcolf's suite. 
+
