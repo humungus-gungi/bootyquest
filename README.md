@@ -1231,7 +1231,7 @@ When we got here, we found out the Kessel run was gone."
 
 Lance: "Last time you mentioned...Force Something? Some kind of creature?"
 
-Kazgan: "A giant squid!" 
+Kasgan: "A giant squid!" 
 
 Ohesha: "There was also a space station in the Maw, which was bizarre, with some kind of...Mother Creature. A lady at the space station who attacked us, so we left. Then after we left the Kessel Run was gone.'
 
@@ -1269,7 +1269,7 @@ Ohesha and Ifa explain that the station is probably the weapon they're talking a
 
 Hronkin: "While you may not have been the one to do ... whatever has been done to Kessel ... you're too much of a risk to have here any more. if anyone reports your presence here, *and we did just broadcast you winning a race*...it's too much. Get out of here."
     
-Kazgan's haggling for his winnings, but it falls through. 
+Kasgan's haggling for his winnings, but it falls through. 
 
 Hronkin: "You still owe me flowers."
 
@@ -1317,7 +1317,7 @@ Lance hands them a card, "If you're looking for the rebellion, call this number.
 
 ## Back on the Booty, Questing Again
 
-While Kazgan pilots the ship out of the Casino Planet or whatever, Jarlo calls the number.
+While Kasgan pilots the ship out of the Casino Planet or whatever, Jarlo calls the number.
 
 "Hey, this is ... wait who is this?"
 
@@ -1333,7 +1333,7 @@ Let's get out of here! Just as they start calculating navigation for hyperspeed,
 
 RUUUN AWAAAAY! 
 
-Kazgan uses his Full Throttle while rolling a piloting check - success and a threat; the ship creaks and strains, takes some strain damage, but it rockets up to full speed + 1. 
+Kasgan uses his Full Throttle while rolling a piloting check - success and a threat; the ship creaks and strains, takes some strain damage, but it rockets up to full speed + 1. 
 
 A signal starts going across the comms, a hail to anyone. "To all ships in the system, please shut down and prepare to be boarded. We have heard that the fugitives of Kessel are here. No one is allowed to leave the system. Anyone who attempts to leave will be fired on."
 
@@ -1447,7 +1447,7 @@ The Crewty then spends some good time planning their casino-takeover strategy. H
 1. Get some of the rebels onto the missile launching asteriod - Skoopy et al. to take over with the Booty Quest and other rebel ships
 2. Use the Winebago to get Jarlo and other insurrectionists onto the space station/casino - this will include Jarlo, Ohesha, Gungi, Ifa
 3. They meet Lance there to fight off some dudes, this may involve turning the lights off in the station and using infrared lights to move around the station
-4. Then, once some command is held in the casino, Kazgan and some members of the rebels --> taking racing ships (WITH GUNS!) and maybe Ohesha - they'll go out to the shield generators and either take them down digitally or with boomy-boomy guns
+4. Then, once some command is held in the casino, Kasgan and some members of the rebels --> taking racing ships (WITH GUNS!) and maybe Ohesha - they'll go out to the shield generators and either take them down digitally or with boomy-boomy guns
 5. Profit?
 
 
@@ -1573,7 +1573,7 @@ AND HE DOES!!! What a miraculous paragon on persuasion! (2 triumphs and 2 succes
 
 Ifa comes up behind the trooper she is stalking - she reaches out and senses his thoughts of wanting to be away, wanting to leave this place. She speaks with him, encouraging him to leave his own captors and uses compassion to sway him away from this fight. It works! Ifa just councellored that guy into pacifism. Wow! 
 
-Kazgan's turn, and he's out for blood. He first misdirects, using a deception check with force die, to make the nearest trooper believe that he is coming in as the Second Sister and shouts, "Kill the traitors!" while pointing to two troopers on a nearby dias. He shoots an AMAZING shot, damaging both on the dias - the Eastern Wall troopers are also now shaken, leaving all but the trooper sergeant now in deep fear. 
+Kasgan's turn, and he's out for blood. He first misdirects, using a deception check with force die, to make the nearest trooper believe that he is coming in as the Second Sister and shouts, "Kill the traitors!" while pointing to two troopers on a nearby dias. He shoots an AMAZING shot, damaging both on the dias - the Eastern Wall troopers are also now shaken, leaving all but the trooper sergeant now in deep fear. 
 
 Finally, we come to Gungi - now that everyone's peeing their pants, Gungi is ready to put the icing on the cake. He jumps out, immediately engaging with two nearby troopers who have to make fear checks. One just straight runs away, the other gets whacked with the lightsabre, is disarmed, and maybe dies? Not if Gungi can help it, but...you know. Maybe dead.
 
@@ -1581,7 +1581,7 @@ In response, the Sergeant realizes his troops suck. Unloading his gun (unsuccess
 
 But don't despair! The crowd has begun to turn to Crewty's team - one of the lead racers runs out and tackles a trooper, trying to wrestle the gun out of their hands with the rest of the crowd building to action. 
 
-Player turns - Gungi storms up to fight two troopers, he hits the Sergeant, doing 8 damage and compromising the Sergeant with a *critical hit*.  Kazgan, not to be one-upped by the Wookie, jumps on to the dias and aims at the Sergeant for a *dirty kill steal*. He crits! The Sergeant is DEAD! 
+Player turns - Gungi storms up to fight two troopers, he hits the Sergeant, doing 8 damage and compromising the Sergeant with a *critical hit*.  Kasgan, not to be one-upped by the Wookie, jumps on to the dias and aims at the Sergeant for a *dirty kill steal*. He crits! The Sergeant is DEAD! 
 
 Now, to Ifa's turn. She aims her lightbow at two remaining troopers on the W side, and BLAM! A massive explosion rockets, killing them. And, _triumphantly_ triggers the fire suppression system. The fire suppression doors slam shut, locking Jarlo out. Oops. 
 
@@ -1918,9 +1918,9 @@ Ifa wants to put on something more business-like for the sake of negotiation. Ja
 
 Jarlo: "These are some cheap suits!" Sonnu remarks, "You're welcome to pay more if you like". Are they knock-offs? Did they fall off the back of a turn-up truck? 
 
-Kazgan asks for a custom job, "Can you mark this with a K?" For another 10 credits, consider this shirt emblazoned. "If you do a good job, I'll give you 35c. But only for the best! I gotta have the best! I want blaster shots on it, so people know what's coming for them before I blast em. And sharks with a laser beam cannon!" After half an hour, Evan the embroiderer comes out. It is the gaudiest thing anyone has ever seen. 
+Kasgan asks for a custom job, "Can you mark this with a K?" For another 10 credits, consider this shirt emblazoned. "If you do a good job, I'll give you 35c. But only for the best! I gotta have the best! I want blaster shots on it, so people know what's coming for them before I blast em. And sharks with a laser beam cannon!" After half an hour, Evan the embroiderer comes out. It is the gaudiest thing anyone has ever seen. 
 
-Kazgan is thrilled. 
+Kasgan is thrilled. 
 
 They then meander over to the Armour shop recommended by Sonnu: Rennick's Shop of Armour. Rennick, a flying watto-like creature, runs the place. Filled with cheap armour, prices a little below what they typically would be. 
 
@@ -3254,7 +3254,7 @@ When we got here, we found out the Kessel run was gone."
 
 Lance: "Last time you mentioned...Force Something? Some kind of creature?"
 
-Kazgan: "A giant squid!" 
+Kasgan: "A giant squid!" 
 
 Ohesha: "There was also a space station in the Maw, which was bizarre, with some kind of...Mother Creature. A lady at the space station who attacked us, so we left. Then after we left the Kessel Run was gone.'
 
@@ -3293,7 +3293,7 @@ Ohesha and Ifa explain that the station is probably the weapon they're talking a
 
 Hronkin: "While you may not have been the one to do ... whatever has been done to Kessel ... you're too much of a risk to have here any more. if anyone reports your presence here, *and we did just broadcast you winning a race*...it's too much. Get out of here."
     
-Kazgan's haggling for his winnings, but it falls through. 
+Kasgan's haggling for his winnings, but it falls through. 
 
 Hronkin: "You still owe me flowers."
 
@@ -3341,7 +3341,7 @@ Lance hands them a card, "If you're looking for the rebellion, call this number.
 
 ## Back on the Booty, Questing Again
 
-While Kazgan pilots the ship out of the Casino Planet or whatever, Jarlo calls the number.
+While Kasgan pilots the ship out of the Casino Planet or whatever, Jarlo calls the number.
 
 "Hey, this is ... wait who is this?"
 
@@ -3357,7 +3357,7 @@ Let's get out of here! Just as they start calculating navigation for hyperspeed,
 
 RUUUN AWAAAAY! 
 
-Kazgan uses his Full Throttle while rolling a piloting check - success and a threat; the ship creaks and strains, takes some strain damage, but it rockets up to full speed + 1. 
+Kasgan uses his Full Throttle while rolling a piloting check - success and a threat; the ship creaks and strains, takes some strain damage, but it rockets up to full speed + 1. 
 
 A signal starts going across the comms, a hail to anyone. "To all ships in the system, please shut down and prepare to be boarded. We have heard that the fugitives of Kessel are here. No one is allowed to leave the system. Anyone who attempts to leave will be fired on."
 
@@ -3471,7 +3471,7 @@ The Crewty then spends some good time planning their casino-takeover strategy. H
 1. Get some of the rebels onto the missile launching asteriod - Skoopy et al. to take over with the Booty Quest and other rebel ships
 2. Use the Winebago to get Jarlo and other insurrectionists onto the space station/casino - this will include Jarlo, Ohesha, Gungi, Ifa
 3. They meet Lance there to fight off some dudes, this may involve turning the lights off in the station and using infrared lights to move around the station
-4. Then, once some command is held in the casino, Kazgan and some members of the rebels --> taking racing ships (WITH GUNS!) and maybe Ohesha - they'll go out to the shield generators and either take them down digitally or with boomy-boomy guns
+4. Then, once some command is held in the casino, Kasgan and some members of the rebels --> taking racing ships (WITH GUNS!) and maybe Ohesha - they'll go out to the shield generators and either take them down digitally or with boomy-boomy guns
 5. Profit?
 
 
@@ -3599,7 +3599,7 @@ AND HE DOES!!! What a miraculous paragon on persuasion! (2 triumphs and 2 succes
 
 Ifa comes up behind the trooper she is stalking - she reaches out and senses his thoughts of wanting to be away, wanting to leave this place. She speaks with him, encouraging him to leave his own captors and uses compassion to sway him away from this fight. It works! Ifa just councellored that guy into pacifism. Wow! 
 
-Kazgan's turn, and he's out for blood. He first misdirects, using a deception check with force die, to make the nearest trooper believe that he is coming in as the Second Sister and shouts, "Kill the traitors!" while pointing to two troopers on a nearby dias. He shoots an AMAZING shot, damaging both on the dias - the Eastern Wall troopers are also now shaken, leaving all but the trooper sergeant now in deep fear. 
+Kasgan's turn, and he's out for blood. He first misdirects, using a deception check with force die, to make the nearest trooper believe that he is coming in as the Second Sister and shouts, "Kill the traitors!" while pointing to two troopers on a nearby dias. He shoots an AMAZING shot, damaging both on the dias - the Eastern Wall troopers are also now shaken, leaving all but the trooper sergeant now in deep fear. 
 
 Finally, we come to Gungi - now that everyone's peeing their pants, Gungi is ready to put the icing on the cake. He jumps out, immediately engaging with two nearby troopers who have to make fear checks. One just straight runs away, the other gets whacked with the lightsabre, is disarmed, and maybe dies? Not if Gungi can help it, but...you know. Maybe dead.
 
@@ -3607,7 +3607,7 @@ In response, the Sergeant realizes his troops suck. Unloading his gun (unsuccess
 
 But don't despair! The crowd has begun to turn to Crewty's team - one of the lead racers runs out and tackles a trooper, trying to wrestle the gun out of their hands with the rest of the crowd building to action. 
 
-Player turns - Gungi storms up to fight two troopers, he hits the Sergeant, doing 8 damage and compromising the Sergeant with a *critical hit*.  Kazgan, not to be one-upped by the Wookie, jumps on to the dias and aims at the Sergeant for a *dirty kill steal*. He crits! The Sergeant is DEAD! 
+Player turns - Gungi storms up to fight two troopers, he hits the Sergeant, doing 8 damage and compromising the Sergeant with a *critical hit*.  Kasgan, not to be one-upped by the Wookie, jumps on to the dias and aims at the Sergeant for a *dirty kill steal*. He crits! The Sergeant is DEAD! 
 
 Now, to Ifa's turn. She aims her lightbow at two remaining troopers on the W side, and BLAM! A massive explosion rockets, killing them. And, _triumphantly_ triggers the fire suppression system. The fire suppression doors slam shut, locking Jarlo out. Oops. 
 
@@ -3952,9 +3952,9 @@ Ifa wants to put on something more business-like for the sake of negotiation. Ja
 
 Jarlo: "These are some cheap suits!" Sonnu remarks, "You're welcome to pay more if you like". Are they knock-offs? Did they fall off the back of a turn-up truck? 
 
-Kazgan asks for a custom job, "Can you mark this with a K?" For another 10 credits, consider this shirt emblazoned. "If you do a good job, I'll give you 35c. But only for the best! I gotta have the best! I want blaster shots on it, so people know what's coming for them before I blast em. And sharks with a laser beam cannon!" After half an hour, Evan the embroiderer comes out. It is the gaudiest thing anyone has ever seen. 
+Kasgan asks for a custom job, "Can you mark this with a K?" For another 10 credits, consider this shirt emblazoned. "If you do a good job, I'll give you 35c. But only for the best! I gotta have the best! I want blaster shots on it, so people know what's coming for them before I blast em. And sharks with a laser beam cannon!" After half an hour, Evan the embroiderer comes out. It is the gaudiest thing anyone has ever seen. 
 
-Kazgan is thrilled. 
+Kasgan is thrilled. 
 
 They then meander over to the Armour shop recommended by Sonnu: Rennick's Shop of Armour. Rennick, a flying watto-like creature, runs the place. Filled with cheap armour, prices a little below what they typically would be. 
 
@@ -4132,6 +4132,9 @@ Session 20: Marcolf's manor
 Let's get going! We roll a nice pile of good luck! 
 
 Kasgan immediately threatens assassinations. "It's not assassination, it's just justice. They're bad guys!" 
+
+## In the manor
+
 The team begins plotting:
 
 Gungi: "Let's ask the guards about the place..."
@@ -4170,3 +4173,94 @@ Blam! A map of the spot. And schedules!
 
 There are typically 18 guards at the manor at any time (and the Reeve), and there is a guard barracks just outside. Ohesha accesses basic cameras (she's like, **real** good at computers), there's one in the garden room, dining room, and one in the storage area. It's dark, but it's there. There is not one in Marcolf's suite. 
 
+Jarlo, to Ohesha: "do we see a Mr. Marcolf on the cameras or any other places that would be convenient for us to sneak around?"
+
+Marcolf is currently meditating in the gardens with 6 guards near him. There are also guards in front of all of the main rooms, spread through the building. 
+
+## Kasgan - he's planning stuff
+
+Kasgan finds a tactical spot, learns the guards' habits from Ohesha, then waiting until we hit the next day to set up our little revolution. Stealthing very effectively, he sets up his weaponry without being spotted. He isn't having any problems being spotted, so he gets to spend 2 advantages with ease: he has greater depth of understanding the guards' patterns and also can clearly see where any weak spots might be in the structure. 
+
+## Ohesha realized she should tell people about stuff! 
+
+Ohesha makes another computer check to find (2S, 5A, Triumph) - she finds out the State room we're in is bugged with a mic and camera. She also "remembered" (triumph) that she had a file containing a call to rebellion with Jarlo's voice on it from the casino! With a few minor tweaks, the file is modified to be a general call to arms, "Let's defeat the enemies!"
+
+Despite probing into it, Ohesha cannot reach the prison or barracks. 
+
+**Add this to the minutes: _Ifa really really wants to release the political prisoners before we go!_**
+
+## DAWN ILLUMINATES THE EARLY BIRDS
+
+Orbs, refracting the light, indicate that dawn is on the way. 
+
+Ohesha writes a local file on her data pad the information about the layout, the discovery of a bug in the room, and her plan to interfere with another bug with Jarlo's voice file. She then shares it with the others. 
+
+She also notices that Tazi is on the line (listening to _Space ABBA_ on _Space Spotify_), realizing she can easily communicate with the others this way. 
+
+Kasgan: "Juicy schedule! Where's Marcolf's quarters?" He picks up on little signs that confirm that this is, in fact, Marcolf's room. The windows are covered with blast shields and it is heavily fortified. He waits for a signal through Tazi. 
+
+Team rebel is ready for Kasgan's orders. Guards are ready. There's been an indoor shift change, but people are chatting and changing out, some going home to sleep. 
+
+### In the manor...
+
+The guests request - and are granted - breakfast with their host. Gel Marcolf and his 6 guards are eating a breakfast of delicious-smelling insect. He sits at the head of the table, the guards were just changed this morning and they look wide awake. 
+
+"So, have you had some time to think about the deal?", he asks, eating breakfast. 
+
+Everyone starts eating sap-covered insects. 
+
+Jarlo: "We're looking to just preserve our lives and continue on our way. Let's negotiate on price later, and just enjoy our meal here now."
+
+Gel: "You know we're going to make this deal _before you leave_, correct?"
+
+Jarlo: "Of course! Breakfast now! Can't negotiate on an empty stomach."
+
+### Kasgan's plansgans
+
+Currently with 2 heavies (up in the tree with canon and all of that), one of them is Helshar himself, the rebellion leader! Helshar has a rocket launcher, the other heavy has a **rotary cannon...that Kasgan...**
+
+Guards are equipped with gliders, hand binders, and pistols. Kasgan sets up at medium range 
+
+Proton rifle strike! 
+
+That guy's...gone. Rolled a triumph. BOOOOOOM! The guard standing next to the former-guard-now-smudge is stunned. Let the rebellion begin! 
+
+## Roll initiative! 
+
+On the first round, Ohesha sets off Jarlo's speech in the storage area to make it so people think there are people down there formenting rebellion. She then takes cover. 
+
+Jarlo then takes an attempt to charm them - "Gentlemen, this is a coup. We are united against Gel Marcolf's tyranny. We all have friends and family who have been imprisoned by his despotism, join us!" Using the Force - "fancy brain powers" - he turns 3 of the 6 guards, they lower their weapons and look confused about what to do. One of the guards drops his gun entirely, and waves you onwards. 
+
+Two of the guards - on the other hand  - are still firm in their allegiance, weapons raised. "What are you doing? You're going to get us killed!!" 
+
+Gungi attempts to coerce them, but isn't very willful. However, the guards - while not turned to our side - are less certain of their ability to take us on. It's 4 against 1.5, the remaining confident guard backs up into the kitchen, saying "Just sit down, we don't have to fight. Just sit."
+
+Outside, all hell is breaking loose. Guards are running hither and thither, and rebels are beginning to pour over the bridge - armed to the teeth with Kasgan's extras. 
+
+ Rambo Kasgan glides down towards the entrace, scattergun in hand - landing perfectly, Kasgan doesn't face anyone immediately but sees movement in the hall. Blam! Shot! A body falls. 
+ 
+ Ifa takes her turn at coercion - "Our friends and his army are on our way, it's safer for you to leave than to stay and face this army alone." (_she says threateningly_...and successfully! Just as she says this, Kasgan's shot sound echoes through the room). 
+ 
+ The guard wavers, "Get out of here! Just GO!" 
+ 
+ Ohesha looks at the security footage to spot where Gel is going to - she sees him moving up the stairs with a metal cylinder in hand. _Dun dun duuunnnnn_
+ 
+ Jarlo next up - he moves through the kitchen following Gel, running into two guards who are on their way to the entry hall. Behind cover, Jarlo calls out to them to stand down, "The two families have united and we're overthrowing the despotic tyrant (_who you probably don't like very much_)" with a bountiful amount of success at convincing them to stand down. 
+ 
+ "I wasn't getting paid enough for this, anyway!"
+ 
+ "Does that mean my uncle is out there?"
+ 
+ Jarlo: "Good choice!"
+ 
+ Next in the line of fire...I mean initiative... is Kasgan! There's a cluster of four guards in front of him just asking for it...and one is wounded, so like...3.5 even! Kasgan rushes forward, aiming at one in the middle of a group of three. 
+ 
+ Another rocket flies into the barracks and explodes - the barracks breaks off from the bridge, and the bridge itself seems to have sustained heavy damage. Splinters fly as the barracks tumble to the ground. The rebellion is going handily, as the townsfolk quickly overtake the area. 
+ 
+ The baddies' turn! In his manoeuvring, Kasgan moved next to someone he had injured. _WHACK_! He gets smacked with vengeance. 
+ 
+ Ifa takes Ohesha's lightsaber and walks by the injured guard who is currently hitting Kasgan. She can't let this stand and reflexively whipped the lightsaber down on him - 
+ 
+ Gungi tries intimidate - 1 success and 3 advantages; one is only hesitating, the other is unphased. Gungi needs more presence!! 
+ 
+ _End of round_: a blast door has opened, and the branches and leaves of the trees beyond appear. The team barely spots Marcolf's cloak fluttering in the wind as he jumps out the window. 
