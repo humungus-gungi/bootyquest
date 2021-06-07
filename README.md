@@ -2069,7 +2069,7 @@ We make it to Quolos! At the gate, the gang requests an audience with Malcolf. T
 
 Making our way through the town, we find a massive prison. Looking around us, we notice that guards constantly patroll the town, and the citizens are distinctly affraid of them. We notice some guards chastising some citizens. 
 
-We go into a bar to see if we can chat with the locals. We ask for a quiet corner away from the guards, and some nice syrup tea. The bartender is really cautious about anything to do with Marcolf. Turns out Markolf's leadership was the end result of generations of inter-generational fighting. 
+We go into a bar to see if we can chat with the locals. We ask for a quiet corner away from the guards, and some nice syrup tea. The bartender is really cautious about anything to do with Marcolf. Turns out Marcolf's leadership was the end result of generations of inter-generational fighting. 
 
 While we're talking to the barkeeper, he gets shaken down by some guards. We intervene to give him the money he needs, and help calm him down after the fact.
 
@@ -2231,4 +2231,109 @@ Outside, all hell is breaking loose. Guards are running hither and thither, and 
  
  _End of round_: a blast door has opened, and the branches and leaves of the trees beyond appear. The team barely spots Marcolf's cloak fluttering in the wind as he jumps out the window. 
  
- 
+Session 21: 
+=================
+
+The gang is in Marcolf's mannor, with a rebellion going on outside!
+
+The gang starts out with some pretty good destiny rolls. But we're reminded that our rebellion has, so far, killed quite a few guards. And that Gel Marcolf has jumped out a window. Butts.
+
+Outside, the rebellion seems to be overpowering the guards with their shiny new weapons. 
+
+Gungi, Jarlo, and Ifa run up the mannor's stairs to chase Marcolf. He's pretty far away, on the intertwining branches of the trees. 
+
+Gungi takes chase along the branches!! He's pretty good at running on branches, almost like he's a wookie. He helps Ifa along the branches.
+
+While running after Marcolf, Gungi yells that Suljo Ward had a mission for them. Marcolf is immediately curious, and stops in his tracks.
+
+Jarlo looks around the room Marcolf jumped from: it's his personal quarters, which is lavishly decorated, and full of off-world technology. The stash includes a jet pack, oh my goodness!!! 
+
+Jarlo yells at Kasgan that there's a jetpack available. Kasgan takes a strain to cruise up the stairs, puts on the jetpack, and hits the "go" button. He makes it out the window and seems to have good control, but forgot to check the fuel level. Oops, the jetpack has no gas...
+
+Meanwhile, Ohesha is seeing what she can do from a control panel. She activates a small probe droid, and instructs it to chase Marcolf. 
+
+Marcolf, who has turned around to face Gungi, asks how we know Warde's name. 
+
+Gungi and Marcolf have a chat about Marcolf's mission from Warde, and that Marcolf has become a tyrant. 
+
+Gungi tries to convince Marcolf that Warde's mission has gone astray, and that the Jedi need to band together to fight the new empire. 
+
+Marcolf brandishes his lightsaber. He realizes that Gungi and Ifa are Jedi, and lied about how much they knew of the holocron. 
+
+Gungi tells Marcolf that it's time for a new phase of his life - it's time to let the planet's politics return to normal.
+
+Marcolf is tough to convince with diplomacy, and stands his ground: he is the heir to Warde's legacy, even if the city is in revolt. Ifa responds by bringing out Warde's holocron, stating that Tyrany isn't what Warde would have wanted, and turns on the Holocron. 
+
+Warde, from the Holocron, examines the situation, and states that the situation is very interesting.
+
+Marcolf is surprised. Warde states his identity, and states that Marcolf doesn't deserve the teachings in the Holocron. Marcolf responds poorly, and decides to take the holocron by force. 
+
+## Roll initiative! 
+
+### Round 1. FIGHT!
+
+Kasgan starts us off by trying to pilot his sputtering jetpack to some good ground.
+
+AND ROLLS A TRIUMP BABY!!!
+
+Because of his triump, Kasgan is allowed to take a shot.
+
+AND ROLLS ANOTHER TRIUMP BABY!!! This is getting out of hand.
+
+Kasgan also rolls enough advantages to knock Marcolf down. With his triumph, he rolls a crit, and gets... 107. That's enough good luck for the day. Marcolf takes a lot of damage, and suffers -1 willpower until he's cured of his critical injury.
+
+Ifa (with Gungi accompanying for lightsaber security) approaches Marcolf, and tries to convince him to stand down. She overpowers Marcolf's now diminished willpower, and uses the Influence power to make him feel tranquil for a turn.
+
+Gungi escorted Ifa towards Marcolf, and moves to Engaged range. He doesn't want to hurt Marcolf too gravely, so aims to attack Marcolf's lightsaber itself. Gungi successfully hits the lightsaber for some damage, but doesn't quite disable it.
+
+Marcolf still feels at peace, so tries talking to the holocron. Ifa doesn't want to hand him the holocron, so he just tries talking at the holocron.
+
+Looking through the security systems, Ohesha figures that the mannor is mostly empty of guards; the revolt has pretty firmly succeeded so far. She monitors the front door, and keeps online with the probe droid. 
+
+### Round 2
+
+Kasgan tries to use his misdirect power to fool Marcolf into seeing Warde. It fails big-time.
+
+Gungi tries to disarm Warde. It fails small-time.
+
+Ifa punches Marcolf in the face. She hits him for three damage. Marcolf's nose hurts.
+
+Marcolf's turn. He:
+ - Plunges his lightsaber into the branch
+ - Grabs Ifa's leg
+ - Jumps off the side of the branch, dragging the lightsaber down as he goes.
+
+Ifa, Gungi, and Kasgan roll coordination to avoid going down with Marcolf. Marcolf lands on some branches below: the branch goes down when Marcolf does, and Kasgan goes down with it! Kasgan takes a bunch of strain and wound.
+
+Ohesha checks up on Kasgan with the probe droid. She sees that Marcolf has gracefully landed, and that Kasgan is conscious with his shotgun in hand. Ohesha looks in control panel for any mentions of kyber krystals, but only finds references to the one in Marcolf's lightsaber.
+
+Jarlo notices that gunfire is dying down, so runs downstairs to find rebel soldiers to glide in and help against Marcolf. Some soldiers assemble.
+
+### Round 3
+
+Kasgan activates a stimpack. Berserker time. He tries to leap onto Marcolf's branch, and rolls athletics to do so. He succeeds in closing the distance to Marcolf, and attacks him with the vibro-knife. He rolls successfully, but Marcolf (preparied for the attack) manages to parry. with his lightsaber.
+
+Ifa tries to coerce Marcolf into yielding, using her Coercive Emotion power. Marcolf is now looking at severe combat penalties, as Ifa strains her will against his.
+
+Gungi manages to jump down to Marcolf with only minimal strain for doing it. He tries again to disarm Marcolf, and this time, succeeds! The lightsaber flings off into the trees. 
+
+Marcolf tackles into Kasgan, but Kasgan successfully takes control of the brawl with a very lucky roll. Kasgan throws Marcolf off the branch, and Marcolf goes plunging into the depths. 
+
+Marcolf lies motionless on the ground. Some rebels gather around Marcolf, who is dead. Representatives from both families are there, and can certainly verify that Marcolf is out of the picture.
+
+### Marcolf is dead, woops
+
+Back into town to deal with cleaning up the revolt! The falling guard shack took out some houses and a temple, which sucks. 79 Injuries and 10 deaths, yikes. 
+
+Ohesha proposes spending some time in Quolos to clean up the mess, help some repairs, and commemorate the dead in the repaired temple. We end up spending a few weeks in town, setting up the bar for business, helping diplomatic transitions into power, etc.
+
+We also loot Marcolf's lifeless corpse; Gungi gets a cortosis sword, Kasgan gets some stun grenades. There's also a blaster pistol and armored robes, but nobody cares about those. There's also a kyber krystal!
+
+## Kyber crystal woop!
+
+Ifa takes the honors of putting the kyber crystal into the holocron. With the kyber crystal inserted, the gatekeeper has access to better teachings on foresight, and more of Warde's memories. 
+
+After arbooine, Warde was sent to Cato Neimoidia, which was a major droid production facility before the clone wars. 
+
+Before ending the session, we get 8000 credits from the earlier gun sales. A bunch of it goes to the town, but Kasgan takes 5000 credits to recoup the guns' purchase prices.
+
