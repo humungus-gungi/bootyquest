@@ -2337,3 +2337,175 @@ After arbooine, Warde was sent to Cato Neimoidia, which was a major droid produc
 
 Before ending the session, we get 8000 credits from the earlier gun sales. A bunch of it goes to the town, but Kasgan takes 5000 credits to recoup the guns' purchase prices.
 
+Session 22 
+=================
+
+The team asks their onboard encyclopedia (aka., space internet) to look up Cato Neimoidia, a planet in the Colonies region of the Galaxy. Ohesha and Ifa find that it is one of the most influencial "purse worlds", economically important planets in the Trade Federation. It is not the home world of the Neimodians, but it is one of their most important colonies. It was once a main manufacturing planet for the droids. Warde was going to be instrumental in the Republic's attack. The planet became less economically powerful since the Clone Wars, and is currently under the control of the Empire, with battledroid commissioning factories converted to create weapons and arms in addition to droids.
+
+The cities are unique: the planet has large pillars, with bridges built between. The surface of the planet is relatively untouched. There are both undercities and overcities - expansion happens vertically.  
+
+The team begins to scheme on how to reach the planet discretely - fortunately, their ship has been anonymized; despite the group being in high demand criminal-wise, they should at least be able to land. 
+
+## Will we be recognized?
+
+Jarlo is concerned that some people may recognize him from his porn videos - however, after a quick xenology check they remember that Neimodians have very different physiologies (in fact, they are raised in competitive hives where few survive). 
+
+The team agrees to do the ol' Ifa's a rich lady looking to buy stuff. While travelling, Ohesha and Gungi train with their lightsabers. 
+
+## Arrival at the planet: customs
+
+Jarlo: "Hello! This is the trade ship Questor Beauty coming in, requesting docking permission near the robot buying shops." 
+
+The Neimodian who answered the call thinks a moment, he asks if there is a dock you are registered for or if you are just heading to the market district. 
+
+Kasgan: "To the market district", 
+
+N: "That'll be 50 credits per day for parking. You'll have to submit to a customs inspection, we'll allow no restricted or large weaponry in the district but you can bring personal blasters. Do you have any questions?"
+
+J: "WHERE DO WE BUY ROBOTS?!"
+
+N: "Uhh, I don't buy robots..so...uh don't take your contraband out of the ship."
+
+K: "Can I get an exception on the grenades?"
+
+N: "No, leave them in your ship or you will be subject to fines and imprisonment." 
+
+J: "Thank you! You've been very helpful!" - he hangs up - "Have a good day!!!" 
+
+What counts as a contraband weapon? 
+
+The team packs up and gets ready to go:
+
+- **Jarlo**: Merchant clothes, pistol, backpack 
+- **Ifa**: Cortosis staff (as walking stick), hair wraps, concealing robes,
+- **Gungi**: Gungan shield (from Jarlo), shadow sheathed lightsaber, slave collar, shock gloves, backpack with wilderness, concealing robes
+- **Ohesha**: lighsaber in shadowsheath, armoured clothing
+- **Kasgan**: blaster pistols x2, armor
+
+The bridge city of Jorah stretches between two arches - it's a sprawl all over the bridge's surface. Walkways connect buildings at all levels, speeders zip around in the air nearby. The underside of the bridge shows descending buildings that mirror the above level - here, it is dark, bridges collapsed and crumbling, scarred by war. 
+
+They land in the merchant quarter, and a customs desk awaits them with two agents standing by. Jarlo knows the routine: "Hello customs agents, we'd like to come in and buy robots!"
+
+As the Crewty walks towards the customs agents, their eyes lock on Kasgan. One steps forward, the other raises a hand out and says, "What is this? Is this some kind of joke?"
+
+Jarlo: "What's the meaning of this? My pilot?"
+
+Kasgan attempts to misdirect their attention, trying to do it stealthily to look a lot like Jarlo. Fortunately, he has the **skills of a magician**, influencing one with misdirect. They seem much less suspicious of you. The other one, on the other hand, says to Jarlo: "Is he some kind of clone wars cosplayer?"
+
+Jarlo laughs it off, "Oh, you know he's such a good pilot, I have to just let him do whatever he wants!" He charmingly convinced them that Kasgan's just a naive idiot. 
+
+The customs agent admits that while there's technically nothing contraband about this, Kasgan won't go making any friends. Maybe he'll go change. "Well! Look at this! Your friend here has been selected for a random inspection!!"
+
+He takes Gungi's concealing robes and puts on his disguise kit. 
+
+While these customs agents are distracted, a couple of people have walked by without being scanned at this point. These two guards can't scan everyone, so they are currently looking at Kasgan. Ohesha and Gungi take their chance to sneak by without being scanned. The rest get through without any trouble after a scan. 
+
+Kasgan isn't so lucky - he receives an "extensive" scan, which eventually leads to his release.
+
+The Crewty wanders around looking for a curiosity shop, wandering by cantinas, shops for spacers, and a smattering of tourist shops - one of which caters to a crystal healing type crowd:   "Salazar's Crystal Emporium!"
+
+Wandering in, the Crewty is met with a beaded Neimoidian, Salazar herself!
+
+Salazar: "Come in! Come in! I'm sure we have anything you want!!!"
+
+Ifa: "Do you have anything that glows? Anything that are only known for their beauty? Ones that might glow blue or green, or gold?"
+
+S: "Oh! You have a fine taste, allow me to show you this fine crystal!" She pulls out a purple gem which glows in green, "This is infused with biolumenescent algae! It will change colours as it ages! Only 60,000 credits."
+
+Nothing that the crystal seller is showing us fits the bill. 
+
+Gungi: "We've heard of crystals that can resonate with the universe - have you heard of anything like that?"
+
+S: "There's chakras, mental energy crystals..and the force, of course, but we don't deal in those here."
+
+Jarlo: "I've heard of the Force! I wish to learn more, do you have anything like that?"
+
+S: "Not on this world." She starts looking very suspicious - the team has to do something to calm her down. 
+
+J: "Well, we're also looking for culinary salts!"
+
+S: "Oh yes! We have many, many salts! Some attune your soul, others attune your tastebuds"
+
+The team devolves into chaos once Salazar mentions that she sells coloured salts in any colour they might like. This obviously begins a huge fight about which would be best, and ultimately they all buy a pound of salt in each colour. This is far too much salt. 
+
+Jarlo buys orange, Gungi buys blue, Kasgan red..what a mess. 300 credits poorer, but at least their cafe has enough salt to last a lifetime. 
+
+The team wants to try getting to the underside of the city - they might be a little more Force-friendly there. How to get there? They reach out to Tazi and ask for directions. There's one path, not frequently used, they could take- away they go!
+
+A spiraling route that appears to have once been an elevator, but has since been replaced with a set of semi-functioning escalators. As the Crewty descalates, signs of human dwellings fade. They find themselves amongst ruined buildings and closed shops. A few groups hang around in public spaces, including one group surrounding swoop bikes. Children are running through the rubble, but otherwise there is little life. 
+
+Kasgan approaches the youths gathered around the bikes, "Hey youngsters - I've got something you might be interested in."
+
+"What do you want, old geezers? What could you have that we want? "
+
+K: "Agricultural products...you know, spice?"
+
+"Are you fresh off the boat? Coming in here, selling drugs? Hell....let's see it then."
+
+K: "Well I couldn't bring it in and I thought you might be able to help me out. I was hoping you could help us out...you can keep the spice if you help us out." 
+
+"Crystals? C'mon, what are you talking about..."
+
+Ifa: "We're hunting for something called a kyber crystal...we got no headway up above and we thought we could find those a little more resourceful."
+
+Most of the gang members laugh it off, but one's eyes narrow. He looks at Ifa and the rest of the group and says, "Are you guys...with these guys? Are you some kind of Jedi?"
+
+Everyone else tenses up at the word. 
+
+Ohesha laughs, "Do you think Jedi are the kind of people to be smuggling spice around?"
+
+"I've seen Jedi do worse" 
+
+Ifa: "We're no friends of the Empire."
+
+The group performs a joint charm check - they're appeased for now, but just barely (and because JARLO ROLLED A TRIUMPH WOOT!)
+
+"Look, don't go spouting out your mouth about Jedi. They showed up here at the clone wars, they were involved in the invasion of this planet. The Jedi are not to be trusted. Anything to do with the Jedi are not to be trusted."
+
+Jarlo: "Elsewhere as in..not this planet?"
+
+"We're not friends of the empire here. This occupation we've been forced to deal with? We're here trying to help the people on the ground. If you're willing to help us here on the ground, but you're strangers. You're talking about Empire enforcer mysticism - "
+
+Kasgan: "What do you need done on the ground?"
+
+Ifa: "That's our specialty"
+
+K: "We're very good at ... applying pressure."
+
+"We DO NOT need another war. We need medical attention, there's issues with drug addition..."
+
+I: "Are these people struggling because of the occupation?"
+
+"The city here used to be thriving, but now it's demolished. People are separated from their families when they were arrested by the Jedi. The Empire isn't harming us, they're trying, but we're still struggling. And I don't know what rebellion stuff you're spouting, but this conversation is over, okay? Just don't cause any trouble or the Crimson Treehawks - or our bosses, the White Scar Syndicate"
+
+Ohesha checks her underworld knowledge: it's a syndicate formed as a result of the occupation. They're a gang that seeks to help people out, maybe not so bad?
+
+The conversation is done - the team has a side bar and decides to align with the White Scar Syndicate if they can. "Can we set up a meeting with your bosses?"
+
+"Oh sure, let us just call these guys up, 'These randoms want to talk!', sure!"
+
+Ohesha: "We just want to help, just tell us what we can do to help you trust us."
+
+"Fine. I've got a guy around here who needs help, Kuto Jaral. It'll be dangerous...but..."
+
+The person lives very close by. The Crewty is still midway into the city, right up in the belly of the bridge. Few live here. The target lives in a modest home just outside of the commercial district. Let's help the random dude!!!
+
+At his home, an older Neimoidian answers the door with a simple but well tailored costume. "We're here from the Crimson Treehawks"
+
+Kuto: "Yes! I have a task which ... I'm willing to offer generous compensation for, I just can't do it myself .. I've been ignoring the problem for years... anyway, a number of my possessions remain in my ancestral home. They're still there, doing nobody any good."
+
+WINNEBAGO ADVENTURE!!! 
+
+K: "I can show you how to gain access to my estate below with the ship, but without this access, you have no place to land. I will give you specific instructions for my estate."
+
+BUT BEFORE THEY DO - they check the library. 
+
+Ohesha checks to see if the system is being surveilled while they search. There is a keylogger. Ruh roh. The personal computers here are very well monitored, and even some slicing would be difficult to do without alerting. 
+
+Here's what's going to happen. Others are going to run interference - deception/cunning can be used to distract the librarian censor and reduce the likelihood that Ifa will be caught while rolling her education check. 
+
+IFA TRIUMPH!!!! WOW!!!! 
+
+We learn that during the R's occupation, the city was under the control of three Jedi, including Suljo Warde. Warde arrested many people on suspicion of treason, which at the time was considered a dick move (and was felt to be unjustified by citizens). He took part in the ceasefire talks with the separatist diplomats in a secret location, but as the Crewty reads through the reports it seems that something went horribly wrong during the talks, leading to a bloody battle. Warde left immediately afterwards, and there is no other mention of the Jedi after this bloody battle. The military history describes how the trade federation attempted to take back the city after Suljo left, but it sounds like it was a stalemate until the Empire came up. Then it became a fully occupied planet.
+
+ 
