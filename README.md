@@ -2496,7 +2496,7 @@ Kuto: "Yes! I have a task which ... I'm willing to offer generous compensation f
 
 WINNEBAGO ADVENTURE!!! 
 
-K: "I can show you how to gain access to my estate below with the ship, but without this access, you have no place to land. I will give you specific instructions for my estate."
+Kuto: "I can show you how to gain access to my estate below with the ship, but without this access, you have no place to land. I will give you specific instructions for my estate."
 
 BUT BEFORE THEY DO - they check the library. 
 
@@ -2508,4 +2508,42 @@ IFA TRIUMPH!!!! WOW!!!!
 
 We learn that during the R's occupation, the city was under the control of three Jedi, including Suljo Warde. Warde arrested many people on suspicion of treason, which at the time was considered a dick move (and was felt to be unjustified by citizens). He took part in the ceasefire talks with the separatist diplomats in a secret location, but as the Crewty reads through the reports it seems that something went horribly wrong during the talks, leading to a bloody battle. Warde left immediately afterwards, and there is no other mention of the Jedi after this bloody battle. The military history describes how the trade federation attempted to take back the city after Suljo left, but it sounds like it was a stalemate until the Empire came up. Then it became a fully occupied planet.
 
- 
+
+SESSION 23!!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The team is heading to the undercity estate! The crew equips up and heads down in the Winnebago. Descending into the undercity, we see the consequences of the clone wars years ago - entire districts where buildings are destroyed or in disrepair. Walkways and bridges have collapsed. Eventually we arrive in a manor district, and come to the crumbling estate we've been sent to. The estate is a shell of its former glory. As we give the entry codes for the hangar, the doors fall right off the system. Kasgan puts us down in a parking spot which seems sturdy enough.
+
+The hangar is totally empty of ships, but there is a single door leading into the mansion. Through the door we descend some stairs into what was once a grand ballroom - the chandeliers have fallen through the floor, though. There is a creature sleeping on the ballroom floor, and has created a sort of nest from salvaged clothing and material. The creature is a gundart, a mamalian anthropoid! It has two legs, four arms, and massive ears. The nest probably has a bunch of babies. Normally they live in groups, can be quite viscious, and are quite hardy. The creatures is in between us and the stairway down to the basement, with the vault...
+
+Instead of trying to sneak past the creature, or trying to sedate it, the crew explores the manor. We flip a light side point to find an area of the manor with a hole in the floor, which has access to the basement below. Ifa gets some knots into a rope for easy climbing, and secures the rope to the room. Kasgan makes his way down the rope!
+
+Once Kasgan's feet are on the ground, the ground itself starts crumbling! Kasgan needs to scramble to good flooring. He rolls athletics to keep from falling to his death and ROLLS A TRIUMPH WOO! With his triumph, Kasgan figures out which floorboards in the room are the ones to avoid, but the room can't take too much weight worth of people. 
+
+On the other end of the basement is a safe! It's biometric. On Oesha is called down to help with the safe. She rolls 3 successes on a skullduggery check. The safe holds several datapads with pictures, a locket, a box full of nicknacks, and some old expired war bonds. 
+
+As we're leaving the basement with our collection of goods, T4Z1 gives us a call on behalf of Oswald Flanigan! Oswald wants to talk to Kasgan, and Kasgan only. I guess we'll call Oswald back in a bit.
+
+We get ourselves, and the contents of the safe, up to the Winnebago. Oesha takes a look through the contents of the safe. The photographs obviously include him, including pictures of him being friendly with the trade federation. We make our way back to the Questor Booty, where there's a crowd formed at the landing pad!!! They've surrounded T4Z1, and are armed. Oh no! We land the Winnegego at medium range away from the edge of the crowd. The crowd takes cover when the ship lands, but one man keeps an arm around T4Z1. He shouts out to us:
+
+Main thug: "KASGAN GON!"
+
+Kasgan: "What?"
+
+Main thug: "You owe my employer money, and we need to know where it is. You owe us 50 thousand credits - 40 for me, and 10 for my personal fee."
+
+The thug is accompanied by about 7 goons. His employer contracted Kasgan to send weaponry to Marcolf, and they want money back. 
+
+So we wire his employer 40 thousand credits, and walk 10 thousand over to the thugs. 
+
+Main thug: "Thanks, I'll need a hostage while we get back to our ship"
+
+"No, bye."
+
+Thugs: Scamper off
+
+Now that the mercenaries are sent off, we head inside to call Oswald. Oesha hugs T4Z1, checks him out for tracking devices, and gets to work backing up his personality. 
+
+Time to call Oswald! Oswald is frantically trying to alert Kasgan about the mercenaries coming to shake him down. Now that they've been dealt with, so Oswald is relieved. Oswald had been imprisoned by the weapons vendor. Oswald and Kasgan awkwardly discuss doing business on the bird planet, and it's REALLY OBVIOUS KASGAN AND OSWALD ARE UP TO NONSENSE!
+
+That's all for these mercenaries!! And Oswald I suppose. We're going back to Kuto, who is absolutely elated to receive his failey heirlooms. Yay!!
